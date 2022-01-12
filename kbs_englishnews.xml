@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 07:23:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 08:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : North Korea claims the successful launch of another hypersonic missile, saying it was aimed at the final verification of technical specifications.) - 2022.01.12 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/923</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/923</guid>
+            <pubDate>Wed, 12 Jan 2022 08:20:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220112_112/1641975232507tgRwr_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : North Korea fires an unidentified projectile toward the East Sea, only six days after the launch of what it called a "hypersonic missile.") - 2022.01.11 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/922</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/919</guid>
             <pubDate>Wed, 12 Jan 2022 07:23:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220108_102/1641629640436xehj5_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The government seeks to revamp COVID-19  antivirus measures, taking into account that the omicron variant could become the dominant strain.) - 2022.01.07 PM5]]></title>
@@ -71,13 +78,6 @@
             <title><![CDATA[News(Top News : President Moon Jae-in delivers his final New Year's Address and stresses unity regarding the upcoming presidential election.) - 2022.01.03 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/914</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/914</guid>
-            <pubDate>Wed, 12 Jan 2022 07:23:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2022.01.02 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/913</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/913</guid>
             <pubDate>Wed, 12 Jan 2022 07:23:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
