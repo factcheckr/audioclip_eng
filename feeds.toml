@@ -17,3 +17,13 @@ linkSelector = "a.end_player_title"
 contentSelector = "span.detail_playtime"
 imageSelector = "img.thumb_image"
 waitUntil = "networkidle"
+
+[kbs_englishnews]
+title = "오디오클립 ─ KBS English News"
+url = "https://audioclip.naver.com/channels/3232"
+entrySelector = "div.end_player_list div.list_item"
+titleSelector = "a.end_player_title"
+linkSelector = "a.end_player_title"
+contentSelector = "span.detail_playtime"
+imageSelector = "img.thumb_image"
+waitUntil = "networkidle"
