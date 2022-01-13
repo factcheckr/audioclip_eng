@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 05:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 06:20:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Get ready for meme war]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1580</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1580</guid>
+            <pubDate>Thu, 13 Jan 2022 06:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220113_101/1642051765377FErbr_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[A little thin on the top]]></title>
             <link>https://audioclip.naver.com/channels/259/clips/1579</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1576</guid>
             <pubDate>Wed, 12 Jan 2022 07:23:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220107_197/1641517917464e68j8_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[New York greets the New Year]]></title>
@@ -71,13 +78,6 @@
             <title><![CDATA[A battle for freedom]]></title>
             <link>https://audioclip.naver.com/channels/259/clips/1571</link>
             <guid>https://audioclip.naver.com/channels/259/clips/1571</guid>
-            <pubDate>Wed, 12 Jan 2022 07:23:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Like an excavator at the canal]]></title>
-            <link>https://audioclip.naver.com/channels/259/clips/1570</link>
-            <guid>https://audioclip.naver.com/channels/259/clips/1570</guid>
             <pubDate>Wed, 12 Jan 2022 07:23:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
         </item>
