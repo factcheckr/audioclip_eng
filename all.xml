@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 07:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 08:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2022.01.15 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/926</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/926</guid>
+            <pubDate>Sat, 15 Jan 2022 08:20:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220115_6/16422326488388HgqV_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : North Korea fires two suspected ballistic missiles in its third and fourth test launches in a little over a week.) - 2022.01.14 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/925</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/925</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/922</guid>
             <pubDate>Wed, 12 Jan 2022 07:23:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220111_146/16418888417958F7dy_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : While the COVID-19 pass system is expanded to department stores and large-scale retailers, the government considers partial easing of social distancing amid a let-up in daily infections.) - 2022.01.10 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -219,13 +226,6 @@
             <title><![CDATA[News(Top News : North Korea says the projectile it launched was a hypersonic missile.) - 2022.01.06 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/917</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/917</guid>
-            <pubDate>Wed, 12 Jan 2022 07:23:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : North Korea fires a projectile believed to be a ballistic missile into the East Sea after which President Moon Jae-in emphasizes dialogue.) - 2022.01.05 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/916</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/916</guid>
             <pubDate>Wed, 12 Jan 2022 07:23:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
