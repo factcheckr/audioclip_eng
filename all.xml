@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 07:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 08:20:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2022.01.16 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/927</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/927</guid>
+            <pubDate>Sun, 16 Jan 2022 08:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220116_129/1642320830167yqJma_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News - 2022.01.15 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/926</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/926</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/923</guid>
             <pubDate>Wed, 12 Jan 2022 08:20:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220112_112/1641975232507tgRwr_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : North Korea fires an unidentified projectile toward the East Sea, only six days after the launch of what it called a "hypersonic missile.") - 2022.01.11 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -219,13 +226,6 @@
             <title><![CDATA[News(Top News : The government seeks to revamp COVID-19  antivirus measures, taking into account that the omicron variant could become the dominant strain.) - 2022.01.07 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/918</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/918</guid>
-            <pubDate>Wed, 12 Jan 2022 07:23:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : North Korea says the projectile it launched was a hypersonic missile.) - 2022.01.06 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/917</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/917</guid>
             <pubDate>Wed, 12 Jan 2022 07:23:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
