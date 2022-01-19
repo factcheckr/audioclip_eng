@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 07:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 08:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : President Moon Jae-in discusses the possible export of weapons and nuclear reactors during his meeting with Saudi Arabian Crown Prince Mohammed bin Salman in Riyadh.) - 2022.01.19 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/930</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/930</guid>
+            <pubDate>Wed, 19 Jan 2022 08:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220119_168/1642580036906Llfew_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : The government plans to grant expemption from the COVID-19 pass system to more people and announce details this week.) - 2022.01.18 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/929</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/926</guid>
             <pubDate>Sat, 15 Jan 2022 08:20:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220115_6/16422326488388HgqV_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : North Korea fires two suspected ballistic missiles in its third and fourth test launches in a little over a week.) - 2022.01.14 PM5]]></title>
@@ -71,13 +78,6 @@
             <title><![CDATA[News(Top News : While the COVID-19 pass system is expanded to department stores and large-scale retailers, the government considers partial easing of social distancing amid a let-up in daily infections.) - 2022.01.10 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/921</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/921</guid>
-            <pubDate>Wed, 12 Jan 2022 07:23:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2022.01.09 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/920</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/920</guid>
             <pubDate>Wed, 12 Jan 2022 07:23:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
