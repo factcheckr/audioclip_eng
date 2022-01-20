@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 07:15:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 08:19:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : North Korea hints a lifting its moratorium on ICBM and nuclear tests, citing thinning patience over what it calls U.S. hostile policy.) - 2022.01.20 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/931</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/931</guid>
+            <pubDate>Thu, 20 Jan 2022 08:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220120_259/1642666434306cd4lC_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : President Moon Jae-in discusses the possible export of weapons and nuclear reactors during his meeting with Saudi Arabian Crown Prince Mohammed bin Salman in Riyadh.) - 2022.01.19 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/930</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/930</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/927</guid>
             <pubDate>Sun, 16 Jan 2022 08:20:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220116_129/1642320830167yqJma_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.01.15 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -219,13 +226,6 @@
             <title><![CDATA[News(Top News : North Korea fires an unidentified projectile toward the East Sea, only six days after the launch of what it called a "hypersonic missile.") - 2022.01.11 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/922</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/922</guid>
-            <pubDate>Wed, 12 Jan 2022 07:23:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : While the COVID-19 pass system is expanded to department stores and large-scale retailers, the government considers partial easing of social distancing amid a let-up in daily infections.) - 2022.01.10 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/921</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/921</guid>
             <pubDate>Wed, 12 Jan 2022 07:23:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
