@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 08:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 09:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[President destined to failure (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1585</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1585</guid>
+            <pubDate>Mon, 24 Jan 2022 09:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220124_85/1643014906890czqqx_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Dreaming of Greater Russia (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/259/clips/1584</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1580</guid>
             <pubDate>Thu, 13 Jan 2022 06:20:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220113_101/1642051765377FErbr_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[A little thin on the top (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
@@ -71,13 +78,6 @@
             <title><![CDATA[New York greets the New Year (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/259/clips/1575</link>
             <guid>https://audioclip.naver.com/channels/259/clips/1575</guid>
-            <pubDate>Wed, 12 Jan 2022 07:23:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[What makes life truly meaningful? (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/259/clips/1574</link>
-            <guid>https://audioclip.naver.com/channels/259/clips/1574</guid>
             <pubDate>Wed, 12 Jan 2022 07:23:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
         </item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : President Moon stresses a swift transition into a new quarantine system after the omicron variant was confirmed the dominiant strain in the country.) - 2022.01.24 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/935</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/935</guid>
+            <pubDate>Mon, 24 Jan 2022 09:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220124_3/1643015623738sXKTL_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News - 2022.01.23 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/934</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/934</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/931</guid>
             <pubDate>Thu, 20 Jan 2022 08:19:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220120_259/1642666434306cd4lC_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : President Moon Jae-in discusses the possible export of weapons and nuclear reactors during his meeting with Saudi Arabian Crown Prince Mohammed bin Salman in Riyadh.) - 2022.01.19 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/926</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/926</guid>
             <pubDate>Sat, 15 Jan 2022 08:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : North Korea fires two suspected ballistic missiles in its third and fourth test launches in a little over a week.) - 2022.01.14 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/925</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/925</guid>
-            <pubDate>Fri, 14 Jan 2022 08:21:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
