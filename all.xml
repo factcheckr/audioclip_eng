@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 07:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 08:18:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : The ruling and opposition parties continue to wrangle over presidential candidate debates.) - 2022.01.28 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/939</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/939</guid>
+            <pubDate>Fri, 28 Jan 2022 08:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220128_158/1643357648285WJJp1_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : North Korea again launches projectiles presumed to be short-range ballistic missiles toward the East Sea.) - 2022.01.27 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/938</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/938</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/935</guid>
             <pubDate>Mon, 24 Jan 2022 09:14:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220124_3/1643015623738sXKTL_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.01.23 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/930</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/930</guid>
             <pubDate>Wed, 19 Jan 2022 08:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The government plans to grant expemption from the COVID-19 pass system to more people and announce details this week.) - 2022.01.18 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/929</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/929</guid>
-            <pubDate>Tue, 18 Jan 2022 08:21:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
