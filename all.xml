@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 07:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 08:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2022.01.29 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/940</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/940</guid>
+            <pubDate>Sat, 29 Jan 2022 08:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220129_149/1643444069844HSU2i_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : The ruling and opposition parties continue to wrangle over presidential candidate debates.) - 2022.01.28 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/939</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/939</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/936</guid>
             <pubDate>Tue, 25 Jan 2022 08:19:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220125_123/1643098443513ApCt0_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : President Moon stresses a swift transition into a new quarantine system after the omicron variant was confirmed the dominiant strain in the country.) - 2022.01.24 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/931</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/931</guid>
             <pubDate>Thu, 20 Jan 2022 08:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : President Moon Jae-in discusses the possible export of weapons and nuclear reactors during his meeting with Saudi Arabian Crown Prince Mohammed bin Salman in Riyadh.) - 2022.01.19 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/930</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/930</guid>
-            <pubDate>Wed, 19 Jan 2022 08:18:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
