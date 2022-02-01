@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 07:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 08:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : Daily COVID-19 cases surpass 18-thousand for the first time in the nation since the outbreak began.) - 2022.02.01 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/943</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/943</guid>
+            <pubDate>Tue, 01 Feb 2022 08:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220201_73/1643703233755HyMCF_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News - 2022.01.31 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/942</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/942</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/939</guid>
             <pubDate>Fri, 28 Jan 2022 08:18:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220128_158/1643357648285WJJp1_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : North Korea again launches projectiles presumed to be short-range ballistic missiles toward the East Sea.) - 2022.01.27 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/934</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/934</guid>
             <pubDate>Sun, 23 Jan 2022 08:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2022.01.22 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/933</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/933</guid>
-            <pubDate>Sat, 22 Jan 2022 08:18:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
