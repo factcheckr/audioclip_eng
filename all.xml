@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 23:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 00:52:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Tesla and KakaoPay (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1589</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1589</guid>
+            <pubDate>Thu, 03 Feb 2022 00:52:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220203_53/1643847152812VRXxP_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Vetocracy vis-à-vis democracy (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/259/clips/1588</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1585</guid>
             <pubDate>Mon, 24 Jan 2022 09:14:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220124_85/1643014906890czqqx_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Dreaming of Greater Russia (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1579</guid>
             <pubDate>Wed, 12 Jan 2022 07:23:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘Stop and just do your job’ (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/259/clips/1578</link>
-            <guid>https://audioclip.naver.com/channels/259/clips/1578</guid>
-            <pubDate>Wed, 12 Jan 2022 07:23:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Vol.12_NATIONAL DEFENSE_국방 (오디오클립 ─ 뉴스프레소 월스트리트저널 에디션)]]></title>
