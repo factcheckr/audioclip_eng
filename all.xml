@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 08:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 09:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : South Korea reports record high new COVID-19 cases for the second day in a row at nearly 23-thousand amid a spike in omicron infections.) - 2022.02.03 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/945</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/945</guid>
+            <pubDate>Thu, 03 Feb 2022 09:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220203_184/1643877844505G7Fiy_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News - 2022.02.02 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/944</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/944</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/941</guid>
             <pubDate>Sun, 30 Jan 2022 08:17:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220130_36/1643528649969lUzif_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.01.29 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/936</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/936</guid>
             <pubDate>Tue, 25 Jan 2022 08:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : President Moon stresses a swift transition into a new quarantine system after the omicron variant was confirmed the dominiant strain in the country.) - 2022.01.24 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/935</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/935</guid>
-            <pubDate>Mon, 24 Jan 2022 09:14:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
