@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 07:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 08:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2022.02.05 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/947</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/947</guid>
+            <pubDate>Sat, 05 Feb 2022 08:15:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220205_289/1644047044079QgzKz_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : The government extends current social distancing rules by two more weeks as the daily caseload exceeds 27-thousand, setting a new record.) - 2022.02.04 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/946</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/946</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/943</guid>
             <pubDate>Tue, 01 Feb 2022 08:19:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220201_73/1643703233755HyMCF_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.01.31 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/938</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/938</guid>
             <pubDate>Thu, 27 Jan 2022 08:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Daily COVID-19 cases surpass 10-thousand for the first time spawned by the highly infectious omicron variant.) - 2022.01.26 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/937</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/937</guid>
-            <pubDate>Wed, 26 Jan 2022 08:18:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
