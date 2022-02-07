@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 07:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 08:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : The goverment shifts the focus of at-home treatment of COVID-19 patients to those aged 60 or older amid an explosive increase in omicron cases.) - 2022.02.07 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/949</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/949</guid>
+            <pubDate>Mon, 07 Feb 2022 08:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220207_43/1644221643258evb64_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News - 2022.02.06 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/948</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/948</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/945</guid>
             <pubDate>Thu, 03 Feb 2022 09:15:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220203_184/1643877844505G7Fiy_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.02.02 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/940</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/940</guid>
             <pubDate>Sat, 29 Jan 2022 08:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The ruling and opposition parties continue to wrangle over presidential candidate debates.) - 2022.01.28 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/939</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/939</guid>
-            <pubDate>Fri, 28 Jan 2022 08:18:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
