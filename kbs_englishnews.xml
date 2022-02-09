@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 07:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 08:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News - 2022.02.09 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/951</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/951</guid>
+            <pubDate>Wed, 09 Feb 2022 08:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220209_35/1644394453380SDoBY_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : South Korea reports over 30-thousand new COVID-19 cases for the fourth consecutive day amid the rapid omicron spread.) - 2022.02.08 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/950</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/947</guid>
             <pubDate>Sat, 05 Feb 2022 08:15:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220205_289/1644047044079QgzKz_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The government extends current social distancing rules by two more weeks as the daily caseload exceeds 27-thousand, setting a new record.) - 2022.02.04 PM5]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/942</guid>
             <pubDate>Mon, 31 Jan 2022 08:19:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2022.01.30 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/941</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/941</guid>
-            <pubDate>Sun, 30 Jan 2022 08:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
     </channel>
 </rss>
