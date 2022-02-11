@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 07:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 08:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2022.02.11 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/953</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/953</guid>
+            <pubDate>Fri, 11 Feb 2022 08:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220211_286/1644567250905FEAlk_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : South Korea enforces a full-fledged at-home treatment system for mild COVID-19 patients amid the rapid spread of omicron.) - 2022.02.10 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/952</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/952</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/949</guid>
             <pubDate>Mon, 07 Feb 2022 08:19:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220207_43/1644221643258evb64_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.02.06 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -221,13 +228,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/944</guid>
             <pubDate>Wed, 02 Feb 2022 08:19:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Daily COVID-19 cases surpass 18-thousand for the first time in the nation since the outbreak began.) - 2022.02.01 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/943</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/943</guid>
-            <pubDate>Tue, 01 Feb 2022 08:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
 </rss>
