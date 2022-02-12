@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 07:14:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 08:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,7 +156,15 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[News - 2022.02.11 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <title><![CDATA[News - 2022.02.12 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/954</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/954</guid>
+            <pubDate>Sat, 12 Feb 2022 08:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220212_93/1644653637544kDVWX_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[News(Top News : The government is prohibiting online sales of COVID-19 test kits while considering a price ceiling.) - 2022.02.11 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/953</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/953</guid>
             <pubDate>Fri, 11 Feb 2022 08:18:32 GMT</pubDate>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/950</guid>
             <pubDate>Tue, 08 Feb 2022 08:18:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220208_289/16443080529977M3q5_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The goverment shifts the focus of at-home treatment of COVID-19 patients to those aged 60 or older amid an explosive increase in omicron cases.) - 2022.02.07 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -221,13 +228,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/945</guid>
             <pubDate>Thu, 03 Feb 2022 09:15:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2022.02.02 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/944</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/944</guid>
-            <pubDate>Wed, 02 Feb 2022 08:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
     </channel>
 </rss>
