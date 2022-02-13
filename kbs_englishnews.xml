@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 07:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 08:18:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News - 2022.02.13 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/955</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/955</guid>
+            <pubDate>Sun, 13 Feb 2022 08:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220213_152/16447400491359l47F_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News - 2022.02.12 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/954</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/951</guid>
             <pubDate>Wed, 09 Feb 2022 08:19:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220209_35/1644394453380SDoBY_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : South Korea reports over 30-thousand new COVID-19 cases for the fourth consecutive day amid the rapid omicron spread.) - 2022.02.08 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/946</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/946</guid>
             <pubDate>Fri, 04 Feb 2022 08:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : South Korea reports record high new COVID-19 cases for the second day in a row at nearly 23-thousand amid a spike in omicron infections.) - 2022.02.03 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/945</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/945</guid>
-            <pubDate>Thu, 03 Feb 2022 09:15:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
