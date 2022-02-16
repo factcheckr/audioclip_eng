@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 07:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 08:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : Daily COVID-19 cases jump by more than 30-thousand to above 90-thousand, prompting the prime minister to apologize.) - 2022.02.16 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/958</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/958</guid>
+            <pubDate>Wed, 16 Feb 2022 08:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220216_152/1644999261686iSc9Y_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : The campaign for the March 9 presidential election officially begins.) - 2022.02.15 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/957</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/954</guid>
             <pubDate>Sat, 12 Feb 2022 08:18:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220212_93/1644653637544kDVWX_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The government is prohibiting online sales of COVID-19 test kits while considering a price ceiling.) - 2022.02.11 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/949</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/949</guid>
             <pubDate>Mon, 07 Feb 2022 08:19:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2022.02.06 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/948</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/948</guid>
-            <pubDate>Sun, 06 Feb 2022 08:18:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
