@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 07:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 08:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : Daily COVID-19 cases hit a fresh high for the second day in a row at 93-thousand amid the rapid spread of the omicron variant.) - 2022.02.17 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/959</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/959</guid>
+            <pubDate>Thu, 17 Feb 2022 08:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220217_298/1645085648936Y17Ru_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : Daily COVID-19 cases jump by more than 30-thousand to above 90-thousand, prompting the prime minister to apologize.) - 2022.02.16 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/958</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/955</guid>
             <pubDate>Sun, 13 Feb 2022 08:18:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220213_152/16447400491359l47F_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.02.12 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/950</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/950</guid>
             <pubDate>Tue, 08 Feb 2022 08:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The goverment shifts the focus of at-home treatment of COVID-19 patients to those aged 60 or older amid an explosive increase in omicron cases.) - 2022.02.07 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/949</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/949</guid>
-            <pubDate>Mon, 07 Feb 2022 08:19:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
