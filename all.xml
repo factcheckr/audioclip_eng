@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 07:16:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 08:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : The government eases business curfews and ditches entry registration at multipurpose facilities, preferring to focus on high-risk groups as daily COVID-19 infections soar above 100-thousand.) - 2022.02.18 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/960</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/960</guid>
+            <pubDate>Fri, 18 Feb 2022 08:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220218_36/16451720375510PR7j_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : Daily COVID-19 cases hit a fresh high for the second day in a row at 93-thousand amid the rapid spread of the omicron variant.) - 2022.02.17 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/959</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/959</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/956</guid>
             <pubDate>Mon, 14 Feb 2022 08:19:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220214_109/1644826437561tGRNH_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.02.13 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/951</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/951</guid>
             <pubDate>Wed, 09 Feb 2022 08:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : South Korea reports over 30-thousand new COVID-19 cases for the fourth consecutive day amid the rapid omicron spread.) - 2022.02.08 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/950</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/950</guid>
-            <pubDate>Tue, 08 Feb 2022 08:18:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
