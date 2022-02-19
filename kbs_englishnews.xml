@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 07:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 08:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News - 2022.02.19 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/961</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/961</guid>
+            <pubDate>Sat, 19 Feb 2022 08:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220219_38/1645258444288sbPkC_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : The government eases business curfews and ditches entry registration at multipurpose facilities, preferring to focus on high-risk groups as daily COVID-19 infections soar above 100-thousand.) - 2022.02.18 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/960</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/957</guid>
             <pubDate>Tue, 15 Feb 2022 08:19:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220215_214/1644912870951vFJ4b_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Authorities announce plans for a fourth round of COVID-19 shots for immunocompromised people while warning of an expected spike in serious cases and fatalities.) - 2022.02.14 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/952</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/952</guid>
             <pubDate>Thu, 10 Feb 2022 08:18:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Daily COVID-19 infections approach 50-thousand, more than doubling from a week ago as the omicron variant spreads.) - 2022.02.09 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/951</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/951</guid>
-            <pubDate>Wed, 09 Feb 2022 08:19:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
