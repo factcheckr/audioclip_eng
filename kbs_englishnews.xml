@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Feb 2022 07:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 08:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News - 2022.02.26 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/968</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/968</guid>
+            <pubDate>Sat, 26 Feb 2022 08:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220226_2/1645863238614ceoLy_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : The presidential office reiterates that Seoul won't impose unilateral sacntions on Russia in relation to the Ukraine crisis, although it will be involved in international sanctions.) - 2022.02.25 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/967</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/964</guid>
             <pubDate>Fri, 25 Feb 2022 14:15:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220222_85/1645517680883VOGj3_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Daily COVID-19 cases still hover around 100-thousand as the nation reaches a grim milestone of two million cumulative cases.) - 2022.02.21 PM5]]></title>
@@ -71,13 +78,6 @@
             <title><![CDATA[News(Top News : Daily COVID-19 cases hit a fresh high for the second day in a row at 93-thousand amid the rapid spread of the omicron variant.) - 2022.02.17 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/959</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/959</guid>
-            <pubDate>Fri, 25 Feb 2022 14:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Daily COVID-19 cases jump by more than 30-thousand to above 90-thousand, prompting the prime minister to apologize.) - 2022.02.16 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/958</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/958</guid>
             <pubDate>Fri, 25 Feb 2022 14:15:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
