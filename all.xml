@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 07:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 08:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2022.02.27 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/969</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/969</guid>
+            <pubDate>Sun, 27 Feb 2022 08:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220227_148/1645949656062Lk5UQ_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News - 2022.02.26 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/968</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/968</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/965</guid>
             <pubDate>Fri, 25 Feb 2022 14:15:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220223_212/1645604043496siTEx_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : President Moon Jae-in says Ukraine's sovereignty must be respected after Russia reportedly ordered troop deployments into two breakaway regions in Ukraine.) - 2022.02.22 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -219,13 +226,6 @@
             <title><![CDATA[News(Top News : The government eases business curfews and ditches entry registration at multipurpose facilities, preferring to focus on high-risk groups as daily COVID-19 infections soar above 100-thousand.) - 2022.02.18 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/960</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/960</guid>
-            <pubDate>Fri, 25 Feb 2022 14:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Daily COVID-19 cases hit a fresh high for the second day in a row at 93-thousand amid the rapid spread of the omicron variant.) - 2022.02.17 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/959</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/959</guid>
             <pubDate>Fri, 25 Feb 2022 14:15:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
