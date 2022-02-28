@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 08:07:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 08:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : The COVID-19 pass system will be suspended at all multi-use facilities, including restaurants and cafes, from Tuesday.) - 2022.02.28 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/970</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/970</guid>
+            <pubDate>Mon, 28 Feb 2022 08:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220228_58/1646036044681w6vXX_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News - 2022.02.27 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/969</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/969</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/966</guid>
             <pubDate>Fri, 25 Feb 2022 14:15:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220224_37/16456904433152LWAU_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The Food and Drug Safety Ministry authorizes Pfizer's COVID-19 vaccine for kids aged five to eleven amid the rapid spread of the omicron variant.) - 2022.02.23 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -219,13 +226,6 @@
             <title><![CDATA[News - 2022.02.19 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/961</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/961</guid>
-            <pubDate>Fri, 25 Feb 2022 14:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The government eases business curfews and ditches entry registration at multipurpose facilities, preferring to focus on high-risk groups as daily COVID-19 infections soar above 100-thousand.) - 2022.02.18 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/960</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/960</guid>
             <pubDate>Fri, 25 Feb 2022 14:15:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
