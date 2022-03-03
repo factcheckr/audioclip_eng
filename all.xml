@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 09:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 10:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,7 +156,7 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[News - 2022.03.03 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <title><![CDATA[News(Top News :  People's Party candidate Ahn Cheol-soo withdraws from the presidential race and backs People Power Party's Yoon Suk Yeol, with a promise to merge their parties.) - 2022.03.03 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/973</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/973</guid>
             <pubDate>Thu, 03 Mar 2022 09:17:03 GMT</pubDate>
