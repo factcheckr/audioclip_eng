@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 07:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 09:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2022.03.03 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/973</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/973</guid>
+            <pubDate>Thu, 03 Mar 2022 09:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220303_245/1646295239336QuiUR_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : Even as daily COVID-19 cases top 200-thousand for the first time, the government considers easing social distancing rules to focus on critical cases.) - 2022.03.02 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/972</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/972</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/969</guid>
             <pubDate>Sun, 27 Feb 2022 08:18:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220227_148/1645949656062Lk5UQ_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.02.26 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -219,13 +226,6 @@
             <title><![CDATA[News(Top News : President Moon Jae-in says Ukraine's sovereignty must be respected after Russia reportedly ordered troop deployments into two breakaway regions in Ukraine.) - 2022.02.22 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/964</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/964</guid>
-            <pubDate>Fri, 25 Feb 2022 14:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Daily COVID-19 cases still hover around 100-thousand as the nation reaches a grim milestone of two million cumulative cases.) - 2022.02.21 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/963</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/963</guid>
             <pubDate>Fri, 25 Feb 2022 14:15:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
