@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 07:15:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 08:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : Early voting for the presidential election begins across the country, with the three main candidates and President Moon Jae-in taking part.) - 2022.03.04 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/974</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/974</guid>
+            <pubDate>Fri, 04 Mar 2022 08:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220304_221/1646381650335kEMWr_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News :  People's Party candidate Ahn Cheol-soo withdraws from the presidential race and backs People Power Party's Yoon Suk Yeol, with a promise to merge their parties.) - 2022.03.03 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/973</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/973</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/970</guid>
             <pubDate>Mon, 28 Feb 2022 08:20:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220228_58/1646036044681w6vXX_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.02.27 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -219,13 +226,6 @@
             <title><![CDATA[News(Top News : The Food and Drug Safety Ministry authorizes Pfizer's COVID-19 vaccine for kids aged five to eleven amid the rapid spread of the omicron variant.) - 2022.02.23 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/965</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/965</guid>
-            <pubDate>Fri, 25 Feb 2022 14:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : President Moon Jae-in says Ukraine's sovereignty must be respected after Russia reportedly ordered troop deployments into two breakaway regions in Ukraine.) - 2022.02.22 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/964</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/964</guid>
             <pubDate>Fri, 25 Feb 2022 14:15:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
