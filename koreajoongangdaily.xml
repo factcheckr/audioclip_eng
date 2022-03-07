@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 03:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 04:21:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The advent of hybrid warfare]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1607</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1607</guid>
+            <pubDate>Mon, 07 Mar 2022 04:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220307_12/1646623517313st12l_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Self-treatment for self-survival?]]></title>
             <link>https://audioclip.naver.com/channels/259/clips/1606</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1603</guid>
             <pubDate>Sat, 26 Feb 2022 16:21:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220225_120/1645765653610v0jg6_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Evolution of slinging mud]]></title>
@@ -71,13 +78,6 @@
             <title><![CDATA[The gray rhino is coming]]></title>
             <link>https://audioclip.naver.com/channels/259/clips/1598</link>
             <guid>https://audioclip.naver.com/channels/259/clips/1598</guid>
-            <pubDate>Sat, 26 Feb 2022 16:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Manners matter]]></title>
-            <link>https://audioclip.naver.com/channels/259/clips/1597</link>
-            <guid>https://audioclip.naver.com/channels/259/clips/1597</guid>
             <pubDate>Sat, 26 Feb 2022 16:21:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
         </item>
