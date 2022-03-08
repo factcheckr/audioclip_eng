@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 07:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 08:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2022.03.08 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/978</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/978</guid>
+            <pubDate>Tue, 08 Mar 2022 08:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220308_282/1646727242533z0P4i_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : Firefighters still struggle to extinguish a massive wildfire in Uljin, North Gyeongsang Province four days after the blaze began.) - 2022.03.07 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/977</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/977</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/974</guid>
             <pubDate>Fri, 04 Mar 2022 08:19:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220304_221/1646381650335kEMWr_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News :  People's Party candidate Ahn Cheol-soo withdraws from the presidential race and backs People Power Party's Yoon Suk Yeol, with a promise to merge their parties.) - 2022.03.03 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/969</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/969</guid>
             <pubDate>Sun, 27 Feb 2022 08:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2022.02.26 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/968</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/968</guid>
-            <pubDate>Sat, 26 Feb 2022 08:19:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
