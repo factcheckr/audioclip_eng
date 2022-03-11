@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 04:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 05:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Introducing electronic voting again]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1610</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1610</guid>
+            <pubDate>Fri, 11 Mar 2022 05:15:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220311_134/1646973521686FWYaV_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[War and the power of stories]]></title>
             <link>https://audioclip.naver.com/channels/259/clips/1609</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1606</guid>
             <pubDate>Fri, 04 Mar 2022 02:42:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220304_157/16463584059614QlbC_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Japan’s choice over Ukraine]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1601</guid>
             <pubDate>Sat, 26 Feb 2022 16:21:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Mending ties in hard time]]></title>
-            <link>https://audioclip.naver.com/channels/259/clips/1600</link>
-            <guid>https://audioclip.naver.com/channels/259/clips/1600</guid>
-            <pubDate>Sat, 26 Feb 2022 16:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
         </item>
     </channel>
 </rss>
