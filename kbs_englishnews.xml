@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 07:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 08:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News - 2022.03.12 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/982</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/982</guid>
+            <pubDate>Sat, 12 Mar 2022 08:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220312_124/1647072823546BbWwQ_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : President-elect Yoon Suk Yeol discloses plans for the transition committee and speaks with the Chinese ambassador to Seoul and the Japanese prime minister.) - 2022.03.11 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/981</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/978</guid>
             <pubDate>Tue, 08 Mar 2022 08:20:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220308_282/1646727242533z0P4i_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Firefighters still struggle to extinguish a massive wildfire in Uljin, North Gyeongsang Province four days after the blaze began.) - 2022.03.07 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/973</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/973</guid>
             <pubDate>Thu, 03 Mar 2022 09:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Even as daily COVID-19 cases top 200-thousand for the first time, the government considers easing social distancing rules to focus on critical cases.) - 2022.03.02 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/972</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/972</guid>
-            <pubDate>Wed, 02 Mar 2022 08:20:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
