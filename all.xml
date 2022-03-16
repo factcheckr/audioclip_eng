@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 07:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 08:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : North Korea fires a presumed ballistic missile in its tenth test this year, but the launch appears to have failed soon after takeoff.) - 2022.03.16 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/986</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/986</guid>
+            <pubDate>Wed, 16 Mar 2022 08:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220316_6/1647418453675WaWLp_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : President-elect Yoon Suk Yeol will meet with President Moon Jae-in on Wednesday and possibly ask him to pardon former President Lee Myung-bak.) - 2022.03.15 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/985</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/985</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/982</guid>
             <pubDate>Sat, 12 Mar 2022 08:19:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220312_124/1647072823546BbWwQ_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : President-elect Yoon Suk Yeol discloses plans for the transition committee and speaks with the Chinese ambassador to Seoul and the Japanese prime minister.) - 2022.03.11 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/977</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/977</guid>
             <pubDate>Mon, 07 Mar 2022 08:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2022.03.06 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/976</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/976</guid>
-            <pubDate>Sun, 06 Mar 2022 08:19:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
