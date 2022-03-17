@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 07:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 08:20:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : Daily COVID-19 infections soar by 220-thousand to a record 620-thousand while the number of deaths surpasses 400 for the first time.) - 2022.03.17 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/987</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/987</guid>
+            <pubDate>Thu, 17 Mar 2022 08:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220317_42/1647504850867XTtob_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : North Korea fires a presumed ballistic missile in its tenth test this year, but the launch appears to have failed soon after takeoff.) - 2022.03.16 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/986</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/986</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/983</guid>
             <pubDate>Sun, 13 Mar 2022 08:19:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220313_33/1647159239049157ha_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.03.12 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/978</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/978</guid>
             <pubDate>Tue, 08 Mar 2022 08:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Firefighters still struggle to extinguish a massive wildfire in Uljin, North Gyeongsang Province four days after the blaze began.) - 2022.03.07 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/977</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/977</guid>
-            <pubDate>Mon, 07 Mar 2022 08:20:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
