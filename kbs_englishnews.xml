@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 07:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 08:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : President-elect Yoon Suk Yeol prioritizes the general public and national interest at the first meeting of the transition team.) - 2022.03.18 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/988</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/988</guid>
+            <pubDate>Fri, 18 Mar 2022 08:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220318_58/1647591248390sjxJS_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : Daily COVID-19 infections soar by 220-thousand to a record 620-thousand while the number of deaths surpasses 400 for the first time.) - 2022.03.17 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/987</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/984</guid>
             <pubDate>Mon, 14 Mar 2022 08:20:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220314_175/1647245640212Dqion_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.03.13 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/979</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/979</guid>
             <pubDate>Wed, 09 Mar 2022 09:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : On the eve of the presidential election, President Moon Jae-in urges the public to vote.) - 2022.03.08 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/978</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/978</guid>
-            <pubDate>Tue, 08 Mar 2022 08:20:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
