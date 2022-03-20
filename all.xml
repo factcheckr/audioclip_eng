@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 07:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 08:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2022.03.20 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/990</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/990</guid>
+            <pubDate>Sun, 20 Mar 2022 08:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220320_197/1647762244221YCtRw_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News - 2022.03.19 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/989</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/989</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/986</guid>
             <pubDate>Wed, 16 Mar 2022 08:19:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220316_6/1647418453675WaWLp_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : President-elect Yoon Suk Yeol will meet with President Moon Jae-in on Wednesday and possibly ask him to pardon former President Lee Myung-bak.) - 2022.03.15 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/981</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/981</guid>
             <pubDate>Fri, 11 Mar 2022 08:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Yoon Suk Yeol of the main opposition People Power Party wins a tight presidential election, transferring power to the conservative bloc after just five years.) - 2022.03.10 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/980</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/980</guid>
-            <pubDate>Thu, 10 Mar 2022 08:20:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
