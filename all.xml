@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 07:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 08:21:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : President-elect Yoon Suk Yeol makes official his plan to push for another extra budget of the year to help small businesses hit hard by the protracted pandemic.) - 2022.03.22 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/992</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/992</guid>
+            <pubDate>Tue, 22 Mar 2022 08:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220322_254/16479368429137L4Wf_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : President-elect Yoon Suk Yeol decides to relocate the presidential office to Yongsan.) - 2022.03.21 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/991</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/991</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/988</guid>
             <pubDate>Fri, 18 Mar 2022 08:20:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220318_58/1647591248390sjxJS_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Daily COVID-19 infections soar by 220-thousand to a record 620-thousand while the number of deaths surpasses 400 for the first time.) - 2022.03.17 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/983</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/983</guid>
             <pubDate>Sun, 13 Mar 2022 08:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2022.03.12 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/982</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/982</guid>
-            <pubDate>Sat, 12 Mar 2022 08:19:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
