@@ -4,9 +4,25 @@
         <title>오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 07:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 08:21:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[A president who keeps promises]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1616</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1616</guid>
+            <pubDate>Wed, 23 Mar 2022 08:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220323_276/1648022443915Xs3Jr_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Looking forward to seeing a Tom Brady]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1615</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1615</guid>
+            <pubDate>Wed, 23 Mar 2022 08:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220323_36/1648022125769VXQXs_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[China’s rise and the luck factor]]></title>
             <link>https://audioclip.naver.com/channels/259/clips/1614</link>
@@ -29,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1612</guid>
             <pubDate>Thu, 17 Mar 2022 01:04:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220317_109/1647475741071Oekek_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Beijing’s bitter reaction]]></title>
@@ -37,7 +52,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1611</guid>
             <pubDate>Tue, 15 Mar 2022 03:18:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220315_5/16473126494885Fsiw_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Introducing electronic voting again]]></title>
@@ -65,20 +79,6 @@
             <link>https://audioclip.naver.com/channels/259/clips/1607</link>
             <guid>https://audioclip.naver.com/channels/259/clips/1607</guid>
             <pubDate>Mon, 07 Mar 2022 04:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Self-treatment for self-survival?]]></title>
-            <link>https://audioclip.naver.com/channels/259/clips/1606</link>
-            <guid>https://audioclip.naver.com/channels/259/clips/1606</guid>
-            <pubDate>Fri, 04 Mar 2022 02:42:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Japan’s choice over Ukraine]]></title>
-            <link>https://audioclip.naver.com/channels/259/clips/1605</link>
-            <guid>https://audioclip.naver.com/channels/259/clips/1605</guid>
-            <pubDate>Thu, 03 Mar 2022 05:15:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
         </item>
     </channel>
