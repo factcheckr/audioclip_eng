@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 07:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 08:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : North Korea fires off a long-range projectile, presuemd to be an intercontinental ballistic missile.) - 2022.03.24 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/994</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/994</guid>
+            <pubDate>Thu, 24 Mar 2022 08:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220324_253/16481096683300LLa5_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : President Moon Jae-in nominates a candidate for the Bank of Korea governor, after which the incoming administration refutes claims that the presidential office discussed the nomination.) - 2022.03.23 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/993</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/990</guid>
             <pubDate>Sun, 20 Mar 2022 08:19:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220320_197/1647762244221YCtRw_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.03.19 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/985</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/985</guid>
             <pubDate>Tue, 15 Mar 2022 08:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : President-elect Yoon Suk Yeol announces key transition team members, including People's Party chair Ahn Cheol-soo.) - 2022.03.14 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/984</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/984</guid>
-            <pubDate>Mon, 14 Mar 2022 08:20:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
