@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 07:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 08:20:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : North Korea says it test fired a new type of intercontinental ballistic missile, the Hwasong-17, on Thursday supervised by its leader Kim Jong-un.) - 2022.03.25 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/995</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/995</guid>
+            <pubDate>Fri, 25 Mar 2022 08:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220325_266/1648196043870PY3pq_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : North Korea fires off a long-range projectile, presuemd to be an intercontinental ballistic missile.) - 2022.03.24 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/994</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/991</guid>
             <pubDate>Mon, 21 Mar 2022 08:22:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220321_114/1647850449509dFB5D_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.03.20 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/986</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/986</guid>
             <pubDate>Wed, 16 Mar 2022 08:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : President-elect Yoon Suk Yeol will meet with President Moon Jae-in on Wednesday and possibly ask him to pardon former President Lee Myung-bak.) - 2022.03.15 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/985</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/985</guid>
-            <pubDate>Tue, 15 Mar 2022 08:20:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
