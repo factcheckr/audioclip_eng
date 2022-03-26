@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 07:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 08:19:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2022.03.26 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/996</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/996</guid>
+            <pubDate>Sat, 26 Mar 2022 08:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220326_107/1648282437027qgHaI_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : North Korea says it test fired a new type of intercontinental ballistic missile, the Hwasong-17, on Thursday supervised by its leader Kim Jong-un.) - 2022.03.25 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/995</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/995</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/992</guid>
             <pubDate>Tue, 22 Mar 2022 08:21:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220322_254/16479368429137L4Wf_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : President-elect Yoon Suk Yeol decides to relocate the presidential office to Yongsan.) - 2022.03.21 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/987</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/987</guid>
             <pubDate>Thu, 17 Mar 2022 08:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : North Korea fires a presumed ballistic missile in its tenth test this year, but the launch appears to have failed soon after takeoff.) - 2022.03.16 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/986</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/986</guid>
-            <pubDate>Wed, 16 Mar 2022 08:19:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
