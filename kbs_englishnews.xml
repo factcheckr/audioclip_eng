@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 07:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 08:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News - 2022.03.27 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/997</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/997</guid>
+            <pubDate>Sun, 27 Mar 2022 08:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220327_275/1648368846323xYVQT_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News - 2022.03.26 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/996</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/993</guid>
             <pubDate>Wed, 23 Mar 2022 08:21:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220323_26/1648023260008x8FCg_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : President-elect Yoon Suk Yeol makes official his plan to push for another extra budget of the year to help small businesses hit hard by the protracted pandemic.) - 2022.03.22 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/988</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/988</guid>
             <pubDate>Fri, 18 Mar 2022 08:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Daily COVID-19 infections soar by 220-thousand to a record 620-thousand while the number of deaths surpasses 400 for the first time.) - 2022.03.17 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/987</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/987</guid>
-            <pubDate>Thu, 17 Mar 2022 08:20:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
