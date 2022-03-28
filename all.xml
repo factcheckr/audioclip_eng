@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 07:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 08:22:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : President Moon Jae-in and President-elect Yoon Suk Yeol will hold their first meeting on Monday evening nearly three weeks after Yoon's election victory.) - 2022.03.28 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/998</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/998</guid>
+            <pubDate>Mon, 28 Mar 2022 08:22:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220328_208/1648455248787hAduM_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News - 2022.03.27 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/997</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/997</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/994</guid>
             <pubDate>Thu, 24 Mar 2022 08:20:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220324_253/16481096683300LLa5_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : President Moon Jae-in nominates a candidate for the Bank of Korea governor, after which the incoming administration refutes claims that the presidential office discussed the nomination.) - 2022.03.23 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/989</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/989</guid>
             <pubDate>Sat, 19 Mar 2022 08:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : President-elect Yoon Suk Yeol prioritizes the general public and national interest at the first meeting of the transition team.) - 2022.03.18 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/988</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/988</guid>
-            <pubDate>Fri, 18 Mar 2022 08:20:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
