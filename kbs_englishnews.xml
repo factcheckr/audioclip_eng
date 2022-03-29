@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 07:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 08:21:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : COVID-19 patients will be eligible for in-person treatments at all registered major hospitals and local clinics from next month.) - 2022.03.29 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/999</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/999</guid>
+            <pubDate>Tue, 29 Mar 2022 08:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220329_155/1648541641348ezj9W_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : President Moon Jae-in and President-elect Yoon Suk Yeol will hold their first meeting on Monday evening nearly three weeks after Yoon's election victory.) - 2022.03.28 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/998</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/995</guid>
             <pubDate>Fri, 25 Mar 2022 08:20:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220325_266/1648196043870PY3pq_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : North Korea fires off a long-range projectile, presuemd to be an intercontinental ballistic missile.) - 2022.03.24 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/990</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/990</guid>
             <pubDate>Sun, 20 Mar 2022 08:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2022.03.19 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/989</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/989</guid>
-            <pubDate>Sat, 19 Mar 2022 08:19:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
