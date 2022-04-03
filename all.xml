@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 07:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 08:19:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2022.04.03 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1004</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1004</guid>
+            <pubDate>Sun, 03 Apr 2022 08:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220403_26/1648973643296Tvkx8_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News - 2022.04.02 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1003</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1003</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1000</guid>
             <pubDate>Wed, 30 Mar 2022 08:21:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220330_16/16486280426006breU_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : COVID-19 patients will be eligible for in-person treatments at all registered major hospitals and local clinics from next month.) - 2022.03.29 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/995</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/995</guid>
             <pubDate>Fri, 25 Mar 2022 08:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : North Korea fires off a long-range projectile, presuemd to be an intercontinental ballistic missile.) - 2022.03.24 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/994</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/994</guid>
-            <pubDate>Thu, 24 Mar 2022 08:20:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
