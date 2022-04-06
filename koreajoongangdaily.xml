@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 01:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 02:55:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The power of ribbons]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1621</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1621</guid>
+            <pubDate>Wed, 06 Apr 2022 02:55:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220406_108/1649207831348rxYXi_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Predestined confusion in Shanghai]]></title>
             <link>https://audioclip.naver.com/channels/259/clips/1620</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1617</guid>
             <pubDate>Thu, 24 Mar 2022 02:48:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220323_174/1648022772741lgwe6_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[A president who keeps promises]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1612</guid>
             <pubDate>Thu, 17 Mar 2022 01:04:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Beijing’s bitter reaction]]></title>
-            <link>https://audioclip.naver.com/channels/259/clips/1611</link>
-            <guid>https://audioclip.naver.com/channels/259/clips/1611</guid>
-            <pubDate>Tue, 15 Mar 2022 03:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
         </item>
     </channel>
 </rss>
