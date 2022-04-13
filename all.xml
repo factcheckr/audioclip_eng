@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 08:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 09:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,7 +156,15 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[News - 2022.04.12 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <title><![CDATA[News(Top News : President-elect Yoon Suk Yeol nominates eight additional Cabinet posts, including a close ally as justice minister and four-term People Power Party lawmakers as foreign and unification ministers.) - 2022.04.13 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1014</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1014</guid>
+            <pubDate>Wed, 13 Apr 2022 09:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220413_289/1649841244926YWnU6_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[News(Top News : The ruling Democratic Party kicks off a debate to decide its formal position on depriving the prosecution of its investigative power.) - 2022.04.12 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1013</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1013</guid>
             <pubDate>Tue, 12 Apr 2022 10:20:37 GMT</pubDate>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1010</guid>
             <pubDate>Sat, 09 Apr 2022 08:20:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220409_267/164949025585178vxV_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : A vessel carrying six South Koreans goes missing in waters off Taiwan as a police helicopter crashes after dropping off search officials on a patrol boat headed to the waters.) - 2022.04.08 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1005</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1005</guid>
             <pubDate>Mon, 04 Apr 2022 08:21:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2022.04.03 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1004</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1004</guid>
-            <pubDate>Sun, 03 Apr 2022 08:19:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
