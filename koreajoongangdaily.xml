@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 03:05:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 04:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[A critical contradiction]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1625</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1625</guid>
+            <pubDate>Thu, 14 Apr 2022 04:20:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220414_23/1649904364757tWQmG_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Transition overshadowed by relocation]]></title>
             <link>https://audioclip.naver.com/channels/259/clips/1624</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1621</guid>
             <pubDate>Wed, 06 Apr 2022 02:55:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220406_108/1649207831348rxYXi_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Predestined confusion in Shanghai]]></title>
@@ -71,13 +78,6 @@
             <title><![CDATA[A president who keeps promises]]></title>
             <link>https://audioclip.naver.com/channels/259/clips/1616</link>
             <guid>https://audioclip.naver.com/channels/259/clips/1616</guid>
-            <pubDate>Wed, 23 Mar 2022 08:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Looking forward to seeing a Tom Brady]]></title>
-            <link>https://audioclip.naver.com/channels/259/clips/1615</link>
-            <guid>https://audioclip.naver.com/channels/259/clips/1615</guid>
             <pubDate>Wed, 23 Mar 2022 08:21:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
         </item>
