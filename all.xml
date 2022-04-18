@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 07:17:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 08:22:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : All social distancing measures are lifted amid a decline in new COVID-19 cases while the mask mandate remains in place.) - 2022.04.18 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1019</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1019</guid>
+            <pubDate>Mon, 18 Apr 2022 08:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220418_230/1650269651428XIyzK_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News - 2022.04.17 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1018</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1018</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1015</guid>
             <pubDate>Thu, 14 Apr 2022 09:19:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220414_20/1649925850145qWMuG_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : President-elect Yoon Suk Yeol nominates eight additional Cabinet posts, including a close ally as justice minister and four-term People Power Party lawmakers as foreign and unification ministers.) - 2022.04.13 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1010</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1010</guid>
             <pubDate>Sat, 09 Apr 2022 08:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : A vessel carrying six South Koreans goes missing in waters off Taiwan as a police helicopter crashes after dropping off search officials on a patrol boat headed to the waters.) - 2022.04.08 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1009</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1009</guid>
-            <pubDate>Fri, 08 Apr 2022 08:20:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
