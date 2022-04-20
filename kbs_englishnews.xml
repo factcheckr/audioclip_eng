@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 07:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 08:24:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : A Democratic Party lawmaker defects from the party in an attempt to help pass bills stripping the prosecution of their investigative powers.) - 2022.04.20 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1021</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1021</guid>
+            <pubDate>Wed, 20 Apr 2022 08:24:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220420_43/1650442445325TdxpU_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : Rival parties hold a parliamentary committee meeting for the second day, discussing prosecution reform bills on investigative power.) - 2022.04.19 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1020</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1017</guid>
             <pubDate>Sat, 16 Apr 2022 08:20:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220416_189/16500968469860WFx9_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : After more than two years, all social distancing restrictions will be lifted from Monday, except mandatory mask-wearing.) - 2022.04.15 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1012</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1012</guid>
             <pubDate>Mon, 11 Apr 2022 08:21:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2022.04.10 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1011</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1011</guid>
-            <pubDate>Sun, 10 Apr 2022 08:19:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
