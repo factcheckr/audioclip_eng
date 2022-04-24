@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 07:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 08:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2022.04.24 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1025</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1025</guid>
+            <pubDate>Sun, 24 Apr 2022 08:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220424_1/1650786265802LNa5e_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News - 2022.04.23 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1024</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1024</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1021</guid>
             <pubDate>Wed, 20 Apr 2022 08:24:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220420_43/1650442445325TdxpU_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Rival parties hold a parliamentary committee meeting for the second day, discussing prosecution reform bills on investigative power.) - 2022.04.19 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1016</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1016</guid>
             <pubDate>Fri, 15 Apr 2022 08:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : President-elect Yoon Suk Yeol nominates his agriculture and labor minister picks, rounding out his first Cabinet lineup of 18 ministers.) - 2022.04.14 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1015</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1015</guid>
-            <pubDate>Thu, 14 Apr 2022 09:19:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
