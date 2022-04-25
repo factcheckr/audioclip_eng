@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 07:17:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 08:25:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : The infectious disease level of COVID-19 is downgraded to Class Two amid the continued slowdown of the pandemic.) - 2022.04.25 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1026</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1026</guid>
+            <pubDate>Mon, 25 Apr 2022 08:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220425_194/1650874473002l2h5t_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News - 2022.04.24 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1025</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1025</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1022</guid>
             <pubDate>Thu, 21 Apr 2022 08:23:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220421_237/1650528855719c5Cjd_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : A Democratic Party lawmaker defects from the party in an attempt to help pass bills stripping the prosecution of their investigative powers.) - 2022.04.20 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1017</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1017</guid>
             <pubDate>Sat, 16 Apr 2022 08:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : After more than two years, all social distancing restrictions will be lifted from Monday, except mandatory mask-wearing.) - 2022.04.15 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1016</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1016</guid>
-            <pubDate>Fri, 15 Apr 2022 08:21:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
