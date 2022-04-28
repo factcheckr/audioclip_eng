@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 08:26:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 09:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2022.04.28 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1029</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1029</guid>
+            <pubDate>Thu, 28 Apr 2022 09:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220428_290/1651135442396h2MGd_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : National Assembly Speaker Park Byeong-seug calls for a plenary session after a last-ditch attempt by rival parties to close the gap on disputed prosecution reform bills falls through.) - 2022.04.27 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1028</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1028</guid>
@@ -164,7 +172,7 @@
             <enclosure url="https://audio-phinf.pstatic.net/20220427_294/1651047255027aA9L5_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[News - 2022.04.26 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <title><![CDATA[News(Top News : The floor leaders of the rival parties fail to iron out differences regarding the arbitrated prosecution reform revisions after the People Power Party withdrew its endorsement.) - 2022.04.26 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1027</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1027</guid>
             <pubDate>Tue, 26 Apr 2022 08:22:48 GMT</pubDate>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1025</guid>
             <pubDate>Sun, 24 Apr 2022 08:21:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220424_1/1650786265802LNa5e_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.04.23 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1020</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1020</guid>
             <pubDate>Tue, 19 Apr 2022 08:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : All social distancing measures are lifted amid a decline in new COVID-19 cases while the mask mandate remains in place.) - 2022.04.18 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1019</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1019</guid>
-            <pubDate>Mon, 18 Apr 2022 08:22:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
