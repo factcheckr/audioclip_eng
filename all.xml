@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 07:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 08:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2022.04.30 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1031</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1031</guid>
+            <pubDate>Sat, 30 Apr 2022 08:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220430_255/1651306450043J5GYv_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : The outdoor mask mandate will be lifted beginning Monday, one and a half years after the rules were imposed, but the incoming administration isn't happy with the timing.) - 2022.04.29 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1030</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1030</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1027</guid>
             <pubDate>Tue, 26 Apr 2022 08:22:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220426_191/1650960881575moDsN_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The infectious disease level of COVID-19 is downgraded to Class Two amid the continued slowdown of the pandemic.) - 2022.04.25 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1022</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1022</guid>
             <pubDate>Thu, 21 Apr 2022 08:23:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : A Democratic Party lawmaker defects from the party in an attempt to help pass bills stripping the prosecution of their investigative powers.) - 2022.04.20 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1021</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1021</guid>
-            <pubDate>Wed, 20 Apr 2022 08:24:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
