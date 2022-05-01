@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 07:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 08:21:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News - 2022.05.01 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1032</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1032</guid>
+            <pubDate>Sun, 01 May 2022 08:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220501_120/16513928592510Arbr_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News - 2022.04.30 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1031</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1028</guid>
             <pubDate>Wed, 27 Apr 2022 08:22:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220427_294/1651047255027aA9L5_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The floor leaders of the rival parties fail to iron out differences regarding the arbitrated prosecution reform revisions after the People Power Party withdrew its endorsement.) - 2022.04.26 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1023</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1023</guid>
             <pubDate>Fri, 22 Apr 2022 08:22:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The Democratic Party asks the parliamentary speaker to convene a plenary session on Friday, pushing ahead with reform bills that would strip the prosecution of its investigative authority.) - 2022.04.21 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1022</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1022</guid>
-            <pubDate>Thu, 21 Apr 2022 08:23:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
