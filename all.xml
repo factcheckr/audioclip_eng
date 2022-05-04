@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 07:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 08:22:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : North Korea fires a ballistic missile from the Sunan area in Pyongyang in its 14th provocation this year. South Korea condemns the launch as a blatant violation of UN Security Council resolutions.) - 2022.05.04 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1035</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1035</guid>
+            <pubDate>Wed, 04 May 2022 08:22:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220504_81/1651652047753x50S1_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : President Moon Jae-in promulgates two bills designed to reduce the prosecution's investigative power after the ruling party-led parliament completes the passage of the bills.) - 2022.05.03 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1034</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1034</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1031</guid>
             <pubDate>Sat, 30 Apr 2022 08:22:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220430_255/1651306450043J5GYv_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The outdoor mask mandate will be lifted beginning Monday, one and a half years after the rules were imposed, but the incoming administration isn't happy with the timing.) - 2022.04.29 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1026</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1026</guid>
             <pubDate>Mon, 25 Apr 2022 08:25:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2022.04.24 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1025</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1025</guid>
-            <pubDate>Sun, 24 Apr 2022 08:21:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
