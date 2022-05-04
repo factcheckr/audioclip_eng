@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 01:29:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 03:25:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Double standards for children]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1638</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1638</guid>
+            <pubDate>Wed, 04 May 2022 03:25:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220504_205/1651629473415UslUi_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[The essence of the U.S.-China rivalry]]></title>
             <link>https://audioclip.naver.com/channels/259/clips/1637</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1634</guid>
             <pubDate>Thu, 28 Apr 2022 02:00:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220428_164/1651109120347b2ccw_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Real estate dilemma for presidents]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/259/clips/1629</link>
             <guid>https://audioclip.naver.com/channels/259/clips/1629</guid>
             <pubDate>Wed, 20 Apr 2022 03:41:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[A truly brutal April in China]]></title>
-            <link>https://audioclip.naver.com/channels/259/clips/1628</link>
-            <guid>https://audioclip.naver.com/channels/259/clips/1628</guid>
-            <pubDate>Tue, 19 Apr 2022 06:21:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
         </item>
     </channel>
