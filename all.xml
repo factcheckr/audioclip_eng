@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 07:18:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 08:23:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2022.05.05 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1036</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1036</guid>
+            <pubDate>Thu, 05 May 2022 08:23:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220505_129/1651738512941rLgkm_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : North Korea fires a ballistic missile from the Sunan area in Pyongyang in its 14th provocation this year. South Korea condemns the launch as a blatant violation of UN Security Council resolutions.) - 2022.05.04 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1035</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1035</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1032</guid>
             <pubDate>Sun, 01 May 2022 08:21:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220501_120/16513928592510Arbr_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.04.30 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1027</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1027</guid>
             <pubDate>Tue, 26 Apr 2022 08:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The infectious disease level of COVID-19 is downgraded to Class Two amid the continued slowdown of the pandemic.) - 2022.04.25 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1026</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1026</guid>
-            <pubDate>Mon, 25 Apr 2022 08:25:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
