@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 07:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 08:22:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2022.05.07 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1038</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1038</guid>
+            <pubDate>Sat, 07 May 2022 08:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220507_201/1651911236493tGoDO_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : Two former presidential candidates - the DP's Lee Jae-myung and the PPP's Ahn Cheol-soo - enter the parliamentary by-elections set for June 1.) - 2022.05.06 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1037</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1037</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1034</guid>
             <pubDate>Tue, 03 May 2022 08:22:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220503_226/1651565646563J83LI_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The outdoor mask-wearing requirement is finally lifted.) - 2022.05.02 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1029</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1029</guid>
             <pubDate>Thu, 28 Apr 2022 09:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : National Assembly Speaker Park Byeong-seug calls for a plenary session after a last-ditch attempt by rival parties to close the gap on disputed prosecution reform bills falls through.) - 2022.04.27 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1028</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1028</guid>
-            <pubDate>Wed, 27 Apr 2022 08:22:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
