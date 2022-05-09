@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 01:28:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 03:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The true front of the Ukraine war]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1639</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1639</guid>
+            <pubDate>Mon, 09 May 2022 03:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220509_238/16520623683056YcCo_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Double standards for children]]></title>
             <link>https://audioclip.naver.com/channels/259/clips/1638</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1635</guid>
             <pubDate>Fri, 29 Apr 2022 03:25:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220429_8/1651197635764PADTP_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Anything but ‘anything but Moon’]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1630</guid>
             <pubDate>Thu, 21 Apr 2022 04:44:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Japan’s peace dilemma]]></title>
-            <link>https://audioclip.naver.com/channels/259/clips/1629</link>
-            <guid>https://audioclip.naver.com/channels/259/clips/1629</guid>
-            <pubDate>Wed, 20 Apr 2022 03:41:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
         </item>
     </channel>
 </rss>
