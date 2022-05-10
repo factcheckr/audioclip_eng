@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 07:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 08:23:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : President Yoon Suk Yeol pledges to rebuild the nation based on a liberal democracy and the market economy as he takes office as the 20th president.) - 2022.05.10 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1041</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1041</guid>
+            <pubDate>Tue, 10 May 2022 08:23:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220510_160/1652170551213Y1eLo_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : On his final day in office, President Moon jae-in wishes that the incoming government will inherit and advance the achievements of previous governments.) - 2022.05.09 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1040</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1037</guid>
             <pubDate>Sat, 07 May 2022 18:20:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220506_257/1651824842284QrlVq_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.05.05 PM5]]></title>
@@ -71,13 +78,6 @@
             <title><![CDATA[News - 2022.05.01 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1032</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1032</guid>
-            <pubDate>Sat, 07 May 2022 18:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2022.04.30 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1031</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1031</guid>
             <pubDate>Sat, 07 May 2022 18:20:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
