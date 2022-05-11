@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 07:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 08:24:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : The Yoon Suk Yeol administration agrees with the ruling party to pay at least six million won in COVID-19 relief to small businesses and self-employed people.) - 2022.05.11 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1042</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1042</guid>
+            <pubDate>Wed, 11 May 2022 08:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220511_144/1652256848262XNOKb_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol pledges to rebuild the nation based on a liberal democracy and the market economy as he takes office as the 20th president.) - 2022.05.10 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1041</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1041</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1038</guid>
             <pubDate>Sat, 07 May 2022 18:20:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220507_201/1651911236493tGoDO_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Two former presidential candidates - the DP's Lee Jae-myung and the PPP's Ahn Cheol-soo - enter the parliamentary by-elections set for June 1.) - 2022.05.06 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -219,13 +226,6 @@
             <title><![CDATA[News(Top News : The outdoor mask-wearing requirement is finally lifted.) - 2022.05.02 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1033</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1033</guid>
-            <pubDate>Sat, 07 May 2022 18:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2022.05.01 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1032</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1032</guid>
             <pubDate>Sat, 07 May 2022 18:20:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
