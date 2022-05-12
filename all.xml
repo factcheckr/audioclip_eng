@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 07:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 08:24:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : President Yoon Suk Yeol pushes ahead with the appointment of his foreign and interior ministers and approves the largest ever extra budget.) - 2022.05.12 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1043</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1043</guid>
+            <pubDate>Thu, 12 May 2022 08:24:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220512_175/1652343237893Hpc8v_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : The Yoon Suk Yeol administration agrees with the ruling party to pay at least six million won in COVID-19 relief to small businesses and self-employed people.) - 2022.05.11 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1042</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1042</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1039</guid>
             <pubDate>Sun, 08 May 2022 08:21:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220508_246/1651997644866qtQUd_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.05.07 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -219,13 +226,6 @@
             <title><![CDATA[News(Top News : President Moon Jae-in promulgates two bills designed to reduce the prosecution's investigative power after the ruling party-led parliament completes the passage of the bills.) - 2022.05.03 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1034</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1034</guid>
-            <pubDate>Sat, 07 May 2022 18:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The outdoor mask-wearing requirement is finally lifted.) - 2022.05.02 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1033</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1033</guid>
             <pubDate>Sat, 07 May 2022 18:20:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
