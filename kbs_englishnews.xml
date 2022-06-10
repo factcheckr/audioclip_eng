@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 06:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 08:23:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : President Yoon Suk Yeol will attend the NATO Summit set to open in Spain later this month. It will be Yoon's first overseas trip since taking office in May.) - 2022.06.10 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1072</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1072</guid>
+            <pubDate>Fri, 10 Jun 2022 08:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220610_86/16548488368350gPEY_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : The two Koreas clash at the UN over North Korea's missile provocations as the White House warns of a "robust response" to a possible nuclear test) - 2022.06.09 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1071</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1068</guid>
             <pubDate>Mon, 06 Jun 2022 08:20:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220606_163/1654503239070VyMLQ_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.06.05 PM5]]></title>
@@ -71,13 +78,6 @@
             <title><![CDATA[News - 2022.06.01 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1063</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1063</guid>
-            <pubDate>Sat, 04 Jun 2022 12:53:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : A day before the local elections are to be held nationwide, the election watchdog chief pledges fair and precise election management.) - 2022.05.31 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1062</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1062</guid>
             <pubDate>Sat, 04 Jun 2022 12:53:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
