@@ -4,9 +4,25 @@
         <title>오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 23:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 01:49:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The never-ending gun control conundrum]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1656</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1656</guid>
+            <pubDate>Tue, 14 Jun 2022 01:49:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220614_205/1655169948624GxMCW_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Balancing the meritocracy]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1655</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1655</guid>
+            <pubDate>Tue, 14 Jun 2022 01:49:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220614_296/16551696511445TSFa_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[The legacy of a father]]></title>
             <link>https://audioclip.naver.com/channels/259/clips/1654</link>
@@ -29,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1652</guid>
             <pubDate>Sat, 04 Jun 2022 12:53:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220602_181/1654136486460NzEXP_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Unconventional promotion]]></title>
@@ -37,7 +52,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1651</guid>
             <pubDate>Sat, 04 Jun 2022 12:53:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220531_221/1653983721572zvj4Y_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[The Son Heung-min route to success]]></title>
@@ -66,20 +80,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1647</guid>
             <pubDate>Sat, 04 Jun 2022 12:53:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Wishing peace on war-torn Kharkiv]]></title>
-            <link>https://audioclip.naver.com/channels/259/clips/1646</link>
-            <guid>https://audioclip.naver.com/channels/259/clips/1646</guid>
-            <pubDate>Sat, 04 Jun 2022 12:53:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[A warning about ‘the fall of the moon’]]></title>
-            <link>https://audioclip.naver.com/channels/259/clips/1645</link>
-            <guid>https://audioclip.naver.com/channels/259/clips/1645</guid>
-            <pubDate>Sat, 04 Jun 2022 12:53:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
         </item>
     </channel>
 </rss>
