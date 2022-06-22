@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 07:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 08:25:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : South Korea confirms its first case of monkeypox and raises the infectious disease alert by one notch from the lowest to the second-lowest level in a four-tier symptoms.) - 2022.06.22 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1084</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1084</guid>
+            <pubDate>Wed, 22 Jun 2022 08:25:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220622_290/1655885660267ILc7h_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : The country's homegrown space rocket, Nuri, is launched.) - 2022.06.21 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1083</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1083</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1080</guid>
             <pubDate>Sat, 18 Jun 2022 08:21:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220618_191/16555382588904DupQ_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol urges a firm response from the UN Security Council over North Korea's nuclear and missile development.) - 2022.06.17 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1075</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1075</guid>
             <pubDate>Mon, 13 Jun 2022 08:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2022.06.12 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1074</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1074</guid>
-            <pubDate>Sun, 12 Jun 2022 08:20:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
