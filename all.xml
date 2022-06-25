@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 07:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 08:21:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2022.06.25 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1087</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1087</guid>
+            <pubDate>Sat, 25 Jun 2022 08:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220625_150/1656144842045YEWVW_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : Up to 120 millimeters of monsoonal rains are forecast for Jeju until Sunday, while a heat wave is expected in most inland areas.) - 2022.06.24 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1086</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1086</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1083</guid>
             <pubDate>Tue, 21 Jun 2022 08:28:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220621_132/1655799261713H8sVi_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : South Korea's economic misery index hits a 21-year high amid rapid inflation.) - 2022.06.20 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1078</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1078</guid>
             <pubDate>Thu, 16 Jun 2022 08:26:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Unionized truck drivers end their eight-day strike after the government agrees to extend a minimum wage system for truck drivers.) - 2022.06.15 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1077</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1077</guid>
-            <pubDate>Wed, 15 Jun 2022 08:24:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
