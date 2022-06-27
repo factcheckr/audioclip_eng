@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 07:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 08:25:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : President Yoon Suk Yeol leaves for Spain to attend a NATO summit and meet with world leaders, including through a trilateral summit with the U.S. and Japan.) - 2022.06.27 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1089</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1089</guid>
+            <pubDate>Mon, 27 Jun 2022 08:25:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220627_279/1656317648853SiV5P_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News - 2022.06.26 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1088</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1088</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1085</guid>
             <pubDate>Thu, 23 Jun 2022 08:24:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220623_192/1655972071612HnC61_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : South Korea confirms its first case of monkeypox and raises the infectious disease alert by one notch from the lowest to the second-lowest level in a four-tier symptoms.) - 2022.06.22 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1080</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1080</guid>
             <pubDate>Sat, 18 Jun 2022 08:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : President Yoon Suk Yeol urges a firm response from the UN Security Council over North Korea's nuclear and missile development.) - 2022.06.17 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1079</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1079</guid>
-            <pubDate>Fri, 17 Jun 2022 08:23:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
