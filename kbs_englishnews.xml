@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 23:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 08:23:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : A blistering heat wave arrives after the monsoonal front moves up North, while a typhoon is expected to reach waters near Jeju Island early next week.) - 2022.07.01 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1093</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1093</guid>
+            <pubDate>Fri, 01 Jul 2022 08:23:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220701_197/1656663239724yiglp_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol agrees with his U.S. And Japanese counterparts to strengthen cooperation in responding to North Korea's nuclear and missile threats in a summit in Madrid.) - 2022.06.30 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1092</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1089</guid>
             <pubDate>Mon, 27 Jun 2022 08:25:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220627_279/1656317648853SiV5P_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.06.26 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1084</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1084</guid>
             <pubDate>Wed, 22 Jun 2022 08:25:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The country's homegrown space rocket, Nuri, is launched.) - 2022.06.21 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1083</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1083</guid>
-            <pubDate>Tue, 21 Jun 2022 08:28:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
