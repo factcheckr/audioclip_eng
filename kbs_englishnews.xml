@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 07:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 08:22:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : South Korea's inflation hits a newarly 24-year high in June at six percent.) - 2022.07.05 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1097</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1097</guid>
+            <pubDate>Tue, 05 Jul 2022 08:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220705_128/1657008850183uqRSv_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : Kim Jin-pyo, a five-term lawmaker of the main opposition Democratic Party is chosen as the new National Assembly speaker as the rival parties agree to normalize the parliament.  President Yoon Suk Yeol stresses solidarity of shared values as a solution to) - 2022.07.04 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1096</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1093</guid>
             <pubDate>Fri, 01 Jul 2022 08:23:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220701_197/1656663239724yiglp_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol agrees with his U.S. And Japanese counterparts to strengthen cooperation in responding to North Korea's nuclear and missile threats in a summit in Madrid.) - 2022.06.30 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1088</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1088</guid>
             <pubDate>Sun, 26 Jun 2022 08:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2022.06.25 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1087</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1087</guid>
-            <pubDate>Sat, 25 Jun 2022 08:21:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
