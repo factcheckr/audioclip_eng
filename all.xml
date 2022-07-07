@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 07:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 08:24:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : The Yoon Suk Yeol administration announces a plan to reduce the fiscal deficit to within three percent of the gross domestic product to improve fiscal soundness.) - 2022.07.07 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1099</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1099</guid>
+            <pubDate>Thu, 07 Jul 2022 08:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220707_242/1657181648262Prhl3_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : Health authorities report almost 20-thousand new COVID-19 cases, the largest number in 42 days.) - 2022.07.06 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1098</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1098</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1095</guid>
             <pubDate>Sun, 03 Jul 2022 08:20:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220703_185/1656836018618liMFi_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.07.02 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1090</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1090</guid>
             <pubDate>Tue, 28 Jun 2022 08:25:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : President Yoon Suk Yeol leaves for Spain to attend a NATO summit and meet with world leaders, including through a trilateral summit with the U.S. and Japan.) - 2022.06.27 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1089</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1089</guid>
-            <pubDate>Mon, 27 Jun 2022 08:25:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
