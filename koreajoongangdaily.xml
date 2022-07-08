@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 05:23:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 06:23:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The tragedy of family suicide]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1673</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1673</guid>
+            <pubDate>Fri, 08 Jul 2022 06:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220708_300/1657258751037hhlfD_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Warnings from melting glacier]]></title>
             <link>https://audioclip.naver.com/channels/259/clips/1672</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1669</guid>
             <pubDate>Mon, 04 Jul 2022 01:53:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220704_168/1656899266953Nj3rL_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[First lady is a diplomatic asset]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1664</guid>
             <pubDate>Mon, 27 Jun 2022 01:47:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Evolution of tea time]]></title>
-            <link>https://audioclip.naver.com/channels/259/clips/1663</link>
-            <guid>https://audioclip.naver.com/channels/259/clips/1663</guid>
-            <pubDate>Fri, 24 Jun 2022 05:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
         </item>
     </channel>
 </rss>
