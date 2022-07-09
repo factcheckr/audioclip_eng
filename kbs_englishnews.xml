@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Jul 2022 07:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 08:21:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News - 2022.07.09 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1101</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1101</guid>
+            <pubDate>Sat, 09 Jul 2022 08:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220709_171/165735264070143hT5_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : The People Power Party's ethic committee suspends the party membership of its chief for six months over allegations that he tried to destroy evidence related to sexual bribery.) - 2022.07.08 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1100</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1097</guid>
             <pubDate>Fri, 08 Jul 2022 04:40:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220705_128/1657008850183uqRSv_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Kim Jin-pyo, a five-term lawmaker of the main opposition Democratic Party is chosen as the new National Assembly speaker as the rival parties agree to normalize the parliament.  President Yoon Suk Yeol stresses solidarity of shared values as a solution to) - 2022.07.04 PM5]]></title>
@@ -71,13 +78,6 @@
             <title><![CDATA[News(Top News : President Yoon Suk Yeol agrees with his U.S. And Japanese counterparts to strengthen cooperation in responding to North Korea's nuclear and missile threats in a summit in Madrid.) - 2022.06.30 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1092</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1092</guid>
-            <pubDate>Fri, 08 Jul 2022 04:40:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : President Yoon Suk Yeol will meet with his U.S. And Japanese counterparts to discuss North Korea's nuclear and missile threats in the first trilateral summit in almost five years.) - 2022.06.29 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1091</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1091</guid>
             <pubDate>Fri, 08 Jul 2022 04:40:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
