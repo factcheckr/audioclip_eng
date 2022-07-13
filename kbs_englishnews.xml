@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 07:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 08:23:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : The Bank of Korea hikes the benchmark rate by 50 basis points, taking a so-called "big step" for the first time as it seeks to contain inflation.) - 2022.07.13 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1105</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1105</guid>
+            <pubDate>Wed, 13 Jul 2022 08:23:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220713_230/1657700035571JG8dG_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : Daily new COVID-19 caes in South Korea double from a week ago to rise above 30-thousand, hitting the largest daily total in 62 days.) - 2022.07.12 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1104</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1101</guid>
             <pubDate>Sat, 09 Jul 2022 08:21:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220709_171/165735264070143hT5_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The People Power Party's ethic committee suspends the party membership of its chief for six months over allegations that he tried to destroy evidence related to sexual bribery.) - 2022.07.08 PM5]]></title>
@@ -71,13 +78,6 @@
             <title><![CDATA[News(Top News : Kim Jin-pyo, a five-term lawmaker of the main opposition Democratic Party is chosen as the new National Assembly speaker as the rival parties agree to normalize the parliament.  President Yoon Suk Yeol stresses solidarity of shared values as a solution to) - 2022.07.04 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1096</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1096</guid>
-            <pubDate>Fri, 08 Jul 2022 04:40:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2022.07.03 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1095</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1095</guid>
             <pubDate>Fri, 08 Jul 2022 04:40:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
