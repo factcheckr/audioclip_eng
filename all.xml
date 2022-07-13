@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 05:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 06:25:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The end of Abenomics (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1676</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1676</guid>
+            <pubDate>Wed, 13 Jul 2022 06:24:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220713_82/1657691311516Ux9nd_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Sad reality of K-pop trainees (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/259/clips/1675</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1672</guid>
             <pubDate>Thu, 07 Jul 2022 07:17:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220707_128/16571770526174ilUB_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[‘Down the road of past dynasties’ (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1667</guid>
             <pubDate>Thu, 30 Jun 2022 07:14:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘Guanxi’ and the black society (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/259/clips/1666</link>
-            <guid>https://audioclip.naver.com/channels/259/clips/1666</guid>
-            <pubDate>Wed, 29 Jun 2022 06:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Vol.12_NATIONAL DEFENSE_국방 (오디오클립 ─ 뉴스프레소 월스트리트저널 에디션)]]></title>
