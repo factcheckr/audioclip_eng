@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 07:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 08:23:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : The South Korean currency reaches its lowest point in over 13 years amid global investors' continued flight to the dollar.) - 2022.07.15 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1107</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1107</guid>
+            <pubDate>Fri, 15 Jul 2022 08:23:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220715_94/1657872842083RbEJG_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol presides over an emergency financial and economy meeting and stresses measures to cushion the impact of the central bank's rate hike on the public.) - 2022.07.14 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1106</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1103</guid>
             <pubDate>Mon, 11 Jul 2022 08:23:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220711_129/1657527233134AO2Qn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.07.10 PM5]]></title>
@@ -71,13 +78,6 @@
             <title><![CDATA[News(Top News : Health authorities report almost 20-thousand new COVID-19 cases, the largest number in 42 days.) - 2022.07.06 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1098</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1098</guid>
-            <pubDate>Fri, 08 Jul 2022 04:40:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : South Korea's inflation hits a newarly 24-year high in June at six percent.) - 2022.07.05 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1097</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1097</guid>
             <pubDate>Fri, 08 Jul 2022 04:40:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
