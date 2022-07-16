@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 07:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 08:21:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2022.07.16 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1108</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1108</guid>
+            <pubDate>Sat, 16 Jul 2022 08:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220716_204/1657957440961Sjtl1_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : The South Korean currency reaches its lowest point in over 13 years amid global investors' continued flight to the dollar.) - 2022.07.15 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1107</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1107</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1104</guid>
             <pubDate>Tue, 12 Jul 2022 08:24:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220712_283/1657613632151W2WT6_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol appoints the country's new top financial regulator without a parliamentary hearing, citing many economic issues to be swiftly addressed.) - 2022.07.11 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -219,13 +226,6 @@
             <title><![CDATA[News(Top News : The Yoon Suk Yeol administration announces a plan to reduce the fiscal deficit to within three percent of the gross domestic product to improve fiscal soundness.) - 2022.07.07 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1099</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1099</guid>
-            <pubDate>Fri, 08 Jul 2022 04:40:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Health authorities report almost 20-thousand new COVID-19 cases, the largest number in 42 days.) - 2022.07.06 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1098</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1098</guid>
             <pubDate>Fri, 08 Jul 2022 04:40:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
