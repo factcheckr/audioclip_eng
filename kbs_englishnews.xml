@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Jul 2022 07:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 08:20:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News - 2022.07.17 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1109</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1109</guid>
+            <pubDate>Sun, 17 Jul 2022 08:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220717_187/1658043839903xq5Mj_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News - 2022.07.16 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1108</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1105</guid>
             <pubDate>Wed, 13 Jul 2022 08:23:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220713_230/1657700035571JG8dG_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Daily new COVID-19 caes in South Korea double from a week ago to rise above 30-thousand, hitting the largest daily total in 62 days.) - 2022.07.12 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1100</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1100</guid>
             <pubDate>Fri, 08 Jul 2022 08:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The Yoon Suk Yeol administration announces a plan to reduce the fiscal deficit to within three percent of the gross domestic product to improve fiscal soundness.) - 2022.07.07 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1099</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1099</guid>
-            <pubDate>Fri, 08 Jul 2022 04:40:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
