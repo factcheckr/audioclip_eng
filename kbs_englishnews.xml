@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 07:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 08:24:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : The government and the ruling party agree to actively handle tax reform issues amid concerns of an economic slowdown resulting from high inflation.) - 2022.07.18 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1110</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1110</guid>
+            <pubDate>Mon, 18 Jul 2022 08:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220718_118/1658132029845TGII0_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News - 2022.07.17 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1109</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1106</guid>
             <pubDate>Thu, 14 Jul 2022 08:23:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220714_40/1657786424847WJ3VH_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The Bank of Korea hikes the benchmark rate by 50 basis points, taking a so-called "big step" for the first time as it seeks to contain inflation.) - 2022.07.13 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1101</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1101</guid>
             <pubDate>Sat, 09 Jul 2022 08:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The People Power Party's ethic committee suspends the party membership of its chief for six months over allegations that he tried to destroy evidence related to sexual bribery.) - 2022.07.08 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1100</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1100</guid>
-            <pubDate>Fri, 08 Jul 2022 08:25:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
