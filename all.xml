@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 07:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 08:22:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : Foreign minister Park Jin relays President Yoon Suk Yeol's strong will to improve the strained Seoul-Tokyo relations to Japanese Prime Minister Fumio Kishida.) - 2022.07.19 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1111</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1111</guid>
+            <pubDate>Tue, 19 Jul 2022 08:22:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220719_113/1658218522519XOsFI_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : The government and the ruling party agree to actively handle tax reform issues amid concerns of an economic slowdown resulting from high inflation.) - 2022.07.18 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1110</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1110</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1107</guid>
             <pubDate>Fri, 15 Jul 2022 08:23:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220715_94/1657872842083RbEJG_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol presides over an emergency financial and economy meeting and stresses measures to cushion the impact of the central bank's rate hike on the public.) - 2022.07.14 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1102</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1102</guid>
             <pubDate>Sun, 10 Jul 2022 08:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2022.07.09 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1101</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1101</guid>
-            <pubDate>Sat, 09 Jul 2022 08:21:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
