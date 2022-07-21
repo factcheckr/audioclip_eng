@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 07:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 08:25:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : The maximum corporate tax rate will be lowered from 25 percent to 22 percent as the government revises a tax system to boost private sector growth.) - 2022.07.21 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1113</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1113</guid>
+            <pubDate>Thu, 21 Jul 2022 08:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220721_123/1658391252347cMu9V_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : Health authorities report more than 70-thousand new COVID-19 cases for the second day in a row while promising to secure four-thousand more hospital beds for infected people.) - 2022.07.20 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1112</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1109</guid>
             <pubDate>Sun, 17 Jul 2022 08:20:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220717_187/1658043839903xq5Mj_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.07.16 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1104</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1104</guid>
             <pubDate>Tue, 12 Jul 2022 08:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : President Yoon Suk Yeol appoints the country's new top financial regulator without a parliamentary hearing, citing many economic issues to be swiftly addressed.) - 2022.07.11 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1103</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1103</guid>
-            <pubDate>Mon, 11 Jul 2022 08:23:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
