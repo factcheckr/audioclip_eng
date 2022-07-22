@@ -4,9 +4,25 @@
         <title>오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 06:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 07:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Controversy over public viewing rights]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1683</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1683</guid>
+            <pubDate>Fri, 22 Jul 2022 07:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220722_274/1658472066244aTDui_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Deaths of despair]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1682</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1682</guid>
+            <pubDate>Fri, 22 Jul 2022 07:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220722_268/16584715597448vaVm_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Autism spectrum]]></title>
             <link>https://audioclip.naver.com/channels/259/clips/1681</link>
@@ -29,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1679</guid>
             <pubDate>Mon, 18 Jul 2022 06:24:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220718_108/1658123526356llAKG_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Secrets to lowering the Misery Index]]></title>
@@ -37,7 +52,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1678</guid>
             <pubDate>Fri, 15 Jul 2022 07:16:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220715_298/1657868453226H3FkU_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[A lone wolf terrorist]]></title>
@@ -66,20 +80,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1674</guid>
             <pubDate>Mon, 11 Jul 2022 07:16:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[The tragedy of family suicide]]></title>
-            <link>https://audioclip.naver.com/channels/259/clips/1673</link>
-            <guid>https://audioclip.naver.com/channels/259/clips/1673</guid>
-            <pubDate>Fri, 08 Jul 2022 06:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Warnings from melting glacier]]></title>
-            <link>https://audioclip.naver.com/channels/259/clips/1672</link>
-            <guid>https://audioclip.naver.com/channels/259/clips/1672</guid>
-            <pubDate>Thu, 07 Jul 2022 07:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
         </item>
     </channel>
 </rss>
