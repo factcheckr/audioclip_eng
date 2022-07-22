@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 07:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 08:25:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : Rival parties finally agree on how to divide the chairmanships of standing committees for the next two years, ending a 53-day vacuum in parliament.) - 2022.07.22 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1114</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1114</guid>
+            <pubDate>Fri, 22 Jul 2022 08:25:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220722_53/1658477636667wxKzq_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : The maximum corporate tax rate will be lowered from 25 percent to 22 percent as the government revises a tax system to boost private sector growth.) - 2022.07.21 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1113</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1113</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1110</guid>
             <pubDate>Mon, 18 Jul 2022 08:24:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220718_118/1658132029845TGII0_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.07.17 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1105</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1105</guid>
             <pubDate>Wed, 13 Jul 2022 08:23:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Daily new COVID-19 caes in South Korea double from a week ago to rise above 30-thousand, hitting the largest daily total in 62 days.) - 2022.07.12 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1104</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1104</guid>
-            <pubDate>Tue, 12 Jul 2022 08:24:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
