@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 07:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 08:25:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : Conflict deepnds between the government and the police over the planned launch of a police bureau under the interior ministry.) - 2022.07.25 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1117</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1117</guid>
+            <pubDate>Mon, 25 Jul 2022 08:25:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220725_246/1658736832010aL6zG_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News - 2022.07.24 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1116</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1116</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1113</guid>
             <pubDate>Thu, 21 Jul 2022 08:25:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220721_123/1658391252347cMu9V_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Health authorities report more than 70-thousand new COVID-19 cases for the second day in a row while promising to secure four-thousand more hospital beds for infected people.) - 2022.07.20 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1108</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1108</guid>
             <pubDate>Sat, 16 Jul 2022 08:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The South Korean currency reaches its lowest point in over 13 years amid global investors' continued flight to the dollar.) - 2022.07.15 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1107</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1107</guid>
-            <pubDate>Fri, 15 Jul 2022 08:23:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
