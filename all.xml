@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 07:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 08:23:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : A text message between President Yoon Suk Yeol and the ruling party's acting chief, critical of the suspended party chair, is leaked.) - 2022.07.27 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1119</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1119</guid>
+            <pubDate>Wed, 27 Jul 2022 08:23:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220727_216/1658909715116OLwCr_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : The Cabinet endorses an enforcement decree to establish a police bureau under the interior ministry, despite strong protest from the police force.) - 2022.07.26 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1118</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1118</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1115</guid>
             <pubDate>Sat, 23 Jul 2022 08:22:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220723_220/1658564037006CX3Kv_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Rival parties finally agree on how to divide the chairmanships of standing committees for the next two years, ending a 53-day vacuum in parliament.) - 2022.07.22 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1110</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1110</guid>
             <pubDate>Mon, 18 Jul 2022 08:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2022.07.17 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1109</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1109</guid>
-            <pubDate>Sun, 17 Jul 2022 08:20:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
