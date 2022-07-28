@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 08:25:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 09:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : The U.S. benchmark rate is now higher than South Korea's after another big rate hike by the Fed, but finance minister Choo Kyung-ho is confident of a limited impact on the domestic market.) - 2022.07.28 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1120</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1120</guid>
+            <pubDate>Thu, 28 Jul 2022 09:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220728_272/1658997926705lUC1W_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : A text message between President Yoon Suk Yeol and the ruling party's acting chief, critical of the suspended party chair, is leaked.) - 2022.07.27 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1119</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1119</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1116</guid>
             <pubDate>Sun, 24 Jul 2022 08:21:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220724_230/16586486510242WsY6_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.07.23 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1111</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1111</guid>
             <pubDate>Tue, 19 Jul 2022 08:22:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The government and the ruling party agree to actively handle tax reform issues amid concerns of an economic slowdown resulting from high inflation.) - 2022.07.18 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1110</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1110</guid>
-            <pubDate>Mon, 18 Jul 2022 08:24:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
