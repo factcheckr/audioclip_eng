@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 07:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 08:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2022.07.31 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1123</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1123</guid>
+            <pubDate>Sun, 31 Jul 2022 08:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220731_146/1659253448868Ksk6D_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News - 2022.07.30 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1122</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1122</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1119</guid>
             <pubDate>Wed, 27 Jul 2022 08:23:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220727_216/1658909715116OLwCr_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The Cabinet endorses an enforcement decree to establish a police bureau under the interior ministry, despite strong protest from the police force.) - 2022.07.26 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1114</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1114</guid>
             <pubDate>Fri, 22 Jul 2022 08:25:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The maximum corporate tax rate will be lowered from 25 percent to 22 percent as the government revises a tax system to boost private sector growth.) - 2022.07.21 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1113</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1113</guid>
-            <pubDate>Thu, 21 Jul 2022 08:25:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
