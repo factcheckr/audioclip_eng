@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 07:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 08:23:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : South Korea posts a trade deficit for the fourth straight month, as soaring energy and raw material prices triggered inbound shipments to jump over 20 percent.) - 2022.08.01 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1124</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1124</guid>
+            <pubDate>Mon, 01 Aug 2022 08:23:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220801_216/165934164198202oRP_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News - 2022.07.31 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1123</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1123</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1120</guid>
             <pubDate>Thu, 28 Jul 2022 09:18:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220728_272/1658997926705lUC1W_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : A text message between President Yoon Suk Yeol and the ruling party's acting chief, critical of the suspended party chair, is leaked.) - 2022.07.27 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1115</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1115</guid>
             <pubDate>Sat, 23 Jul 2022 08:22:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Rival parties finally agree on how to divide the chairmanships of standing committees for the next two years, ending a 53-day vacuum in parliament.) - 2022.07.22 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1114</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1114</guid>
-            <pubDate>Fri, 22 Jul 2022 08:25:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
