@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 05:29:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 06:25:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Changing the anti-Japanese frame]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1693</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1693</guid>
+            <pubDate>Thu, 04 Aug 2022 06:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220804_296/1659592757507MWX8j_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[The power of chips and the alliance]]></title>
             <link>https://audioclip.naver.com/channels/259/clips/1692</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1689</guid>
             <pubDate>Fri, 29 Jul 2022 07:16:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220729_147/1659076314001EETF1_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Kyoto’s bold challenge]]></title>
@@ -71,13 +78,6 @@
             <title><![CDATA[Controversy over public viewing rights]]></title>
             <link>https://audioclip.naver.com/channels/259/clips/1683</link>
             <guid>https://audioclip.naver.com/channels/259/clips/1683</guid>
-            <pubDate>Fri, 22 Jul 2022 07:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Deaths of despair]]></title>
-            <link>https://audioclip.naver.com/channels/259/clips/1682</link>
-            <guid>https://audioclip.naver.com/channels/259/clips/1682</guid>
             <pubDate>Fri, 22 Jul 2022 07:17:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
         </item>
