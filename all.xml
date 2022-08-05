@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 07:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 08:22:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Class betrayal (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1694</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1694</guid>
+            <pubDate>Fri, 05 Aug 2022 08:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220805_254/1659685031683r3aIx_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Changing the anti-Japanese frame (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/259/clips/1693</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1690</guid>
             <pubDate>Mon, 01 Aug 2022 09:20:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220801_198/1659342944297e0qGJ_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Fairness and empathy (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/259/clips/1684</link>
             <guid>https://audioclip.naver.com/channels/259/clips/1684</guid>
             <pubDate>Mon, 25 Jul 2022 09:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Controversy over public viewing rights (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/259/clips/1683</link>
-            <guid>https://audioclip.naver.com/channels/259/clips/1683</guid>
-            <pubDate>Fri, 22 Jul 2022 07:17:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
         </item>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : The nation's first mission tot he moon lifts off and enters its target trajectory to begin a six-month voyage to reach lunar orbit.) - 2022.08.05 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1128</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1128</guid>
+            <pubDate>Fri, 05 Aug 2022 08:22:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220805_8/16596872437469sSl7_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : U.S. House Speaker Nancy Pelosi and Nation Assembly Speaker Kim Jin-pyo agree to support their governments' efforts for denuclearization on the Korean Peninsula based on extended deterrence.) - 2022.08.04 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1127</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1127</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1124</guid>
             <pubDate>Mon, 01 Aug 2022 08:23:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220801_216/165934164198202oRP_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.07.31 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1119</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1119</guid>
             <pubDate>Wed, 27 Jul 2022 08:23:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The Cabinet endorses an enforcement decree to establish a police bureau under the interior ministry, despite strong protest from the police force.) - 2022.07.26 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1118</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1118</guid>
-            <pubDate>Tue, 26 Jul 2022 08:22:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
