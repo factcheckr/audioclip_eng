@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Aug 2022 07:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 08:21:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2022.08.06 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1129</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1129</guid>
+            <pubDate>Sat, 06 Aug 2022 08:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220806_44/1659773634979M78rk_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : The nation's first mission tot he moon lifts off and enters its target trajectory to begin a six-month voyage to reach lunar orbit.) - 2022.08.05 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1128</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1128</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1125</guid>
             <pubDate>Tue, 02 Aug 2022 09:17:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220802_156/1659429859821907Ld_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : South Korea posts a trade deficit for the fourth straight month, as soaring energy and raw material prices triggered inbound shipments to jump over 20 percent.) - 2022.08.01 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1120</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1120</guid>
             <pubDate>Thu, 28 Jul 2022 09:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : A text message between President Yoon Suk Yeol and the ruling party's acting chief, critical of the suspended party chair, is leaked.) - 2022.07.27 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1119</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1119</guid>
-            <pubDate>Wed, 27 Jul 2022 08:23:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
