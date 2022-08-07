@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 07:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 08:20:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News - 2022.08.07 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1130</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1130</guid>
+            <pubDate>Sun, 07 Aug 2022 08:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220807_36/1659858234768W5AIu_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News - 2022.08.06 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1129</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1126</guid>
             <pubDate>Wed, 03 Aug 2022 08:25:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220803_298/1659514482203tl820_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Consumer prices increase at the steepest pace in almost 24 years growing at the six-percent range for the second month in a row.) - 2022.08.02 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1121</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1121</guid>
             <pubDate>Fri, 29 Jul 2022 09:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The U.S. benchmark rate is now higher than South Korea's after another big rate hike by the Fed, but finance minister Choo Kyung-ho is confident of a limited impact on the domestic market.) - 2022.07.28 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1120</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1120</guid>
-            <pubDate>Thu, 28 Jul 2022 09:18:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
