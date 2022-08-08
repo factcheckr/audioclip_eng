@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 05:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 06:25:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The president’s summer retreat]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1695</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1695</guid>
+            <pubDate>Mon, 08 Aug 2022 06:24:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220808_218/1659938108501kpxD1_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Class betrayal]]></title>
             <link>https://audioclip.naver.com/channels/259/clips/1694</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1691</guid>
             <pubDate>Tue, 02 Aug 2022 09:17:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220802_36/1659428429734heGFg_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Four days from Montreal to Washington]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1686</guid>
             <pubDate>Tue, 26 Jul 2022 08:21:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Tension building in the Taiwan Strait]]></title>
-            <link>https://audioclip.naver.com/channels/259/clips/1684</link>
-            <guid>https://audioclip.naver.com/channels/259/clips/1684</guid>
-            <pubDate>Mon, 25 Jul 2022 09:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
         </item>
     </channel>
 </rss>
