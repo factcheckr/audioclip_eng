@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 07:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 08:22:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : The death toll from this week's record rainfall in the nation's central region rises to eleven while eight others still remain missing.) - 2022.08.11 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1134</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1134</guid>
+            <pubDate>Thu, 11 Aug 2022 08:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220811_88/1660205649377H3XDM_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : The death toll from torrential rains in the central region, including the greater Seoul area, climbs to nine while seven others remain missing.) - 2022.08.10 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1133</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1130</guid>
             <pubDate>Sun, 07 Aug 2022 08:20:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220807_36/1659858234768W5AIu_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.08.06 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1125</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1125</guid>
             <pubDate>Tue, 02 Aug 2022 09:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : South Korea posts a trade deficit for the fourth straight month, as soaring energy and raw material prices triggered inbound shipments to jump over 20 percent.) - 2022.08.01 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1124</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1124</guid>
-            <pubDate>Mon, 01 Aug 2022 08:23:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
