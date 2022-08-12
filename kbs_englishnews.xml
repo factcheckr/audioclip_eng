@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 08:22:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 09:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : President Yoon Suk Yeol announced special pardons for nearly one-thousand-700 offenders, including Samsung Electronics Vice Chairman Lee Jae-yong, but excludes key politicians.) - 2022.08.12 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1135</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1135</guid>
+            <pubDate>Fri, 12 Aug 2022 09:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220812_2/1660293840494tPKxj_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : The death toll from this week's record rainfall in the nation's central region rises to eleven while eight others still remain missing.) - 2022.08.11 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1134</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1131</guid>
             <pubDate>Mon, 08 Aug 2022 08:26:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220808_288/1659946434065lrpXo_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.08.07 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1126</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1126</guid>
             <pubDate>Wed, 03 Aug 2022 08:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Consumer prices increase at the steepest pace in almost 24 years growing at the six-percent range for the second month in a row.) - 2022.08.02 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1125</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1125</guid>
-            <pubDate>Tue, 02 Aug 2022 09:17:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
