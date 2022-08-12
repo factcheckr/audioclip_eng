@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 04:32:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 05:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Black elephant (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1699</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1699</guid>
+            <pubDate>Fri, 12 Aug 2022 05:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220812_207/1660280547689BoRzQ_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[How competent are you, Mr. President? (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/259/clips/1698</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1695</guid>
             <pubDate>Mon, 08 Aug 2022 06:24:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220808_218/1659938108501kpxD1_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Class betrayal (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/259/clips/1690</link>
             <guid>https://audioclip.naver.com/channels/259/clips/1690</guid>
             <pubDate>Mon, 01 Aug 2022 09:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Fairness and empathy (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/259/clips/1689</link>
-            <guid>https://audioclip.naver.com/channels/259/clips/1689</guid>
-            <pubDate>Fri, 29 Jul 2022 07:16:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
         </item>
         <item>
