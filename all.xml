@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Aug 2022 07:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 08:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2022.08.14 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1137</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1137</guid>
+            <pubDate>Sun, 14 Aug 2022 08:20:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220814_159/1660464857934RGzSi_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News - 2022.08.13 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1136</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1136</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1133</guid>
             <pubDate>Wed, 10 Aug 2022 08:22:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220810_199/1660119244438PCgnj_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : A record heavy rain leaves at least eight people dead and seven others missing in the nation's capital and the surrounding metropolitan areas.) - 2022.08.09 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1128</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1128</guid>
             <pubDate>Fri, 05 Aug 2022 08:22:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : U.S. House Speaker Nancy Pelosi and Nation Assembly Speaker Kim Jin-pyo agree to support their governments' efforts for denuclearization on the Korean Peninsula based on extended deterrence.) - 2022.08.04 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1127</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1127</guid>
-            <pubDate>Thu, 04 Aug 2022 08:26:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
