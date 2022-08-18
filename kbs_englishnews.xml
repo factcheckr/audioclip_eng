@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 07:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 08:22:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : President Yoon Suk Yeol nominates Deputy Prosecutor General Lee Won-seok as the first prosecutor general to serve under his administration.) - 2022.08.18 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1141</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1141</guid>
+            <pubDate>Thu, 18 Aug 2022 08:22:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220818_142/1660810453062sIgEg_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol pledges to support normalizing relations between the U.S. And North Korea if the latter denuclearizes.) - 2022.08.17 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1140</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1137</guid>
             <pubDate>Sun, 14 Aug 2022 08:20:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220814_159/1660464857934RGzSi_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.08.13 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1132</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1132</guid>
             <pubDate>Tue, 09 Aug 2022 08:22:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : After returning from vacation, President Yoon Suk Yeol pledges to be mindful of his original intentions for the presidency amid a recent plummeting in his approval rating.) - 2022.08.08 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1131</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1131</guid>
-            <pubDate>Mon, 08 Aug 2022 08:26:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
