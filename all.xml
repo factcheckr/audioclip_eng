@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Aug 2022 07:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 08:22:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2022.08.20 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1143</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1143</guid>
+            <pubDate>Sat, 20 Aug 2022 08:22:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220820_239/1660981454304GlrN0_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : Kim Yo-jong, the powerful sister of North Korean leader Kim Jong-un calls Seoul’s denuclearization roadmap “absurd”.) - 2022.08.19 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1142</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1142</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1139</guid>
             <pubDate>Tue, 16 Aug 2022 08:19:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220816_6/1660637638351nAlJ0_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.08.15 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1134</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1134</guid>
             <pubDate>Thu, 11 Aug 2022 08:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The death toll from torrential rains in the central region, including the greater Seoul area, climbs to nine while seven others remain missing.) - 2022.08.10 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1133</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1133</guid>
-            <pubDate>Wed, 10 Aug 2022 08:22:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
