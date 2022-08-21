@@ -1,8 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://audioclip.naver.com/channels/259</id>
-    <title>오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스</title>
-    <updated>2022-08-21T05:21:23.579Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://audioclip.naver.com/channels/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 21 Aug 2022 06:22:28 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Return of an old friend]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1703</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1703</guid>
+            <pubDate>Sun, 21 Aug 2022 06:22:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220819_50/1660898621998aNgsS_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Manholes are a double-edged sword]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1702</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1702</guid>
+            <pubDate>Sun, 21 Aug 2022 06:22:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220818_52/1660796276176Tatzp_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[What the U.S. lost from Pelosi’s Taiwan trip]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1701</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1701</guid>
+            <pubDate>Sun, 21 Aug 2022 06:22:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220817_14/1660716898192r4fHB_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Time for a strategic lane change]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1700</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1700</guid>
+            <pubDate>Sun, 21 Aug 2022 06:22:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220816_225/16606357527922NLb1_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Black elephant]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1699</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1699</guid>
+            <pubDate>Sun, 21 Aug 2022 06:22:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[How competent are you, Mr. President?]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1698</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1698</guid>
+            <pubDate>Sun, 21 Aug 2022 06:22:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Presidential approval rating]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1697</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1697</guid>
+            <pubDate>Sun, 21 Aug 2022 06:22:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Pelosi opens the door to Xi’s fourth term]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1696</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1696</guid>
+            <pubDate>Sun, 21 Aug 2022 06:22:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The president’s summer retreat]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1695</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1695</guid>
+            <pubDate>Sun, 21 Aug 2022 06:22:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Class betrayal]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1694</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1694</guid>
+            <pubDate>Sun, 21 Aug 2022 06:22:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+        </item>
+    </channel>
+</rss>
