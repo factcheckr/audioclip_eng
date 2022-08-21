@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Aug 2022 07:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 08:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2022.08.21 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1144</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1144</guid>
+            <pubDate>Sun, 21 Aug 2022 08:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220821_230/16610678653173kTzk_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News - 2022.08.20 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1143</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1143</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1140</guid>
             <pubDate>Wed, 17 Aug 2022 08:24:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220817_236/1660724046898qiP9l_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The Yoon Suk Yeol government announces its first housing supply plan aimed at providing two-point-seven million units of housing nationwide in five years.) - 2022.08.16 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1135</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1135</guid>
             <pubDate>Fri, 12 Aug 2022 09:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The death toll from this week's record rainfall in the nation's central region rises to eleven while eight others still remain missing.) - 2022.08.11 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1134</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1134</guid>
-            <pubDate>Thu, 11 Aug 2022 08:22:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
