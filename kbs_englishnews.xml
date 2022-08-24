@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 07:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 08:23:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : South Korea and China will hold concurrent events in Seoul and Beijing to commemorate the 30th anniversary of their diplomatic ties) - 2022.08.24 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1147</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1147</guid>
+            <pubDate>Wed, 24 Aug 2022 08:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220824_233/1661328868518yA6Mv_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : The South Korean won touches its weakest level against the dollar in over 13 years despite verbal intervention by South Korean authorities.) - 2022.08.23 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1146</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1143</guid>
             <pubDate>Sat, 20 Aug 2022 08:22:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220820_239/1660981454304GlrN0_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Kim Yo-jong, the powerful sister of North Korean leader Kim Jong-un calls Seoul’s denuclearization roadmap “absurd”.) - 2022.08.19 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1138</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1138</guid>
             <pubDate>Mon, 15 Aug 2022 08:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2022.08.14 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1137</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1137</guid>
-            <pubDate>Sun, 14 Aug 2022 08:20:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
