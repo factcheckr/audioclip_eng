@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 07:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 08:24:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : The Bank of Korea hikes it key interest rate by 25 basis points to two-and-a-half percent.) - 2022.08.25 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1148</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1148</guid>
+            <pubDate>Thu, 25 Aug 2022 08:24:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220825_55/166141523579466klJ_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : South Korea and China will hold concurrent events in Seoul and Beijing to commemorate the 30th anniversary of their diplomatic ties) - 2022.08.24 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1147</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1147</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1144</guid>
             <pubDate>Wed, 24 Aug 2022 09:17:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220821_230/16610678653173kTzk_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.08.20 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -219,13 +226,6 @@
             <title><![CDATA[News(Top News : The Yoon Suk Yeol government announces its first housing supply plan aimed at providing two-point-seven million units of housing nationwide in five years.) - 2022.08.16 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1139</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1139</guid>
-            <pubDate>Wed, 24 Aug 2022 09:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2022.08.15 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1138</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1138</guid>
             <pubDate>Wed, 24 Aug 2022 09:17:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
