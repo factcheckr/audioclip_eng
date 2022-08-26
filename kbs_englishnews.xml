@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 07:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 08:23:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : Pope Francis asks North Korea to invite him, in his most direct words expressing his willingness to visit the regime, in an exclusive interview with KBS at the Vatican.) - 2022.08.26 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1149</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1149</guid>
+            <pubDate>Fri, 26 Aug 2022 08:23:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220826_1/16615016511461hWPY_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : The Bank of Korea hikes it key interest rate by 25 basis points to two-and-a-half percent.) - 2022.08.25 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1148</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1145</guid>
             <pubDate>Wed, 24 Aug 2022 09:17:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220822_86/1661156052298HMT9c_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.08.21 PM5]]></title>
@@ -71,13 +78,6 @@
             <title><![CDATA[News(Top News : President Yoon Suk Yeol pledges to support normalizing relations between the U.S. And North Korea if the latter denuclearizes.) - 2022.08.17 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1140</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1140</guid>
-            <pubDate>Wed, 24 Aug 2022 09:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The Yoon Suk Yeol government announces its first housing supply plan aimed at providing two-point-seven million units of housing nationwide in five years.) - 2022.08.16 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1139</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1139</guid>
             <pubDate>Wed, 24 Aug 2022 09:17:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
