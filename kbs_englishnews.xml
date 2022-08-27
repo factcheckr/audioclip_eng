@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Aug 2022 07:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 08:22:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News - 2022.08.27 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1150</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1150</guid>
+            <pubDate>Sat, 27 Aug 2022 08:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220827_289/1661588050252AFrp0_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : Pope Francis asks North Korea to invite him, in his most direct words expressing his willingness to visit the regime, in an exclusive interview with KBS at the Vatican.) - 2022.08.26 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1149</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1146</guid>
             <pubDate>Fri, 26 Aug 2022 20:19:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220823_83/1661242432530BRHe2_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : South Korea and the U.S. begin their combined military drills dubbed "Ulchi Freedom Shield.") - 2022.08.22 PM5]]></title>
@@ -71,13 +78,6 @@
             <title><![CDATA[News(Top News : President Yoon Suk Yeol nominates Deputy Prosecutor General Lee Won-seok as the first prosecutor general to serve under his administration.) - 2022.08.18 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1141</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1141</guid>
-            <pubDate>Fri, 26 Aug 2022 20:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : President Yoon Suk Yeol pledges to support normalizing relations between the U.S. And North Korea if the latter denuclearizes.) - 2022.08.17 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1140</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1140</guid>
             <pubDate>Fri, 26 Aug 2022 20:19:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
