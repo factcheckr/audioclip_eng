@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 07:23:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 08:23:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News - 2022.08.29 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1152</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1152</guid>
+            <pubDate>Mon, 29 Aug 2022 08:23:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220829_101/16617608404185Omjr_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News - 2022.08.28 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1151</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1148</guid>
             <pubDate>Fri, 26 Aug 2022 20:19:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220825_55/166141523579466klJ_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : South Korea and China will hold concurrent events in Seoul and Beijing to commemorate the 30th anniversary of their diplomatic ties) - 2022.08.24 PM5]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1143</guid>
             <pubDate>Fri, 26 Aug 2022 20:19:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Kim Yo-jong, the powerful sister of North Korean leader Kim Jong-un calls Seoul’s denuclearization roadmap “absurd”.) - 2022.08.19 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1142</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1142</guid>
-            <pubDate>Fri, 26 Aug 2022 20:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
 </rss>
