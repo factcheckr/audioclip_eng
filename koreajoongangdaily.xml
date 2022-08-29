@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 04:42:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 06:07:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Proprietary rights to your voice]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1709</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1709</guid>
+            <pubDate>Mon, 29 Aug 2022 06:06:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220829_236/1661748426709iJQX8_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[There’s no ‘good-willed’ investment]]></title>
             <link>https://audioclip.naver.com/channels/259/clips/1708</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1705</guid>
             <pubDate>Tue, 23 Aug 2022 08:23:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220823_182/1661240831783uEVFj_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Critical gap in Korea’s postpartum care]]></title>
@@ -71,13 +78,6 @@
             <title><![CDATA[Time for a strategic lane change]]></title>
             <link>https://audioclip.naver.com/channels/259/clips/1700</link>
             <guid>https://audioclip.naver.com/channels/259/clips/1700</guid>
-            <pubDate>Sun, 21 Aug 2022 06:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Black elephant]]></title>
-            <link>https://audioclip.naver.com/channels/259/clips/1699</link>
-            <guid>https://audioclip.naver.com/channels/259/clips/1699</guid>
             <pubDate>Sun, 21 Aug 2022 06:22:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
         </item>
