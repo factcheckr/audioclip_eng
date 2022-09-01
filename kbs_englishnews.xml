@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 08:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 09:19:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : South Korea posts it largest monthly trade deficit on record in August as the price of energy imports escalates.) - 2022.09.01 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1155</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1155</guid>
+            <pubDate>Thu, 01 Sep 2022 09:19:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220901_53/1662021836684meRPe_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : An international tribunal rules that the government has to pay US private equity firm Lone Star more than 200 million dollars in damages. Seoul will consider appealing the ruling.) - 2022.08.31 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1154</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1151</guid>
             <pubDate>Sun, 28 Aug 2022 08:22:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220828_195/1661674469274aYWgh_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.08.27 PM5]]></title>
@@ -71,13 +78,6 @@
             <title><![CDATA[News(Top News : The South Korean won touches its weakest level against the dollar in over 13 years despite verbal intervention by South Korean authorities.) - 2022.08.23 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1146</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1146</guid>
-            <pubDate>Fri, 26 Aug 2022 20:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : South Korea and the U.S. begin their combined military drills dubbed "Ulchi Freedom Shield.") - 2022.08.22 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1145</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1145</guid>
             <pubDate>Fri, 26 Aug 2022 20:19:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
