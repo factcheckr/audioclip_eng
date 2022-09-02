@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 07:24:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 08:24:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : Super Typhoon Hinnamnor veers course and is now expected to land on the southern tip of the Korean Peninsula early Tuesday.) - 2022.09.02 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1156</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1156</guid>
+            <pubDate>Fri, 02 Sep 2022 08:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220902_168/16621064464428lSwp_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : South Korea posts it largest monthly trade deficit on record in August as the price of energy imports escalates.) - 2022.09.01 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1155</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1152</guid>
             <pubDate>Mon, 29 Aug 2022 08:23:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220829_101/16617608404185Omjr_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.08.28 PM5]]></title>
@@ -71,13 +78,6 @@
             <title><![CDATA[News(Top News : South Korea and China will hold concurrent events in Seoul and Beijing to commemorate the 30th anniversary of their diplomatic ties) - 2022.08.24 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1147</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1147</guid>
-            <pubDate>Fri, 26 Aug 2022 20:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The South Korean won touches its weakest level against the dollar in over 13 years despite verbal intervention by South Korean authorities.) - 2022.08.23 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1146</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1146</guid>
             <pubDate>Fri, 26 Aug 2022 20:19:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
