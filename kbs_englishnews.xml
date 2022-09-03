@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Sep 2022 07:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 08:22:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News - 2022.09.03 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1157</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1157</guid>
+            <pubDate>Sat, 03 Sep 2022 08:22:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220903_281/1662191074137O2rma_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : Super Typhoon Hinnamnor veers course and is now expected to land on the southern tip of the Korean Peninsula early Tuesday.) - 2022.09.02 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1156</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1153</guid>
             <pubDate>Tue, 30 Aug 2022 08:24:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220830_85/1661847255310VwSDf_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Former presidential candidate Lee Jae-myung of the Democratic Party is elected as the main opposition party's new chairman.) - 2022.08.29 PM5]]></title>
@@ -71,13 +78,6 @@
             <title><![CDATA[News(Top News : The Bank of Korea hikes it key interest rate by 25 basis points to two-and-a-half percent.) - 2022.08.25 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1148</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1148</guid>
-            <pubDate>Fri, 26 Aug 2022 20:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : South Korea and China will hold concurrent events in Seoul and Beijing to commemorate the 30th anniversary of their diplomatic ties) - 2022.08.24 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1147</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1147</guid>
             <pubDate>Fri, 26 Aug 2022 20:19:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
