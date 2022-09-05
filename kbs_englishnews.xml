@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 07:31:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 08:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : As Super Typhoon Hinnamnor makes its way northward toward the Korean Peninsula, the state weather agency forecasts its will make landfall in South Korea on Tuesday morning before exiting toward the eastern waters about six hours later.) - 2022.09.05 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1159</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1159</guid>
+            <pubDate>Mon, 05 Sep 2022 08:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220905_279/1662365646869vr4HF_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News - 2022.09.04 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1158</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1155</guid>
             <pubDate>Thu, 01 Sep 2022 09:19:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220901_53/1662021836684meRPe_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : An international tribunal rules that the government has to pay US private equity firm Lone Star more than 200 million dollars in damages. Seoul will consider appealing the ruling.) - 2022.08.31 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1150</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1150</guid>
             <pubDate>Sat, 27 Aug 2022 08:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Pope Francis asks North Korea to invite him, in his most direct words expressing his willingness to visit the regime, in an exclusive interview with KBS at the Vatican.) - 2022.08.26 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1149</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1149</guid>
-            <pubDate>Fri, 26 Aug 2022 20:19:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
