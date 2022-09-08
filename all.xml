@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 07:32:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 08:23:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : The government proposes that the two Koreas hold talks to address families separated by the Korean War, whose remaining members are now mostly in their 80s or 90s.) - 2022.09.08 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1162</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1162</guid>
+            <pubDate>Thu, 08 Sep 2022 08:23:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220908_136/1662624863268APCUY_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : The death toll from Typhoon Hinnamnor rises to ten as seven missing people who went down to an underground parking lot in their apartment building are found.) - 2022.09.07 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1161</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1161</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1158</guid>
             <pubDate>Sun, 04 Sep 2022 08:21:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220904_142/1662279229938hrRER_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.09.03 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1153</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1153</guid>
             <pubDate>Tue, 30 Aug 2022 08:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Former presidential candidate Lee Jae-myung of the Democratic Party is elected as the main opposition party's new chairman.) - 2022.08.29 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1152</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1152</guid>
-            <pubDate>Mon, 29 Aug 2022 08:23:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
