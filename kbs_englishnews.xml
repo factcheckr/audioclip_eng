@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Sep 2022 07:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Sep 2022 08:24:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News - 2022.09.10 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1164</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1164</guid>
+            <pubDate>Sat, 10 Sep 2022 08:24:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220910_174/1662797635007Xe2GR_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : Queen Elizabeth II dies at the age of 96 after 70 years of reign.) - 2022.09.09 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1163</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1160</guid>
             <pubDate>Tue, 06 Sep 2022 08:24:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220906_63/1662452096125SHx5Q_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : As Super Typhoon Hinnamnor makes its way northward toward the Korean Peninsula, the state weather agency forecasts its will make landfall in South Korea on Tuesday morning before exiting toward the eastern waters about six hours later.) - 2022.09.05 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1155</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1155</guid>
             <pubDate>Thu, 01 Sep 2022 09:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : An international tribunal rules that the government has to pay US private equity firm Lone Star more than 200 million dollars in damages. Seoul will consider appealing the ruling.) - 2022.08.31 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1154</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1154</guid>
-            <pubDate>Wed, 31 Aug 2022 08:22:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
