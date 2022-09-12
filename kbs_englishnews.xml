@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 08:26:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 09:23:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News - 2022.09.12 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1166</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1166</guid>
+            <pubDate>Mon, 12 Sep 2022 09:23:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220912_192/1662972228720OymRe_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News - 2022.09.11 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1165</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1162</guid>
             <pubDate>Thu, 08 Sep 2022 08:23:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220908_136/1662624863268APCUY_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The death toll from Typhoon Hinnamnor rises to ten as seven missing people who went down to an underground parking lot in their apartment building are found.) - 2022.09.07 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1157</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1157</guid>
             <pubDate>Sat, 03 Sep 2022 08:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Super Typhoon Hinnamnor veers course and is now expected to land on the southern tip of the Korean Peninsula early Tuesday.) - 2022.09.02 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1156</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1156</guid>
-            <pubDate>Fri, 02 Sep 2022 08:24:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
