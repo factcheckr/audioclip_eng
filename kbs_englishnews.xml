@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 07:35:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 08:25:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : South Korea imposes record high fines on Google and Meta for unauthorized person data collection.) - 2022.09.14 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1168</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1168</guid>
+            <pubDate>Wed, 14 Sep 2022 08:25:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220914_48/1663143247929XwShx_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : "Squid Game" wins two major Emmy Awards to become the first non-English series to grab the honors.) - 2022.09.13 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1167</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1164</guid>
             <pubDate>Sat, 10 Sep 2022 08:24:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220910_174/1662797635007Xe2GR_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Queen Elizabeth II dies at the age of 96 after 70 years of reign.) - 2022.09.09 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1159</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1159</guid>
             <pubDate>Mon, 05 Sep 2022 08:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2022.09.04 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1158</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1158</guid>
-            <pubDate>Sun, 04 Sep 2022 08:21:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
