@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 07:29:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 08:25:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : National Assembly Speaker Kim Jin-pyo proposes a speakers' gathering of South Korea, China and Japan in a meeting with China's too legislator, Li Zhanshu, in Seoul.) - 2022.09.16 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1170</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1170</guid>
+            <pubDate>Fri, 16 Sep 2022 08:25:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220916_234/1663316112056wl4t9_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol will hold summits with U.S. President Joe Biden and Japanese Prime Minister Fumio Kishida on the sidelines of the UN General Assembly in New York next week.) - 2022.09.15 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1169</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1169</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1166</guid>
             <pubDate>Mon, 12 Sep 2022 09:23:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220912_192/1662972228720OymRe_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.09.11 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1161</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1161</guid>
             <pubDate>Wed, 07 Sep 2022 08:26:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Two people die and ten others remain missing after the southeast region was battered by Super Typhoon Hinnamnor) - 2022.09.06 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1160</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1160</guid>
-            <pubDate>Tue, 06 Sep 2022 08:24:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
