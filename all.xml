@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Sep 2022 07:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 08:24:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2022.09.17 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1171</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1171</guid>
+            <pubDate>Sat, 17 Sep 2022 08:24:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220917_230/1663400655334yxO49_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : National Assembly Speaker Kim Jin-pyo proposes a speakers' gathering of South Korea, China and Japan in a meeting with China's too legislator, Li Zhanshu, in Seoul.) - 2022.09.16 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1170</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1170</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1167</guid>
             <pubDate>Tue, 13 Sep 2022 08:25:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220913_256/16630568419997Xg1r_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.09.12 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1162</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1162</guid>
             <pubDate>Thu, 08 Sep 2022 08:23:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The death toll from Typhoon Hinnamnor rises to ten as seven missing people who went down to an underground parking lot in their apartment building are found.) - 2022.09.07 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1161</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1161</guid>
-            <pubDate>Wed, 07 Sep 2022 08:26:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
