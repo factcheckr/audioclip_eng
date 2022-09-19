@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 07:39:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 08:29:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : Typhoon Nanmadol passes its nearest point to the Korean Peninsula on Monday morning; alerts on the ground have been lifted, but remain at sea.) - 2022.09.19 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1173</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1173</guid>
+            <pubDate>Mon, 19 Sep 2022 08:29:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220919_192/16635752435111vrG2_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News - 2022.09.18 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1172</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1169</guid>
             <pubDate>Thu, 15 Sep 2022 08:28:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220915_191/1663229648899EdDVq_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : South Korea imposes record high fines on Google and Meta for unauthorized person data collection.) - 2022.09.14 PM5]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1164</guid>
             <pubDate>Sat, 10 Sep 2022 08:24:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Queen Elizabeth II dies at the age of 96 after 70 years of reign.) - 2022.09.09 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1163</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1163</guid>
-            <pubDate>Fri, 09 Sep 2022 08:27:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
 </rss>
