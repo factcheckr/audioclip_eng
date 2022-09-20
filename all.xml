@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 07:28:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 08:29:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘The Little Mermaid,’ Disney-style (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1723</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1723</guid>
+            <pubDate>Tue, 20 Sep 2022 08:28:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220920_90/1663660612726ESoge_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Does Biden understand the seriousness? (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/259/clips/1722</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1719</guid>
             <pubDate>Wed, 14 Sep 2022 08:25:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220914_255/1663142524707R8LqE_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Propaganda machine in confusion (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/259/clips/1714</link>
             <guid>https://audioclip.naver.com/channels/259/clips/1714</guid>
             <pubDate>Mon, 05 Sep 2022 06:02:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Military duty dilemma for sports stars (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/259/clips/1713</link>
-            <guid>https://audioclip.naver.com/channels/259/clips/1713</guid>
-            <pubDate>Fri, 02 Sep 2022 08:23:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
         </item>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : President Yoon Suk Yeol attends Queen Elizabeth II's state funeral in London and pays tribute to the late British monarch.) - 2022.09.20 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1174</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1174</guid>
+            <pubDate>Tue, 20 Sep 2022 08:29:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220920_79/1663661649211l2aMK_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : Typhoon Nanmadol passes its nearest point to the Korean Peninsula on Monday morning; alerts on the ground have been lifted, but remain at sea.) - 2022.09.19 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1173</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1173</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1170</guid>
             <pubDate>Fri, 16 Sep 2022 08:25:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220916_234/1663316112056wl4t9_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol will hold summits with U.S. President Joe Biden and Japanese Prime Minister Fumio Kishida on the sidelines of the UN General Assembly in New York next week.) - 2022.09.15 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -221,13 +228,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1165</guid>
             <pubDate>Sun, 11 Sep 2022 08:23:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2022.09.10 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1164</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1164</guid>
-            <pubDate>Sat, 10 Sep 2022 08:24:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
     </channel>
 </rss>
