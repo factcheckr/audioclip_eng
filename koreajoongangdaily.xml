@@ -1,8 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://audioclip.naver.com/channels/259</id>
-    <title>오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스</title>
-    <updated>2022-11-16T16:29:52.322Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://audioclip.naver.com/channels/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:29:10 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[No Red Wave in the U.S. mid-term elections?]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1761</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1761</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221116_242/1668572870001OVnwL_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Chinese-style modernization]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1760</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1760</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221115_17/1668477800525aFikw_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[A nameless hero]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1759</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1759</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221114_134/1668403700832iHRp0_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[The cost of raising an elephant — and a dog]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1758</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1758</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221111_275/1668148719005QnVBm_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Conspiracy theories in full swing]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1757</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1757</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Watch out for crowd turbulence]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1756</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1756</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Long live Emperor Xi]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1755</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1755</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Empathy holds the key to overcoming tragedy]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1754</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1754</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Learning from professional Go players]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1753</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1753</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Doomed future of Legoland Korea]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1752</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1752</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+        </item>
+    </channel>
+</rss>

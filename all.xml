@@ -1,7 +1,233 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://factcheckr.github.io/audioclip_eng/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-11-16T16:29:52.325Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:29:10 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[No Red Wave in the U.S. mid-term elections? (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1761</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1761</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221116_242/1668572870001OVnwL_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Chinese-style modernization (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1760</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1760</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221115_17/1668477800525aFikw_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[A nameless hero (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1759</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1759</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221114_134/1668403700832iHRp0_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[The cost of raising an elephant — and a dog (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1758</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1758</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221111_275/1668148719005QnVBm_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Conspiracy theories in full swing (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1757</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1757</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Watch out for crowd turbulence (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1756</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1756</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Long live Emperor Xi (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1755</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1755</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Empathy holds the key to overcoming tragedy (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1754</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1754</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Learning from professional Go players (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1753</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1753</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Doomed future of Legoland Korea (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1752</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1752</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Vol.12_NATIONAL DEFENSE_국방 (오디오클립 ─ 뉴스프레소 월스트리트저널 에디션)]]></title>
+            <link>https://audioclip.naver.com/channels/6395/clips/68</link>
+            <guid>https://audioclip.naver.com/channels/6395/clips/68</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211129_105/1638177753144Rmi92_JPEG/WSJ_%C3%A4%B3%CE_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vol.12_PROBLEM_문제 (오디오클립 ─ 뉴스프레소 월스트리트저널 에디션)]]></title>
+            <link>https://audioclip.naver.com/channels/6395/clips/67</link>
+            <guid>https://audioclip.naver.com/channels/6395/clips/67</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211129_50/1638177745112Y54li_JPEG/WSJ_%C3%A4%B3%CE_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vol.12_CORPORATE MANAGEMENT_기업 경영 (오디오클립 ─ 뉴스프레소 월스트리트저널 에디션)]]></title>
+            <link>https://audioclip.naver.com/channels/6395/clips/66</link>
+            <guid>https://audioclip.naver.com/channels/6395/clips/66</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211129_195/1638177735741LcDpA_JPEG/WSJ_%C3%A4%B3%CE_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vol.12_RISK & REWARD_위험 & 보상 (오디오클립 ─ 뉴스프레소 월스트리트저널 에디션)]]></title>
+            <link>https://audioclip.naver.com/channels/6395/clips/65</link>
+            <guid>https://audioclip.naver.com/channels/6395/clips/65</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211129_123/1638177713182doieW_JPEG/WSJ_%C3%A4%B3%CE_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vol.12_TECHNOLOGY_테크놀로지 (오디오클립 ─ 뉴스프레소 월스트리트저널 에디션)]]></title>
+            <link>https://audioclip.naver.com/channels/6395/clips/63</link>
+            <guid>https://audioclip.naver.com/channels/6395/clips/63</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Vol.12_MONEY_돈 (오디오클립 ─ 뉴스프레소 월스트리트저널 에디션)]]></title>
+            <link>https://audioclip.naver.com/channels/6395/clips/62</link>
+            <guid>https://audioclip.naver.com/channels/6395/clips/62</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Vol.11_WORK ETHIC_직업의식 (오디오클립 ─ 뉴스프레소 월스트리트저널 에디션)]]></title>
+            <link>https://audioclip.naver.com/channels/6395/clips/61</link>
+            <guid>https://audioclip.naver.com/channels/6395/clips/61</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Vol.11_DEVELOPMENT_개발 (오디오클립 ─ 뉴스프레소 월스트리트저널 에디션)]]></title>
+            <link>https://audioclip.naver.com/channels/6395/clips/60</link>
+            <guid>https://audioclip.naver.com/channels/6395/clips/60</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Vol.11_PEOPLE_사람들 (오디오클립 ─ 뉴스프레소 월스트리트저널 에디션)]]></title>
+            <link>https://audioclip.naver.com/channels/6395/clips/59</link>
+            <guid>https://audioclip.naver.com/channels/6395/clips/59</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Vol.11_TEAMWORK_팀워크 (오디오클립 ─ 뉴스프레소 월스트리트저널 에디션)]]></title>
+            <link>https://audioclip.naver.com/channels/6395/clips/58</link>
+            <guid>https://audioclip.naver.com/channels/6395/clips/58</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[News(Top News : The top leaders of South Korea and China share their views on North Korea issues in their first bilateral summit on the sidelines of the G20 summit in Bali.) - 2022.11.16 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1232</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1232</guid>
+            <pubDate>Wed, 16 Nov 2022 17:29:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221116_130/1668586429025ckdAO_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[News(Top News : U.S. President Joe Biden stresses Beijing's role on North Korea issues during a U.S.-China summit before President Yoon Suk Yeol is set to meet Chinese President Xi Jinping on the sidelines of the G20 in Bali.) - 2022.11.15 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1231</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1231</guid>
+            <pubDate>Wed, 16 Nov 2022 17:29:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221115_188/1668500031308Lkrno_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[News(Top News : President Yoon Suk Yeol holds a series of bilateral and trilateral meetings with the leaders of the U.S. and Japan on the sidelines of ASEAN forums.) - 2022.11.14 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1230</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1230</guid>
+            <pubDate>Wed, 16 Nov 2022 17:29:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221114_219/1668413628506jYoSF_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[News - 2022.11.13 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1229</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1229</guid>
+            <pubDate>Wed, 16 Nov 2022 17:29:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221113_111/1668325433083ew9Wl_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[News - 2022.11.12 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1228</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1228</guid>
+            <pubDate>Wed, 16 Nov 2022 17:29:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[News(Top News : President Yoon Suk Yeol arrives in Cambodia for the first leg of a six-day trip to Southeast Asia to attend international forums and summits.) - 2022.11.11 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1227</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1227</guid>
+            <pubDate>Wed, 16 Nov 2022 17:29:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[News(Top News : President Yoon Suk Yeol will hold a trilateral summit with the leaders of the U.S. and Japan on the sidelines of regional gatherings in Southeast Asia.) - 2022.11.10 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1226</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1226</guid>
+            <pubDate>Wed, 16 Nov 2022 17:29:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[News(Top News : North Korea launches an unidentified ballistic missile toward the East Sea as ballots are being counted for the U.S. midterm elections.) - 2022.11.09 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1225</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1225</guid>
+            <pubDate>Wed, 16 Nov 2022 17:29:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[News(Top News : A special police investigation into the Itaewon crowd crush continues with over 50 locations, including the office of the police chief, becoming the latest subjects of a raid.) - 2022.11.08 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1224</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1224</guid>
+            <pubDate>Wed, 16 Nov 2022 17:29:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[News(Top News : President Yoon Suk Yeol promises to get to the bottom of the tragic Itaewon crowd crush as six officials, including the former Yongsan police chief, are being investigated on charges of deadly gross negligence.) - 2022.11.07 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1223</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1223</guid>
+            <pubDate>Wed, 16 Nov 2022 17:29:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+        </item>
+    </channel>
+</rss>
