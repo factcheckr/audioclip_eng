@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 06:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 08:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : President Yoon Suk Yeol discusses ways to advance relations with Crown Prince Mohammed bin Salman in a summit in Seoul.) - 2022.11.17 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1233</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1233</guid>
+            <pubDate>Thu, 17 Nov 2022 08:25:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221117_205/1668672829016p2esN_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : The top leaders of South Korea and China share their views on North Korea issues in their first bilateral summit on the sidelines of the G20 summit in Bali.) - 2022.11.16 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1232</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1229</guid>
             <pubDate>Wed, 16 Nov 2022 17:29:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221113_111/1668325433083ew9Wl_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.11.12 PM5]]></title>
@@ -71,13 +78,6 @@
             <title><![CDATA[News(Top News : A special police investigation into the Itaewon crowd crush continues with over 50 locations, including the office of the police chief, becoming the latest subjects of a raid.) - 2022.11.08 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1224</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1224</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : President Yoon Suk Yeol promises to get to the bottom of the tragic Itaewon crowd crush as six officials, including the former Yongsan police chief, are being investigated on charges of deadly gross negligence.) - 2022.11.07 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1223</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1223</guid>
             <pubDate>Wed, 16 Nov 2022 17:29:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
