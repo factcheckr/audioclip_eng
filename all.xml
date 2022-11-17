@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Nov 2022 23:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 01:30:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Stocks or cash (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1762</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1762</guid>
+            <pubDate>Thu, 17 Nov 2022 01:29:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221117_138/1668648220004wGlHS_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[No Red Wave in the U.S. mid-term elections? (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/259/clips/1761</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1758</guid>
             <pubDate>Wed, 16 Nov 2022 17:28:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221111_275/1668148719005QnVBm_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Conspiracy theories in full swing (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1753</guid>
             <pubDate>Wed, 16 Nov 2022 17:28:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Doomed future of Legoland Korea (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/259/clips/1752</link>
-            <guid>https://audioclip.naver.com/channels/259/clips/1752</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Vol.12_NATIONAL DEFENSE_국방 (오디오클립 ─ 뉴스프레소 월스트리트저널 에디션)]]></title>
