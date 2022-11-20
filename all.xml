@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 07:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 08:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2022.11.20 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1236</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1236</guid>
+            <pubDate>Sun, 20 Nov 2022 08:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221120_299/1668932032939zkDvN_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News - 2022.11.19 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1235</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1235</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1232</guid>
             <pubDate>Wed, 16 Nov 2022 17:29:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221116_130/1668586429025ckdAO_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : U.S. President Joe Biden stresses Beijing's role on North Korea issues during a U.S.-China summit before President Yoon Suk Yeol is set to meet Chinese President Xi Jinping on the sidelines of the G20 in Bali.) - 2022.11.15 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -219,13 +226,6 @@
             <title><![CDATA[News(Top News : President Yoon Suk Yeol arrives in Cambodia for the first leg of a six-day trip to Southeast Asia to attend international forums and summits.) - 2022.11.11 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1227</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1227</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : President Yoon Suk Yeol will hold a trilateral summit with the leaders of the U.S. and Japan on the sidelines of regional gatherings in Southeast Asia.) - 2022.11.10 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1226</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1226</guid>
             <pubDate>Wed, 16 Nov 2022 17:29:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
