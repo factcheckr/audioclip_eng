@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 07:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 08:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : South Korea kick-starts its World Cup campaign with a hard-fought scoreless draw against Uruguay.) - 2022.11.25 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1241</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1241</guid>
+            <pubDate>Fri, 25 Nov 2022 08:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221125_103/1669364031276kTWXI_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : Unionized truckers launch a nationwide general strike as the government warns of a strict response in accordance with the law and principle.) - 2022.11.24 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1240</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1237</guid>
             <pubDate>Mon, 21 Nov 2022 08:23:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221121_239/1669018461629Ni6PP_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.11.20 PM5]]></title>
@@ -71,13 +78,6 @@
             <title><![CDATA[News(Top News : The top leaders of South Korea and China share their views on North Korea issues in their first bilateral summit on the sidelines of the G20 summit in Bali.) - 2022.11.16 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1232</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1232</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : U.S. President Joe Biden stresses Beijing's role on North Korea issues during a U.S.-China summit before President Yoon Suk Yeol is set to meet Chinese President Xi Jinping on the sidelines of the G20 in Bali.) - 2022.11.15 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1231</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1231</guid>
             <pubDate>Wed, 16 Nov 2022 17:29:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
