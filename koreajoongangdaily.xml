@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 04:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 05:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The lethal impact of outrage porn]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1767</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1767</guid>
+            <pubDate>Fri, 25 Nov 2022 05:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221125_66/1669350609161iJ6oW_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Don’t put all your eggs in one basket]]></title>
             <link>https://audioclip.naver.com/channels/259/clips/1766</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1762</guid>
             <pubDate>Thu, 17 Nov 2022 01:29:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221117_138/1668648220004wGlHS_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[No Red Wave in the U.S. mid-term elections?]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1757</guid>
             <pubDate>Wed, 16 Nov 2022 17:28:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Watch out for crowd turbulence]]></title>
-            <link>https://audioclip.naver.com/channels/259/clips/1756</link>
-            <guid>https://audioclip.naver.com/channels/259/clips/1756</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
         </item>
     </channel>
 </rss>
