@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 05:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 06:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Swiss cheese model for disasters (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1768</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1768</guid>
+            <pubDate>Mon, 28 Nov 2022 06:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221128_100/1669612530552GQIAc_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[The lethal impact of outrage porn (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/259/clips/1767</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1764</guid>
             <pubDate>Sun, 27 Nov 2022 22:15:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221122_196/1669100508537V0rcW_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Stocks or cash (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
@@ -71,13 +78,6 @@
             <title><![CDATA[The cost of raising an elephant — and a dog (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/259/clips/1758</link>
             <guid>https://audioclip.naver.com/channels/259/clips/1758</guid>
-            <pubDate>Sun, 27 Nov 2022 22:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Conspiracy theories in full swing (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/259/clips/1757</link>
-            <guid>https://audioclip.naver.com/channels/259/clips/1757</guid>
             <pubDate>Sun, 27 Nov 2022 22:15:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
         </item>
