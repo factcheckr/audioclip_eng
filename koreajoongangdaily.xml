@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 06:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 07:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Time to determine the fate of Kepco]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1771</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1771</guid>
+            <pubDate>Thu, 01 Dec 2022 07:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221201_66/1669878367966O4Ft3_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Being stabbed in the back and letting it go]]></title>
             <link>https://audioclip.naver.com/channels/259/clips/1770</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1767</guid>
             <pubDate>Sun, 27 Nov 2022 22:15:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221125_66/1669350609161iJ6oW_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Don’t put all your eggs in one basket]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1761</guid>
             <pubDate>Sun, 27 Nov 2022 22:15:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Chinese-style modernization]]></title>
-            <link>https://audioclip.naver.com/channels/259/clips/1760</link>
-            <guid>https://audioclip.naver.com/channels/259/clips/1760</guid>
-            <pubDate>Sun, 27 Nov 2022 22:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
         </item>
     </channel>
 </rss>
