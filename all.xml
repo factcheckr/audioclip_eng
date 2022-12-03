@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Dec 2022 07:13:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 08:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2022.12.03 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1249</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1249</guid>
+            <pubDate>Sat, 03 Dec 2022 08:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221203_221/1670055254039HbcOm_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : Team Korea seeks a win against Portugal as it is the only way to advance to the Round of 16 in the World Cup.) - 2022.12.02 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1248</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1248</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1245</guid>
             <pubDate>Tue, 29 Nov 2022 08:21:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221129_250/1669709663188vrGjT_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol lays out a vision of landing on the moon and mining its resources in ten years' time.) - 2022.11.28 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1240</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1240</guid>
             <pubDate>Thu, 24 Nov 2022 08:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The ruling and opposition parties agree to launch a parliamentary probe into the fatal Itaewon crowd crush.) - 2022.11.23 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1239</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1239</guid>
-            <pubDate>Wed, 23 Nov 2022 08:21:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
