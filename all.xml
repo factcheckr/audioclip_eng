@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 07:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 08:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2022.12.04 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1250</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1250</guid>
+            <pubDate>Sun, 04 Dec 2022 08:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221204_81/1670139845618rQTqi_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News - 2022.12.03 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1249</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1249</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1246</guid>
             <pubDate>Wed, 30 Nov 2022 08:21:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221130_203/1669796034588TPbH8_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol issues an order forcing striking truckers to return to work as a union-backed walkout entered its sixth day.) - 2022.11.29 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1241</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1241</guid>
             <pubDate>Fri, 25 Nov 2022 08:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Unionized truckers launch a nationwide general strike as the government warns of a strict response in accordance with the law and principle.) - 2022.11.24 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1240</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1240</guid>
-            <pubDate>Thu, 24 Nov 2022 08:21:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
