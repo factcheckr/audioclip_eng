@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 07:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 08:20:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : South Korea will face off against a formidable Brazil in its fist elimination round match at the World Cup in 12 years.) - 2022.12.05 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1251</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1251</guid>
+            <pubDate>Mon, 05 Dec 2022 08:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221205_135/1670228036589Je2mY_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News - 2022.12.04 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1250</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1250</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1247</guid>
             <pubDate>Thu, 01 Dec 2022 08:22:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221201_250/1669882438597tHJwn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Unionized subway workers in Seoul launch a strike.) - 2022.11.30 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1242</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1242</guid>
             <pubDate>Sat, 26 Nov 2022 08:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : South Korea kick-starts its World Cup campaign with a hard-fought scoreless draw against Uruguay.) - 2022.11.25 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1241</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1241</guid>
-            <pubDate>Fri, 25 Nov 2022 08:21:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
