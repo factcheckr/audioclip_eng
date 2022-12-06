@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 07:14:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 08:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Triggering another Tiananmen?]]></title>
+            <link>https://audioclip.naver.com/channels/259/clips/1774</link>
+            <guid>https://audioclip.naver.com/channels/259/clips/1774</guid>
+            <pubDate>Tue, 06 Dec 2022 08:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221206_165/1670311444343cnKxh_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Toward a country of freedom and culture]]></title>
             <link>https://audioclip.naver.com/channels/259/clips/1773</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1770</guid>
             <pubDate>Wed, 30 Nov 2022 04:20:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221130_218/16697817444397Rpr3_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[You want to know Xi? You must study Mao.]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1765</guid>
             <pubDate>Sun, 27 Nov 2022 22:15:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Shabby scorecard of the Korea-China summit]]></title>
-            <link>https://audioclip.naver.com/channels/259/clips/1764</link>
-            <guid>https://audioclip.naver.com/channels/259/clips/1764</guid>
-            <pubDate>Sun, 27 Nov 2022 22:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
         </item>
     </channel>
 </rss>
