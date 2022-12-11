@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Dec 2022 07:14:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Dec 2022 08:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2022.12.11 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1257</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1257</guid>
+            <pubDate>Sun, 11 Dec 2022 08:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221211_166/1670744658318JKTPO_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News - 2022.12.10 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1256</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1256</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1253</guid>
             <pubDate>Wed, 07 Dec 2022 08:20:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221207_238/1670400845543QpOgN_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Team Korea crashes out of the Qatar World Cup in the first knockout stage, losing to top-ranked Brazil 4-1.) - 2022.12.06 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1248</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1248</guid>
             <pubDate>Fri, 02 Dec 2022 08:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The special police team investigating the Itaewon crowd crush requests arrest warrants for four senior officers, including the head of the Yongsan Police Station at the time of the tragedy.) - 2022.12.01 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1247</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1247</guid>
-            <pubDate>Thu, 01 Dec 2022 08:22:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
