@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 07:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 08:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : Parliamentary discussions over next year's budget plan are at a standstill after the DP railroads a motion calling for the dismissal of the interior minister.) - 2022.12.12 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1258</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1258</guid>
+            <pubDate>Mon, 12 Dec 2022 08:20:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221212_293/1670832832892De52Q_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News - 2022.12.11 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1257</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1257</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1254</guid>
             <pubDate>Thu, 08 Dec 2022 08:20:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221208_151/16704872263254gvm3_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The standoff between the government and unionized laborers continues as the truckers' strike enters Day 14.) - 2022.12.07 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1249</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1249</guid>
             <pubDate>Sat, 03 Dec 2022 08:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Team Korea seeks a win against Portugal as it is the only way to advance to the Round of 16 in the World Cup.) - 2022.12.02 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1248</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1248</guid>
-            <pubDate>Fri, 02 Dec 2022 08:19:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
