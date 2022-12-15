@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 08:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 09:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : The U.S. Federal Reserve hikes rates by another 50 basis points, widening the gap with the Bank of Korea's benchmark rate to one-point-25 percentage points, the highest in 22 years.) - 2022.12.15 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1261</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1261</guid>
+            <pubDate>Thu, 15 Dec 2022 09:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221215_33/1671093838673PUI9s_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : Former spy chief Park Jie-won denies the allegation that he received orders to delete intelligence on the 2020 killing of a South Korean fisheries official by North Korea.) - 2022.12.14 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1260</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1260</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1257</guid>
             <pubDate>Sun, 11 Dec 2022 08:19:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221211_166/1670744658318JKTPO_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.12.10 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1252</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1252</guid>
             <pubDate>Tue, 06 Dec 2022 08:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : South Korea will face off against a formidable Brazil in its fist elimination round match at the World Cup in 12 years.) - 2022.12.05 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1251</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1251</guid>
-            <pubDate>Mon, 05 Dec 2022 08:20:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
