@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 07:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 08:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : Memorial services are held across the country on the 49th day after the Itaewon crowd crush to remember the 158 lives lost.) - 2022.12.16 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1262</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1262</guid>
+            <pubDate>Fri, 16 Dec 2022 08:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221216_221/1671178455455xUw2v_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : The U.S. Federal Reserve hikes rates by another 50 basis points, widening the gap with the Bank of Korea's benchmark rate to one-point-25 percentage points, the highest in 22 years.) - 2022.12.15 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1261</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1258</guid>
             <pubDate>Mon, 12 Dec 2022 08:20:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221212_293/1670832832892De52Q_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2022.12.11 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1253</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1253</guid>
             <pubDate>Wed, 07 Dec 2022 08:20:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Team Korea crashes out of the Qatar World Cup in the first knockout stage, losing to top-ranked Brazil 4-1.) - 2022.12.06 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1252</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1252</guid>
-            <pubDate>Tue, 06 Dec 2022 08:20:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
