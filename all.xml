@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Dec 2022 07:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 08:18:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2022.12.17 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1263</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1263</guid>
+            <pubDate>Sat, 17 Dec 2022 08:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221217_26/1671264846764mW0eB_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : Memorial services are held across the country on the 49th day after the Itaewon crowd crush to remember the 158 lives lost.) - 2022.12.16 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1262</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1262</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1259</guid>
             <pubDate>Tue, 13 Dec 2022 08:21:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221213_288/1670919239410rMTPN_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Parliamentary discussions over next year's budget plan are at a standstill after the DP railroads a motion calling for the dismissal of the interior minister.) - 2022.12.12 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1254</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1254</guid>
             <pubDate>Thu, 08 Dec 2022 08:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The standoff between the government and unionized laborers continues as the truckers' strike enters Day 14.) - 2022.12.07 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1253</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1253</guid>
-            <pubDate>Wed, 07 Dec 2022 08:20:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
