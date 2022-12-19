@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 07:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 08:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News - 2022.12.19 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1265</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1265</guid>
+            <pubDate>Mon, 19 Dec 2022 08:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221219_297/1671437628916kV8Ni_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News - 2022.12.18 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1264</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1261</guid>
             <pubDate>Thu, 15 Dec 2022 09:15:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221215_33/1671093838673PUI9s_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Former spy chief Park Jie-won denies the allegation that he received orders to delete intelligence on the 2020 killing of a South Korean fisheries official by North Korea.) - 2022.12.14 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1256</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1256</guid>
             <pubDate>Sat, 10 Dec 2022 08:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The truckers' union votes to end their 16-day strike in the face of a zero-tolerance policy by the government and lackluster public support.) - 2022.12.09 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1255</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1255</guid>
-            <pubDate>Fri, 09 Dec 2022 08:20:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
