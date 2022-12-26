@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 07:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 08:19:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : The South Korean economy is forecast to grow less than two percent next year, bogged down by a slowdown in exports, high inflation and dismal employment.) - 2022.12.26 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1272</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1272</guid>
+            <pubDate>Mon, 26 Dec 2022 08:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221226_112/1672042449491l08ph_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News - 2022.12.25 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1271</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1271</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1268</guid>
             <pubDate>Thu, 22 Dec 2022 08:19:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221222_98/16716968541918mgVk_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The government predicts the economic growth next year will be a meager one-point-six percent amid a global recession.) - 2022.12.21 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1263</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1263</guid>
             <pubDate>Sat, 17 Dec 2022 08:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Memorial services are held across the country on the 49th day after the Itaewon crowd crush to remember the 158 lives lost.) - 2022.12.16 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1262</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1262</guid>
-            <pubDate>Fri, 16 Dec 2022 08:19:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
