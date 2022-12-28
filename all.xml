@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 07:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 08:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : South Korea's first lunar probe, Danuri, successfully enters its target orbit.) - 2022.12.28 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1274</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1274</guid>
+            <pubDate>Wed, 28 Dec 2022 08:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221228_176/1672215231374LRMGa_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol grants a special pardon to former President Lee Myung-bak, canceling the remaining 15 years of his prison term.) - 2022.12.27 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1273</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1273</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1270</guid>
             <pubDate>Sat, 24 Dec 2022 08:18:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221224_143/1671867834692cwVhd_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The government decides it will downgrade the indoor mask mandate to a recommendation after reviewing infection trends and other risk factors.) - 2022.12.23 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1265</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1265</guid>
             <pubDate>Mon, 19 Dec 2022 08:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2022.12.18 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1264</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1264</guid>
-            <pubDate>Sun, 18 Dec 2022 08:18:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
