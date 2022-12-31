@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Dec 2022 07:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 08:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News - 2022.12.31 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1277</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1277</guid>
+            <pubDate>Sat, 31 Dec 2022 08:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221231_87/1672472979757XzXtX_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : COVID-19 testing will be mandatory for those entering from China.) - 2022.12.30 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1276</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1273</guid>
             <pubDate>Tue, 27 Dec 2022 08:19:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221227_268/1672128852510mH0Av_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The South Korean economy is forecast to grow less than two percent next year, bogged down by a slowdown in exports, high inflation and dismal employment.) - 2022.12.26 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1268</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1268</guid>
             <pubDate>Thu, 22 Dec 2022 08:19:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The government predicts the economic growth next year will be a meager one-point-six percent amid a global recession.) - 2022.12.21 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1267</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1267</guid>
-            <pubDate>Wed, 21 Dec 2022 08:19:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
