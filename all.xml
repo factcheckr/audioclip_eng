@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Jan 2023 08:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Jan 2023 09:14:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2023.01.01 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1278</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1278</guid>
+            <pubDate>Sun, 01 Jan 2023 09:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230101_241/1672561078817KwQxb_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News - 2022.12.31 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1277</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1277</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1274</guid>
             <pubDate>Wed, 28 Dec 2022 08:19:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221228_176/1672215231374LRMGa_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol grants a special pardon to former President Lee Myung-bak, canceling the remaining 15 years of his prison term.) - 2022.12.27 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1269</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1269</guid>
             <pubDate>Fri, 23 Dec 2022 08:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The prosecution summons main opposition Democratic Party chair Lee Jae-myung for questioning in an expanding probe into third-party bribery allegations.) - 2022.12.22 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1268</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1268</guid>
-            <pubDate>Thu, 22 Dec 2022 08:19:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
