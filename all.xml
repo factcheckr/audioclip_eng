@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 08:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 09:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : Seoul and Washington confirm that they are looking at enhanced joint efforts to counter nuclear threats from North Korea.) - 2023.01.03 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1280</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1280</guid>
+            <pubDate>Tue, 03 Jan 2023 09:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230103_288/1672733878687dffIK_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol reaffirms his commitment to reforming the labor, education and national pension systems.) - 2023.01.02 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1279</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1279</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1276</guid>
             <pubDate>Fri, 30 Dec 2022 08:18:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221230_267/1672388062554KAkDi_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol says a North Korean drone incursion cannot be tolerated, emphasizing "overwhelmingly superior war preparations.") - 2022.12.29 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1271</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1271</guid>
             <pubDate>Sun, 25 Dec 2022 08:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2022.12.24 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1270</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1270</guid>
-            <pubDate>Sat, 24 Dec 2022 08:18:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
