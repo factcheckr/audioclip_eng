@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 08:20:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 09:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : Main opposition Democratic Party chair Lee Jae-myung denies third-party bribery allegations against him as he appears for the prosecution's questioning as a suspect in a related investigation.) - 2023.01.10 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1287</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1287</guid>
+            <pubDate>Tue, 10 Jan 2023 09:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230110_128/1673338682697oyhsw_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : Talks on lifting the indoor mask mandate could begin next week if the rate of critical COVID-19 cases stabilizes.) - 2023.01.09 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1286</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1286</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1283</guid>
             <pubDate>Fri, 06 Jan 2023 08:19:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230106_146/16729930940131tFOI_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : South Korea is looking at resuming loudspeaker broadcasts to the North in the wake of a drone incursion which prenetrated a no-fly zone covering the presidential office.) - 2023.01.05 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1278</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1278</guid>
             <pubDate>Sun, 01 Jan 2023 09:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2022.12.31 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1277</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1277</guid>
-            <pubDate>Sat, 31 Dec 2022 08:18:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
