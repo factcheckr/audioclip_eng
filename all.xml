@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Jan 2023 04:25:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jan 2023 12:29:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : The special police unit investigating the Itaewon crowd crush announces its findings after concluding a 74-day probe.) - 2023.01.13 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1290</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1290</guid>
+            <pubDate>Fri, 13 Jan 2023 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230113_118/1673597626344y85S8_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol floats nuclear armament even as he admits the realistic option is to cooperate with the U.S. on the operation of its nuclear assets.) - 2023.01.12 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1289</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1289</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1286</guid>
             <pubDate>Mon, 09 Jan 2023 08:20:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230109_230/1673252292092zAzLS_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2023.01.08 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1281</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1281</guid>
             <pubDate>Wed, 04 Jan 2023 08:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Seoul and Washington confirm that they are looking at enhanced joint efforts to counter nuclear threats from North Korea.) - 2023.01.03 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1280</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1280</guid>
-            <pubDate>Tue, 03 Jan 2023 09:15:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
