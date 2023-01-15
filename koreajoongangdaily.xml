@@ -4,7 +4,7 @@
         <title>오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Jan 2023 14:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jan 2023 15:14:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,7 +37,6 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1781</guid>
             <pubDate>Fri, 06 Jan 2023 07:13:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221216_68/1671156574912ozmcc_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Government shutdown and stopgap budget]]></title>
