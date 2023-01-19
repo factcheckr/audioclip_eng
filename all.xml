@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Jan 2023 07:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 08:20:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -155,6 +155,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : Police raid unions as part of a probe into alleged irregularities at construction sites.) - 2023.01.19 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1296</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1296</guid>
+            <pubDate>Thu, 19 Jan 2023 08:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230119_196/1674116037397yTjqV_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : The National Intelligence Service raids a major umbrella labor union as part of an investigation into a violation of the National Security Act.) - 2023.01.18 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1295</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1295</guid>
@@ -184,7 +192,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1292</guid>
             <pubDate>Sun, 15 Jan 2023 08:19:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230115_125/16737704255818GLgm_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2023.01.14 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -219,13 +226,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1287</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1287</guid>
             <pubDate>Tue, 10 Jan 2023 09:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Talks on lifting the indoor mask mandate could begin next week if the rate of critical COVID-19 cases stabilizes.) - 2023.01.09 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1286</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1286</guid>
-            <pubDate>Mon, 09 Jan 2023 08:20:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
