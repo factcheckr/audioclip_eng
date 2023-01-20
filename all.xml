@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 08:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 09:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,7 +110,6 @@
             <guid>https://audioclip.naver.com/channels/6395/clips/65</guid>
             <pubDate>Wed, 16 Nov 2022 17:28:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211129_123/1638177713182doieW_JPEG/WSJ_%C3%A4%B3%CE_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Vol.12_TECHNOLOGY_테크놀로지 (오디오클립 ─ 뉴스프레소 월스트리트저널 에디션)]]></title>
@@ -184,7 +183,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1294</guid>
             <pubDate>Tue, 17 Jan 2023 08:20:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230117_285/1673943235597yM1It_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The leaders of South Korea and the UAE meet to discuss ways to further their relations, with Abu Dhabi pledging to invest 30 billion dollars in South Korea.) - 2023.01.16 PM5 (오디오클립 ─ KBS English News)]]></title>
