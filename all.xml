@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Jan 2023 07:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jan 2023 08:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -154,6 +154,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2023.01.23 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1300</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1300</guid>
+            <pubDate>Mon, 23 Jan 2023 08:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230123_217/16744616389635yFf1_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News - 2023.01.22 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1299</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1299</guid>
@@ -175,7 +183,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1297</guid>
             <pubDate>Fri, 20 Jan 2023 08:20:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230120_172/1674202471080F37m6_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Police raid unions as part of a probe into alleged irregularities at construction sites.) - 2023.01.19 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -217,13 +224,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1291</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1291</guid>
             <pubDate>Sat, 14 Jan 2023 08:18:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The special police unit investigating the Itaewon crowd crush announces its findings after concluding a 74-day probe.) - 2023.01.13 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1290</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1290</guid>
-            <pubDate>Fri, 13 Jan 2023 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
