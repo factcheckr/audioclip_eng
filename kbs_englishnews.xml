@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 07:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 09:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : The nation is gripped by a severe cold spell, with heavy snowfall in store for the central region.) - 2023.01.25 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1302</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1302</guid>
+            <pubDate>Wed, 25 Jan 2023 09:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230125_148/1674634523687IW1f2_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News - 2023.01.24 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1301</link>
@@ -29,7 +37,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1299</guid>
             <pubDate>Sun, 22 Jan 2023 08:18:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230122_3/1674375236029aRA5p_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2023.01.21 PM5]]></title>
@@ -71,13 +78,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1293</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1293</guid>
             <pubDate>Mon, 16 Jan 2023 08:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2023.01.15 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1292</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1292</guid>
-            <pubDate>Sun, 15 Jan 2023 08:19:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
