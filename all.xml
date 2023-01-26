@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 07:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 08:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -154,6 +154,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : The presidential office announces plans to expand energy vouchers for vulnerable groups as rival political parties collide over surging heating costs.) - 2023.01.26 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1303</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1303</guid>
+            <pubDate>Thu, 26 Jan 2023 08:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230126_5/1674720844617qeSbc_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : The nation is gripped by a severe cold spell, with heavy snowfall in store for the central region.) - 2023.01.25 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1302</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1302</guid>
@@ -175,7 +183,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1300</guid>
             <pubDate>Mon, 23 Jan 2023 08:20:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230123_217/16744616389635yFf1_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2023.01.22 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -217,13 +224,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1294</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1294</guid>
             <pubDate>Tue, 17 Jan 2023 08:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The leaders of South Korea and the UAE meet to discuss ways to further their relations, with Abu Dhabi pledging to invest 30 billion dollars in South Korea.) - 2023.01.16 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1293</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1293</guid>
-            <pubDate>Mon, 16 Jan 2023 08:20:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
