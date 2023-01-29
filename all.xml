@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Jan 2023 07:13:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Jan 2023 08:18:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -154,6 +154,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2023.01.29 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1306</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1306</guid>
+            <pubDate>Sun, 29 Jan 2023 08:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230129_46/1674979104700STccl_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News - 2023.01.28 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1305</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1305</guid>
@@ -175,7 +183,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1303</guid>
             <pubDate>Thu, 26 Jan 2023 08:19:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230126_5/1674720844617qeSbc_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The nation is gripped by a severe cold spell, with heavy snowfall in store for the central region.) - 2023.01.25 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -217,13 +224,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1297</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1297</guid>
             <pubDate>Fri, 20 Jan 2023 08:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Police raid unions as part of a probe into alleged irregularities at construction sites.) - 2023.01.19 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1296</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1296</guid>
-            <pubDate>Thu, 19 Jan 2023 08:20:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
