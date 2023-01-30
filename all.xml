@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 14:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 15:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,6 +37,7 @@
             <guid>https://audioclip.naver.com/channels/259/clips/1781</guid>
             <pubDate>Tue, 24 Jan 2023 14:14:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221216_68/1671156574912ozmcc_PNG/%B4%BA%BF%E4%C4%BF_%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Government shutdown and stopgap budget (오디오클립 ─ 중앙그룹 뉴요커가 읽어주는 3분 뉴스)]]></title>
@@ -110,6 +111,7 @@
             <guid>https://audioclip.naver.com/channels/6395/clips/65</guid>
             <pubDate>Wed, 16 Nov 2022 17:28:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211129_123/1638177713182doieW_JPEG/WSJ_%C3%A4%B3%CE_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Vol.12_TECHNOLOGY_테크놀로지 (오디오클립 ─ 뉴스프레소 월스트리트저널 에디션)]]></title>
@@ -183,6 +185,7 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1304</guid>
             <pubDate>Fri, 27 Jan 2023 10:16:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230127_182/16748109647720q0iH_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The presidential office announces plans to expand energy vouchers for vulnerable groups as rival political parties collide over surging heating costs.) - 2023.01.26 PM5 (오디오클립 ─ KBS English News)]]></title>

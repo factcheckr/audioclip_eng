@@ -4,7 +4,7 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 14:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 15:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,6 +37,7 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1304</guid>
             <pubDate>Fri, 27 Jan 2023 10:16:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230127_182/16748109647720q0iH_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The presidential office announces plans to expand energy vouchers for vulnerable groups as rival political parties collide over surging heating costs.) - 2023.01.26 PM5]]></title>
