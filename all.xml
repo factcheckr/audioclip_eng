@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 07:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 08:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : South Korea and the U.S. carry out joint air drills involving U.S. strategic assets while North Korea threatens a tough reaction.) - 2023.02.02 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1310</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1310</guid>
+            <pubDate>Thu, 02 Feb 2023 08:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230202_64/1675325650522r9ql8_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : South Korea sees its exports declining for the fourth consecutive month in January, with its trade deficit hitting an all-time high.) - 2023.02.01 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1309</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1309</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1306</guid>
             <pubDate>Sun, 29 Jan 2023 08:18:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230129_46/1674979104700STccl_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2023.01.28 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1301</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1301</guid>
             <pubDate>Tue, 24 Jan 2023 08:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2023.01.23 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1300</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1300</guid>
-            <pubDate>Mon, 23 Jan 2023 08:20:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
