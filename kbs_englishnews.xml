@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 07:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 08:19:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : Former justice minister Cho Kuk is sentenced to two years in prison on charges related to academic irregularities involving his children and intervening in a state inspection.) - 2023.02.03 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1311</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1311</guid>
+            <pubDate>Fri, 03 Feb 2023 08:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230203_251/1675412044154p4ExO_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : South Korea and the U.S. carry out joint air drills involving U.S. strategic assets while North Korea threatens a tough reaction.) - 2023.02.02 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1310</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1307</guid>
             <pubDate>Mon, 30 Jan 2023 09:16:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230130_4/1675066496420wGvML_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2023.01.29 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1302</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1302</guid>
             <pubDate>Wed, 25 Jan 2023 09:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2023.01.24 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1301</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1301</guid>
-            <pubDate>Tue, 24 Jan 2023 08:19:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
