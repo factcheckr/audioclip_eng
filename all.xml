@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Feb 2023 07:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Feb 2023 08:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2023.02.05 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1313</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1313</guid>
+            <pubDate>Sun, 05 Feb 2023 08:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230205_66/1675584835193SPJGN_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News - 2023.02.04 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1312</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1312</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1309</guid>
             <pubDate>Wed, 01 Feb 2023 08:20:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230201_152/1675239246709CdRGs_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The defense chiefs of South Korea and the U.S. confirm Washington's extended deterrence and agree to expand joint military exercises this year.) - 2023.01.31 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1304</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1304</guid>
             <pubDate>Fri, 27 Jan 2023 10:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The presidential office announces plans to expand energy vouchers for vulnerable groups as rival political parties collide over surging heating costs.) - 2023.01.26 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1303</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1303</guid>
-            <pubDate>Thu, 26 Jan 2023 08:19:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
