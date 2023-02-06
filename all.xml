@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 07:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 12:32:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : Three opposition parties move to impeach interior minister Lee Sang-min over his responsibility for the Itaewon crowd crush.) - 2023.02.06 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1314</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1314</guid>
+            <pubDate>Mon, 06 Feb 2023 12:32:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230206_185/1675671271088k4waz_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News - 2023.02.05 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1313</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1313</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1310</guid>
             <pubDate>Thu, 02 Feb 2023 08:20:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230202_64/1675325650522r9ql8_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : South Korea sees its exports declining for the fourth consecutive month in January, with its trade deficit hitting an all-time high.) - 2023.02.01 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1305</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1305</guid>
             <pubDate>Sat, 28 Jan 2023 09:14:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The national pension fun is expected to completely run dry by 2055, two years earlier than initially projected.) - 2023.01.27 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1304</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1304</guid>
-            <pubDate>Fri, 27 Jan 2023 10:16:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
