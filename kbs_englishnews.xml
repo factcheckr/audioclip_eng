@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Feb 2023 07:14:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2023 08:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : Calling Türkiye a blood brother, South Korea will dispatch some 110 rescue workers and provide five million dollars in humanitarian aid to the quake-stricken country.) - 2023.02.07 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1315</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1315</guid>
+            <pubDate>Tue, 07 Feb 2023 08:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230207_81/1675757625412Wp1ul_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : Three opposition parties move to impeach interior minister Lee Sang-min over his responsibility for the Itaewon crowd crush.) - 2023.02.06 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1314</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1311</guid>
             <pubDate>Fri, 03 Feb 2023 08:19:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230203_251/1675412044154p4ExO_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : South Korea and the U.S. carry out joint air drills involving U.S. strategic assets while North Korea threatens a tough reaction.) - 2023.02.02 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1306</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1306</guid>
             <pubDate>Sun, 29 Jan 2023 08:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2023.01.28 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1305</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1305</guid>
-            <pubDate>Sat, 28 Jan 2023 09:14:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
