@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 07:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 08:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : North Korea showcases what is presumed to be a solid-fuel intercontinental ballistic missile during a massive military parade marking its army's founding anniversary.) - 2023.02.09 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1317</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1317</guid>
+            <pubDate>Thu, 09 Feb 2023 08:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230209_205/1675930547692i6Wwk_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : South Korea's disaster relief team arrives in quake-stricken Türkiye as the death toll from Monday's magnitude seven-point-eight earthquake tops eight-thousand.) - 2023.02.08 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1316</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1313</guid>
             <pubDate>Sun, 05 Feb 2023 08:18:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230205_66/1675584835193SPJGN_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2023.02.04 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1308</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1308</guid>
             <pubDate>Tue, 31 Jan 2023 08:20:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The indoor mask mandate is lifted, over two years after it came into force at height of the COVID-19 pandemic.) - 2023.01.30 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1307</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1307</guid>
-            <pubDate>Mon, 30 Jan 2023 09:16:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
