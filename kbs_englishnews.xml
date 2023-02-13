@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 07:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 08:21:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : President Yoon Suk Yeol instructs more support for Türkiye as Seoul prepares to send a second response team and relief supplies to the quake-stricken nation.) - 2023.02.13 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1321</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1321</guid>
+            <pubDate>Mon, 13 Feb 2023 08:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230213_181/1676276037570wbHjo_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News - 2023.02.12 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1320</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1317</guid>
             <pubDate>Thu, 09 Feb 2023 08:20:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230209_205/1675930547692i6Wwk_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : South Korea's disaster relief team arrives in quake-stricken Türkiye as the death toll from Monday's magnitude seven-point-eight earthquake tops eight-thousand.) - 2023.02.08 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1312</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1312</guid>
             <pubDate>Sat, 04 Feb 2023 08:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Former justice minister Cho Kuk is sentenced to two years in prison on charges related to academic irregularities involving his children and intervening in a state inspection.) - 2023.02.03 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1311</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1311</guid>
-            <pubDate>Fri, 03 Feb 2023 08:19:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
