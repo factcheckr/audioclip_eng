@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 07:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 08:21:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : President Yoon Suk Yeol pledges to freeze charges for public utilities in the first half of the year to ease household financial burdens.) - 2023.02.15 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1323</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1323</guid>
+            <pubDate>Wed, 15 Feb 2023 08:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230215_223/16764488346748YFYx_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : Top diplomats of Seoul, Tokyo and Washington reaffirm their commitment to the denuclearization of the Korean Peninsula.) - 2023.02.14 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1322</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1319</guid>
             <pubDate>Sat, 11 Feb 2023 08:19:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230211_89/1676101451672wEdgO_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Main opposition Democratic Party leader Lee Jae-myung slams the prosecution for failing to offer proof as he reappeared for questioning over land development-related corruption allegations.) - 2023.02.10 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1314</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1314</guid>
             <pubDate>Mon, 06 Feb 2023 12:32:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2023.02.05 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1313</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1313</guid>
-            <pubDate>Sun, 05 Feb 2023 08:18:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
