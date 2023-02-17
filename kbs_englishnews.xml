@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 08:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 09:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : The Democratic Party holds a rally to protest the prosecution's request for an arrest warrant for the main opposition party's leader.) - 2023.02.17 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1325</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1325</guid>
+            <pubDate>Fri, 17 Feb 2023 09:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230217_99/1676621867725oWSHo_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : Prosecutors file for a warrant to arrest Democratic Party chief Lee Jae-myung over allegations that he provided favors to private developers during his term as Seongnam city mayor.) - 2023.02.16 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1324</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1321</guid>
             <pubDate>Mon, 13 Feb 2023 08:21:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230213_181/1676276037570wbHjo_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2023.02.12 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1316</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1316</guid>
             <pubDate>Wed, 08 Feb 2023 08:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Calling Türkiye a blood brother, South Korea will dispatch some 110 rescue workers and provide five million dollars in humanitarian aid to the quake-stricken country.) - 2023.02.07 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1315</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1315</guid>
-            <pubDate>Tue, 07 Feb 2023 08:20:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
