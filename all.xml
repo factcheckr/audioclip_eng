@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 09:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 10:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : North Korea follows up an intercontinental ballistic missile launch over the weekend with two short-range ballistic missiles.) - 2023.02.20 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1327</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1327</guid>
+            <pubDate>Mon, 20 Feb 2023 10:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230220_266/1676882453304c3qj8_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : Prosecutors arrest Kim Man Bae, a key figure in the Daejang-dong Scandal again) - 2023.02.18 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1326</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1326</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1323</guid>
             <pubDate>Wed, 15 Feb 2023 08:21:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230215_223/16764488346748YFYx_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Top diplomats of Seoul, Tokyo and Washington reaffirm their commitment to the denuclearization of the Korean Peninsula.) - 2023.02.14 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1318</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1318</guid>
             <pubDate>Fri, 10 Feb 2023 08:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : North Korea showcases what is presumed to be a solid-fuel intercontinental ballistic missile during a massive military parade marking its army's founding anniversary.) - 2023.02.09 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1317</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1317</guid>
-            <pubDate>Thu, 09 Feb 2023 08:20:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
