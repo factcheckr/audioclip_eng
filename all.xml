@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 10:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 11:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : South Korea's total fertility rate plunges to another record low at zero-point-78, hovering at less than half of the OECD average.) - 2023.02.22 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1329</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1329</guid>
+            <pubDate>Wed, 22 Feb 2023 11:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230222_89/1677058347031cVA2g_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol instructs ministries to crack down on illegalities by labor unions in the construction industry.) - 2023.02.21 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1328</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1328</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1325</guid>
             <pubDate>Fri, 17 Feb 2023 09:16:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230217_99/1676621867725oWSHo_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Prosecutors file for a warrant to arrest Democratic Party chief Lee Jae-myung over allegations that he provided favors to private developers during his term as Seongnam city mayor.) - 2023.02.16 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1320</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1320</guid>
             <pubDate>Sun, 12 Feb 2023 08:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2023.02.11 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1319</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1319</guid>
-            <pubDate>Sat, 11 Feb 2023 08:19:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
