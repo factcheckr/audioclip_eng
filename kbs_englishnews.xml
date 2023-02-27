@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 08:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 09:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : The National Assembly votes on a motion sent by the prosecution to permit the arrest of Democratic Party chair Lee Jae-myung.) - 2023.02.27 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1333</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1333</guid>
+            <pubDate>Mon, 27 Feb 2023 09:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230227_272/1677487575441eyu9n_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol visits the National Intelligence Service and urges the agency to showcase its capacity to neutralize North Korean provocations.) - 2023.02.25 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1332</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1329</guid>
             <pubDate>Wed, 22 Feb 2023 11:14:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230222_89/1677058347031cVA2g_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol instructs ministries to crack down on illegalities by labor unions in the construction industry.) - 2023.02.21 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1324</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1324</guid>
             <pubDate>Thu, 16 Feb 2023 09:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : President Yoon Suk Yeol pledges to freeze charges for public utilities in the first half of the year to ease household financial burdens.) - 2023.02.15 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1323</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1323</guid>
-            <pubDate>Wed, 15 Feb 2023 08:21:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
