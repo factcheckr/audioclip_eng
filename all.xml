@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 08:21:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 09:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : The Democratic Party is rattled by the slim margin that saved its chief Lee Jae-myung from arrest in a National Assembly vote.) - 2023.02.28 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1334</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1334</guid>
+            <pubDate>Tue, 28 Feb 2023 09:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230228_216/1677572137431uLlPd_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : The National Assembly votes on a motion sent by the prosecution to permit the arrest of Democratic Party chair Lee Jae-myung.) - 2023.02.27 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1333</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1333</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1330</guid>
             <pubDate>Thu, 23 Feb 2023 11:14:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230223_192/1677145202926mEEo0_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : South Korea's total fertility rate plunges to another record low at zero-point-78, hovering at less than half of the OECD average.) - 2023.02.22 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1325</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1325</guid>
             <pubDate>Fri, 17 Feb 2023 09:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Prosecutors file for a warrant to arrest Democratic Party chief Lee Jae-myung over allegations that he provided favors to private developers during his term as Seongnam city mayor.) - 2023.02.16 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1324</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1324</guid>
-            <pubDate>Thu, 16 Feb 2023 09:16:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
