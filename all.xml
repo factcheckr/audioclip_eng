@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Mar 2023 08:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 09:17:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2023.03.01 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1335</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1335</guid>
+            <pubDate>Wed, 01 Mar 2023 09:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230301_214/16776584587512C5PS_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : The Democratic Party is rattled by the slim margin that saved its chief Lee Jae-myung from arrest in a National Assembly vote.) - 2023.02.28 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1334</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1334</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1331</guid>
             <pubDate>Fri, 24 Feb 2023 11:14:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230224_191/1677229926504xhXK4_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The Bank of Korea freezes the benchmark interest rate at three-point-five percent amid signs of a lengthy economic slowdown.) - 2023.02.23 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1326</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1326</guid>
             <pubDate>Sat, 18 Feb 2023 10:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The Democratic Party holds a rally to protest the prosecution's request for an arrest warrant for the main opposition party's leader.) - 2023.02.17 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1325</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1325</guid>
-            <pubDate>Fri, 17 Feb 2023 09:16:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
