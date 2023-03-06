@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 08:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 09:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : South Korea announces that a government-led fund will compensate the Korean victims of Japan's wartime forced labor in lieu of Japanese companies, angering support groups.) - 2023.03.06 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1339</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1339</guid>
+            <pubDate>Mon, 06 Mar 2023 09:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230306_111/1678090570039avnSU_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : North Korea Denounces Seoul-Washington military drills as a 'War Rehearsal') - 2023.03.04 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1338</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1338</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1335</guid>
             <pubDate>Wed, 01 Mar 2023 09:17:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230301_214/16776584587512C5PS_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The Democratic Party is rattled by the slim margin that saved its chief Lee Jae-myung from arrest in a National Assembly vote.) - 2023.02.28 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1330</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1330</guid>
             <pubDate>Thu, 23 Feb 2023 11:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : South Korea's total fertility rate plunges to another record low at zero-point-78, hovering at less than half of the OECD average.) - 2023.02.22 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1329</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1329</guid>
-            <pubDate>Wed, 22 Feb 2023 11:14:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
