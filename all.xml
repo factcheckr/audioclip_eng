@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 08:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 09:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : The police open an investigation into the apparent suicide of a former chief of staff of main opposition Democratic Party Chairman Lee Jae-myung.) - 2023.03.10 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1343</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1343</guid>
+            <pubDate>Fri, 10 Mar 2023 09:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230310_33/16784360859912X91w_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : The presidential office announces President Yoon Suk Yeol will visit Tokyo for a summit with Japanese Prime Minister Fumio Kishida next week.) - 2023.03.09 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1342</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1342</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1339</guid>
             <pubDate>Mon, 06 Mar 2023 09:17:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230306_111/1678090570039avnSU_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : North Korea Denounces Seoul-Washington military drills as a 'War Rehearsal') - 2023.03.04 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1334</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1334</guid>
             <pubDate>Tue, 28 Feb 2023 09:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The National Assembly votes on a motion sent by the prosecution to permit the arrest of Democratic Party chair Lee Jae-myung.) - 2023.02.27 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1333</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1333</guid>
-            <pubDate>Mon, 27 Feb 2023 09:17:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
