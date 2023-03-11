@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Mar 2023 08:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Mar 2023 09:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : Pre-Entry COVID-19 testing for arrivals from China are lifted from Saturday) - 2023.03.11 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1344</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1344</guid>
+            <pubDate>Sat, 11 Mar 2023 09:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230311_132/1678522442444R9pjK_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : The police open an investigation into the apparent suicide of a former chief of staff of main opposition Democratic Party Chairman Lee Jae-myung.) - 2023.03.10 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1343</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1343</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1340</guid>
             <pubDate>Tue, 07 Mar 2023 09:17:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230307_255/1678176833660kOH9A_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : South Korea announces that a government-led fund will compensate the Korean victims of Japan's wartime forced labor in lieu of Japanese companies, angering support groups.) - 2023.03.06 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1335</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1335</guid>
             <pubDate>Wed, 01 Mar 2023 09:17:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The Democratic Party is rattled by the slim margin that saved its chief Lee Jae-myung from arrest in a National Assembly vote.) - 2023.02.28 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1334</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1334</guid>
-            <pubDate>Tue, 28 Feb 2023 09:17:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
