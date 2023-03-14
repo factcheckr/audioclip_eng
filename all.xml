@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 08:23:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 09:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : Stocks crash in the wake of the sudden bankruptcy of Silicon Valley Bank in the U.S.) - 2023.03.14 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1346</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1346</guid>
+            <pubDate>Tue, 14 Mar 2023 09:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230314_81/16787816587379fNcW_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : North Korea says it test-fired two strategic cruise missiles from a submarine on Sunday.) - 2023.03.13 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1345</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1345</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1342</guid>
             <pubDate>Thu, 09 Mar 2023 09:17:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230309_30/1678349677088GRG5T_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol will make a state visit to Washington next month, with extended U.S. deterrence and cooperation in economic security on the agenda.) - 2023.03.08 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1337</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1337</guid>
             <pubDate>Fri, 03 Mar 2023 09:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Schools across the nation begin their new academic year with entrance ceremonies held without the indoor mask mandate for the first time in four years.) - 2023.03.02 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1336</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1336</guid>
-            <pubDate>Thu, 02 Mar 2023 09:16:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
