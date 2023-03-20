@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 08:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 09:16:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : The mask mandate for public transportation ends, but many passengers are still wearing one during rush hour.) - 2023.03.20 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1351</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1351</guid>
+            <pubDate>Mon, 20 Mar 2023 09:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230320_84/1679300211928QSIp8_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News - 2023.03.18 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1350</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1347</guid>
             <pubDate>Wed, 15 Mar 2023 09:16:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230315_194/1678868030911Gd0Ve_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Stocks crash in the wake of the sudden bankruptcy of Silicon Valley Bank in the U.S.) - 2023.03.14 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1342</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1342</guid>
             <pubDate>Thu, 09 Mar 2023 09:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : President Yoon Suk Yeol will make a state visit to Washington next month, with extended U.S. deterrence and cooperation in economic security on the agenda.) - 2023.03.08 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1341</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1341</guid>
-            <pubDate>Wed, 08 Mar 2023 09:18:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
