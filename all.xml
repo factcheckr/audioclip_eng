@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 08:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 09:15:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : President Yoon Suk Yeol says it's time for Seoul-Tokyo relations to move forward amid strong domestic backlash to his diplomatic push.) - 2023.03.21 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1352</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1352</guid>
+            <pubDate>Tue, 21 Mar 2023 09:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230321_44/1679386501842rgqE3_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : The mask mandate for public transportation ends, but many passengers are still wearing one during rush hour.) - 2023.03.20 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1351</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1351</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1348</guid>
             <pubDate>Thu, 16 Mar 2023 09:16:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230316_247/1678954543892TtAzx_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Mandatory mask-wearing on public transportation will end on Monday, but coverings will still be required at hospitals.) - 2023.03.15 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1343</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1343</guid>
             <pubDate>Fri, 10 Mar 2023 09:17:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The presidential office announces President Yoon Suk Yeol will visit Tokyo for a summit with Japanese Prime Minister Fumio Kishida next week.) - 2023.03.09 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1342</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1342</guid>
-            <pubDate>Thu, 09 Mar 2023 09:17:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
