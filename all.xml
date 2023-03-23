@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 16:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 17:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : The key interest rate gap between South Korea and the U.S. widens to the largest in 22 years following the Fed's 25-basis-point hike.) - 2023.03.23 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1354</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1354</guid>
+            <pubDate>Thu, 23 Mar 2023 17:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230323_285/1679568204169FraQs_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : Democratic Party chief Lee Jae-myung is indicted on five counts, including breach of duty, conflict of interest and corruption.) - 2023.03.22 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1353</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1353</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1350</guid>
             <pubDate>Sat, 18 Mar 2023 09:14:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230318_108/1679127276327am9U6_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol meets with senior Japanese political and business leaders on the second day of his working visit to Tokyo.) - 2023.03.17 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1345</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1345</guid>
             <pubDate>Mon, 13 Mar 2023 09:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Pre-Entry COVID-19 testing for arrivals from China are lifted from Saturday) - 2023.03.11 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1344</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1344</guid>
-            <pubDate>Sat, 11 Mar 2023 09:14:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
