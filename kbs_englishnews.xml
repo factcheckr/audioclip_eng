@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Mar 2023 07:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 08:18:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News - 2023.03.25 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1356</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1356</guid>
+            <pubDate>Sat, 25 Mar 2023 08:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230325_125/1679730282785t6A9v_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol pledges to make North Korea pay for its provocations as he commemorates West Sea Defense Day.) - 2023.03.24 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1355</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1352</guid>
             <pubDate>Tue, 21 Mar 2023 09:15:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230321_44/1679386501842rgqE3_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The mask mandate for public transportation ends, but many passengers are still wearing one during rush hour.) - 2023.03.20 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1347</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1347</guid>
             <pubDate>Wed, 15 Mar 2023 09:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Stocks crash in the wake of the sudden bankruptcy of Silicon Valley Bank in the U.S.) - 2023.03.14 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1346</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1346</guid>
-            <pubDate>Tue, 14 Mar 2023 09:17:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
