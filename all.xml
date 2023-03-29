@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 08:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 09:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : The government will spend 60 billion won to offer lodging and travel discounts to spur moribund consumption.) - 2023.03.29 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1359</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1359</guid>
+            <pubDate>Wed, 29 Mar 2023 09:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230329_41/1680077638871nETzc_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : North Korean leader Kim Jong-un calls for flawless preparations to use nuclear weapons at any time anywhere.) - 2023.03.28 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1358</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1358</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1355</guid>
             <pubDate>Fri, 24 Mar 2023 10:16:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230324_226/1679647455840mkW2i_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The key interest rate gap between South Korea and the U.S. widens to the largest in 22 years following the Fed's 25-basis-point hike.) - 2023.03.23 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1350</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1350</guid>
             <pubDate>Sat, 18 Mar 2023 09:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : President Yoon Suk Yeol meets with senior Japanese political and business leaders on the second day of his working visit to Tokyo.) - 2023.03.17 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1349</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1349</guid>
-            <pubDate>Fri, 17 Mar 2023 09:16:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
