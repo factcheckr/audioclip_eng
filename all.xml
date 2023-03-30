@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 08:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 09:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : President Yoon Suk Yeol swiftly announces his new national security adviser following Kim Sung-han's abrupt resignation.) - 2023.03.30 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1360</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1360</guid>
+            <pubDate>Thu, 30 Mar 2023 09:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230330_248/1680164085106BF4Ga_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : The government will spend 60 billion won to offer lodging and travel discounts to spur moribund consumption.) - 2023.03.29 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1359</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1359</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1356</guid>
             <pubDate>Sat, 25 Mar 2023 08:18:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230325_125/1679730282785t6A9v_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol pledges to make North Korea pay for its provocations as he commemorates West Sea Defense Day.) - 2023.03.24 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1351</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1351</guid>
             <pubDate>Mon, 20 Mar 2023 09:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2023.03.18 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1350</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1350</guid>
-            <pubDate>Sat, 18 Mar 2023 09:14:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
