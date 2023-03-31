@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 09:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 10:16:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : The U.S. detects additional attempts by Russia to acquire munitions from North Korea following a delivery of infantry rockets and missiles last year.) - 2023.03.31 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1361</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1361</guid>
+            <pubDate>Fri, 31 Mar 2023 10:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230331_129/1680253855279EyPFp_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol swiftly announces his new national security adviser following Kim Sung-han's abrupt resignation.) - 2023.03.30 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1360</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1360</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1357</guid>
             <pubDate>Mon, 27 Mar 2023 09:16:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230327_123/1679904838147EwCMB_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2023.03.25 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1352</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1352</guid>
             <pubDate>Tue, 21 Mar 2023 09:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The mask mandate for public transportation ends, but many passengers are still wearing one during rush hour.) - 2023.03.20 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1351</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1351</guid>
-            <pubDate>Mon, 20 Mar 2023 09:16:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
