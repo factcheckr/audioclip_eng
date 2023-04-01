@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Apr 2023 09:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 10:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News - 2023.04.01 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1362</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1362</guid>
+            <pubDate>Sat, 01 Apr 2023 10:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230401_232/1680342257601oTAWL_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : The U.S. detects additional attempts by Russia to acquire munitions from North Korea following a delivery of infantry rockets and missiles last year.) - 2023.03.31 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1361</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1358</guid>
             <pubDate>Tue, 28 Mar 2023 10:24:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230328_284/1679997438634QYnAX_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : North Korea conducts its eighth ballistic missile launch this year as a U.S. nuclear-powered aircraft carrier is set to arrive in Busan.) - 2023.03.27 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1353</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1353</guid>
             <pubDate>Wed, 22 Mar 2023 09:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : President Yoon Suk Yeol says it's time for Seoul-Tokyo relations to move forward amid strong domestic backlash to his diplomatic push.) - 2023.03.21 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1352</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1352</guid>
-            <pubDate>Tue, 21 Mar 2023 09:15:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
