@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 11:12:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 12:27:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News - 2023.04.03 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1363</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1363</guid>
+            <pubDate>Mon, 03 Apr 2023 12:27:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230403_93/1680519651284WF0pd_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News - 2023.04.01 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1362</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1359</guid>
             <pubDate>Wed, 29 Mar 2023 09:16:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230329_41/1680077638871nETzc_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : North Korean leader Kim Jong-un calls for flawless preparations to use nuclear weapons at any time anywhere.) - 2023.03.28 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1354</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1354</guid>
             <pubDate>Thu, 23 Mar 2023 17:14:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Democratic Party chief Lee Jae-myung is indicted on five counts, including breach of duty, conflict of interest and corruption.) - 2023.03.22 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1353</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1353</guid>
-            <pubDate>Wed, 22 Mar 2023 09:15:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
