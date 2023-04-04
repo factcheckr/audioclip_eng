@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 09:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 10:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : Wildfires rage for a third straight day with authorities issuing the highest response order for four locations.) - 2023.04.04 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1364</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1364</guid>
+            <pubDate>Tue, 04 Apr 2023 10:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230404_175/1680599948982Dwh2V_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News - 2023.04.03 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1363</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1363</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1360</guid>
             <pubDate>Thu, 30 Mar 2023 09:16:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230330_248/1680164085106BF4Ga_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The government will spend 60 billion won to offer lodging and travel discounts to spur moribund consumption.) - 2023.03.29 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1355</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1355</guid>
             <pubDate>Fri, 24 Mar 2023 10:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The key interest rate gap between South Korea and the U.S. widens to the largest in 22 years following the Fed's 25-basis-point hike.) - 2023.03.23 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1354</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1354</guid>
-            <pubDate>Thu, 23 Mar 2023 17:14:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
