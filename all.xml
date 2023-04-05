@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 09:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 10:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : Heavy rain and strong winds are forecast until Thursday, especially in Southern areas, Jeju Island and Mount Jiri.) - 2023.04.05 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1365</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1365</guid>
+            <pubDate>Wed, 05 Apr 2023 10:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230405_135/1680682804169Us17W_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : Wildfires rage for a third straight day with authorities issuing the highest response order for four locations.) - 2023.04.04 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1364</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1364</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1361</guid>
             <pubDate>Fri, 31 Mar 2023 10:16:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230331_129/1680253855279EyPFp_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol swiftly announces his new national security adviser following Kim Sung-han's abrupt resignation.) - 2023.03.30 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1356</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1356</guid>
             <pubDate>Sat, 25 Mar 2023 08:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : President Yoon Suk Yeol pledges to make North Korea pay for its provocations as he commemorates West Sea Defense Day.) - 2023.03.24 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1355</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1355</guid>
-            <pubDate>Fri, 24 Mar 2023 10:16:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
