@@ -4,9 +4,25 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 18:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 19:11:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : Samsung Electronics' operating profit plunges nearly 96 percent for the first quarter amid a slump in the global chip market.) - 2023.04.07 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1366</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1366</guid>
+            <pubDate>Fri, 07 Apr 2023 19:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230407_263/1680862699591TuRdB_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[News(Top News : Major investment banks forecast that an expansion of the South Korean economy above one percent this year will be challenging.) - 2023.04.06 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1367</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1367</guid>
+            <pubDate>Fri, 07 Apr 2023 19:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230407_219/1680862699846mhVBd_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : Heavy rain and strong winds are forecast until Thursday, especially in Southern areas, Jeju Island and Mount Jiri.) - 2023.04.05 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1365</link>
@@ -29,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1363</guid>
             <pubDate>Mon, 03 Apr 2023 12:27:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230403_93/1680519651284WF0pd_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2023.04.01 PM5]]></title>
@@ -37,7 +52,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1362</guid>
             <pubDate>Sat, 01 Apr 2023 10:14:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230401_232/1680342257601oTAWL_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The U.S. detects additional attempts by Russia to acquire munitions from North Korea following a delivery of infantry rockets and missiles last year.) - 2023.03.31 PM5]]></title>
@@ -65,20 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1358</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1358</guid>
             <pubDate>Tue, 28 Mar 2023 10:24:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : North Korea conducts its eighth ballistic missile launch this year as a U.S. nuclear-powered aircraft carrier is set to arrive in Busan.) - 2023.03.27 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1357</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1357</guid>
-            <pubDate>Mon, 27 Mar 2023 09:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2023.03.25 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1356</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1356</guid>
-            <pubDate>Sat, 25 Mar 2023 08:18:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
