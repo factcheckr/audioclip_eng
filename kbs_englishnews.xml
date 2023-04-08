@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Apr 2023 08:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Apr 2023 09:13:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : North Korea says it carried out another test of an underwater nuclear-capable attack drone this week) - 2023.04.08 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1368</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1368</guid>
+            <pubDate>Sat, 08 Apr 2023 09:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230408_264/16809412198583Rok7_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : Samsung Electronics' operating profit plunges nearly 96 percent for the first quarter amid a slump in the global chip market.) - 2023.04.07 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1366</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1364</guid>
             <pubDate>Tue, 04 Apr 2023 10:15:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230404_175/1680599948982Dwh2V_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The navies from South Korea, the U.S. and Japan kick off antisubmarine drills in waters off Jeju Island to counter threats from North Korea.) - 2023.04.03 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1359</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1359</guid>
             <pubDate>Wed, 29 Mar 2023 09:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : North Korean leader Kim Jong-un calls for flawless preparations to use nuclear weapons at any time anywhere.) - 2023.03.28 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1358</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1358</guid>
-            <pubDate>Tue, 28 Mar 2023 10:24:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
