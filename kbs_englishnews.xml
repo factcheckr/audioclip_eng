@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 08:19:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 09:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : The presidential office denies allegations that U.S. intelligence authorities eavesdropped on its premises.) - 2023.04.11 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1370</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1370</guid>
+            <pubDate>Tue, 11 Apr 2023 09:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230411_157/1681200888611XQThm_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : Leaked Pentagon documents reportedly show that the U.S. spied on its close allies, including South Korea's presidential office, igniting backlash from the opposition.) - 2023.04.10 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1369</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1367</guid>
             <pubDate>Fri, 07 Apr 2023 19:11:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230407_219/1680862699846mhVBd_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Heavy rain and strong winds are forecast until Thursday, especially in Southern areas, Jeju Island and Mount Jiri.) - 2023.04.05 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1361</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1361</guid>
             <pubDate>Fri, 31 Mar 2023 10:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : President Yoon Suk Yeol swiftly announces his new national security adviser following Kim Sung-han's abrupt resignation.) - 2023.03.30 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1360</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1360</guid>
-            <pubDate>Thu, 30 Mar 2023 09:16:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
