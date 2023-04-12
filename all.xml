@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 08:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 09:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : Fine dust reaches record levels for the year and is expected to blanket the country until Thursday.) - 2023.04.12 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1371</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1371</guid>
+            <pubDate>Wed, 12 Apr 2023 09:14:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230412_120/1681287398103d1BOu_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : The presidential office denies allegations that U.S. intelligence authorities eavesdropped on its premises.) - 2023.04.11 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1370</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1370</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1366</guid>
             <pubDate>Fri, 07 Apr 2023 19:11:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230407_263/1680862699591TuRdB_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Major investment banks forecast that an expansion of the South Korean economy above one percent this year will be challenging.) - 2023.04.06 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1362</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1362</guid>
             <pubDate>Sat, 01 Apr 2023 10:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The U.S. detects additional attempts by Russia to acquire munitions from North Korea following a delivery of infantry rockets and missiles last year.) - 2023.03.31 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1361</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1361</guid>
-            <pubDate>Fri, 31 Mar 2023 10:16:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
