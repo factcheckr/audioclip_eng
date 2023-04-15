@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Apr 2023 07:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Apr 2023 08:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News - 2023.04.15 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1374</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1374</guid>
+            <pubDate>Sat, 15 Apr 2023 08:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230415_127/1681544638134PNJrd_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : North Korea claims what it launched the previous day was a new type of solid-fuel intercontinental ballistic missile.) - 2023.04.14 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1373</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1370</guid>
             <pubDate>Tue, 11 Apr 2023 09:15:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230411_157/1681200888611XQThm_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Leaked Pentagon documents reportedly show that the U.S. spied on its close allies, including South Korea's presidential office, igniting backlash from the opposition.) - 2023.04.10 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1365</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1365</guid>
             <pubDate>Wed, 05 Apr 2023 10:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Wildfires rage for a third straight day with authorities issuing the highest response order for four locations.) - 2023.04.04 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1364</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1364</guid>
-            <pubDate>Tue, 04 Apr 2023 10:15:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
