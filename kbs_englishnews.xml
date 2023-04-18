@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 07:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 08:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : The UN Security Council response to North Korea's ICBM launch is blocked by China and Russia.) - 2023.04.18 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1376</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1376</guid>
+            <pubDate>Tue, 18 Apr 2023 08:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230418_113/1681805619245cnSE6_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : Democratic Party chief Lee Jae-myung apologizes over allegations that money changed hands ahead of a party convention to pick his predecessor.) - 2023.04.17 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1375</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1372</guid>
             <pubDate>Thu, 13 Apr 2023 10:15:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230413_165/1681376932504SnAL4_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Fine dust reaches record levels for the year and is expected to blanket the country until Thursday.) - 2023.04.12 PM5]]></title>
@@ -71,13 +78,6 @@
             <title><![CDATA[News(Top News : Samsung Electronics' operating profit plunges nearly 96 percent for the first quarter amid a slump in the global chip market.) - 2023.04.07 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1366</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1366</guid>
-            <pubDate>Fri, 07 Apr 2023 19:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Major investment banks forecast that an expansion of the South Korean economy above one percent this year will be challenging.) - 2023.04.06 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1367</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1367</guid>
             <pubDate>Fri, 07 Apr 2023 19:11:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
