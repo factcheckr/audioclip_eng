@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 07:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 08:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : The presidential office says Seoul's position on providing only humanitarian aid to war-ravaged Ukraine remains unchanged.) - 2023.04.20 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1378</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1378</guid>
+            <pubDate>Thu, 20 Apr 2023 08:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230420_197/1681978423628JoWrf_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : North Korean leader Kim Jong-un orders preparations for the launch of the regime's first military spy satellite.) - 2023.04.19 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1377</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1377</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1374</guid>
             <pubDate>Sat, 15 Apr 2023 08:17:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230415_127/1681544638134PNJrd_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : North Korea claims what it launched the previous day was a new type of solid-fuel intercontinental ballistic missile.) - 2023.04.14 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1369</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1369</guid>
             <pubDate>Mon, 10 Apr 2023 09:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : North Korea says it carried out another test of an underwater nuclear-capable attack drone this week) - 2023.04.08 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1368</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1368</guid>
-            <pubDate>Sat, 08 Apr 2023 09:13:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
