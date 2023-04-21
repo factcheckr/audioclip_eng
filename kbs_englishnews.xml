@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 07:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 08:18:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : The government is sending military aircraft to help South Koreans evacuate from Sudan, where over 300 people have died in clashes between the military and the paramilitary.) - 2023.04.21 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1379</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1379</guid>
+            <pubDate>Fri, 21 Apr 2023 08:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230421_183/1682064820957Adp97_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : The presidential office says Seoul's position on providing only humanitarian aid to war-ravaged Ukraine remains unchanged.) - 2023.04.20 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1378</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1375</guid>
             <pubDate>Mon, 17 Apr 2023 08:19:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230417_13/1681719236817eimM2_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2023.04.15 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1370</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1370</guid>
             <pubDate>Tue, 11 Apr 2023 09:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Leaked Pentagon documents reportedly show that the U.S. spied on its close allies, including South Korea's presidential office, igniting backlash from the opposition.) - 2023.04.10 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1369</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1369</guid>
-            <pubDate>Mon, 10 Apr 2023 09:15:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
