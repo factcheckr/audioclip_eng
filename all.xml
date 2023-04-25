@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 07:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 08:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : All 28 South Korean nationals evacuated from war-torn Sudan return home aboard a military aircraft in a mission codenamed "Operation Promise.") - 2023.04.25 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1382</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1382</guid>
+            <pubDate>Tue, 25 Apr 2023 08:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230425_47/1682410439176pwfMf_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol departs for the United States for the first state visit in 12 years by a South Korean head of state.) - 2023.04.24 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1381</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1381</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1378</guid>
             <pubDate>Thu, 20 Apr 2023 08:19:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230420_197/1681978423628JoWrf_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : North Korean leader Kim Jong-un orders preparations for the launch of the regime's first military spy satellite.) - 2023.04.19 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1373</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1373</guid>
             <pubDate>Fri, 14 Apr 2023 09:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : North Korea launches another ballistic missile, which Seoul suspects could be a solid-fuel intercontinental ballistic missile.) - 2023.04.13 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1372</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1372</guid>
-            <pubDate>Thu, 13 Apr 2023 10:15:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
