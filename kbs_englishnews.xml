@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 07:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 08:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : The leaders of South Korea and the U.S. agree to bolster the U.S.' extended deterrence measures against North Korea during a bilateral summit.) - 2023.04.27 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1384</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1384</guid>
+            <pubDate>Thu, 27 Apr 2023 08:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230427_199/1682583249564h3PNf_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol and U.S. Vice President Kamala Harris visit NASA's Goddard Space Flight Center, with the two countries inking an agreement on space exploration cooperation.) - 2023.04.26 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1383</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1380</guid>
             <pubDate>Sat, 22 Apr 2023 08:17:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230422_191/16821512207517VWQn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The government is sending military aircraft to help South Koreans evacuate from Sudan, where over 300 people have died in clashes between the military and the paramilitary.) - 2023.04.21 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1375</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1375</guid>
             <pubDate>Mon, 17 Apr 2023 08:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2023.04.15 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1374</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1374</guid>
-            <pubDate>Sat, 15 Apr 2023 08:17:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
