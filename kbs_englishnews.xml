@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 07:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 08:18:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : President Yoon Suk Yeol condemns the war in Ukraine as a violation of international law in his speech to the U.S. Congress.) - 2023.04.28 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1385</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1385</guid>
+            <pubDate>Fri, 28 Apr 2023 08:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230428_124/16826696310361MzOa_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : The leaders of South Korea and the U.S. agree to bolster the U.S.' extended deterrence measures against North Korea during a bilateral summit.) - 2023.04.27 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1384</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1381</guid>
             <pubDate>Mon, 24 Apr 2023 09:15:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230424_236/1682327621402AEaJ5_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol orders the deployment of the Korean Navy's Cheonghae Unit to waters near Sudan.) - 2023.04.22 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1376</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1376</guid>
             <pubDate>Tue, 18 Apr 2023 08:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Democratic Party chief Lee Jae-myung apologizes over allegations that money changed hands ahead of a party convention to pick his predecessor.) - 2023.04.17 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1375</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1375</guid>
-            <pubDate>Mon, 17 Apr 2023 08:19:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
