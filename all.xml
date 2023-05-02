@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 07:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 08:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : Ex-Democratic Party chief Song Young-gil accuses the prosecution of conducting a politically motivated investigation after being snubbed.) - 2023.05.02 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1388</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1388</guid>
+            <pubDate>Tue, 02 May 2023 08:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230502_107/1683015234519QyBTw_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : The nation's two major umbrella unions hold large-scale rallies in Seoul to commemorate Labor Day.) - 2023.05.01 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1387</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1387</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1384</guid>
             <pubDate>Thu, 27 Apr 2023 08:17:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230427_199/1682583249564h3PNf_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol and U.S. Vice President Kamala Harris visit NASA's Goddard Space Flight Center, with the two countries inking an agreement on space exploration cooperation.) - 2023.04.26 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1379</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1379</guid>
             <pubDate>Fri, 21 Apr 2023 08:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The presidential office says Seoul's position on providing only humanitarian aid to war-ravaged Ukraine remains unchanged.) - 2023.04.20 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1378</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1378</guid>
-            <pubDate>Thu, 20 Apr 2023 08:19:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
