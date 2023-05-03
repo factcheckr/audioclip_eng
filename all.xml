@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 07:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 08:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : President Yoon Suk Yeol says China's refusal to enforce UN sanctions on North Korea leaves Seoul no choice but to rely on U.S. extended deterrence.) - 2023.05.03 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1389</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1389</guid>
+            <pubDate>Wed, 03 May 2023 08:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230503_213/1683101626821XF4Dp_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : Ex-Democratic Party chief Song Young-gil accuses the prosecution of conducting a politically motivated investigation after being snubbed.) - 2023.05.02 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1388</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1388</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1385</guid>
             <pubDate>Fri, 28 Apr 2023 08:18:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230428_124/16826696310361MzOa_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The leaders of South Korea and the U.S. agree to bolster the U.S.' extended deterrence measures against North Korea during a bilateral summit.) - 2023.04.27 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1380</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1380</guid>
             <pubDate>Sat, 22 Apr 2023 08:17:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The government is sending military aircraft to help South Koreans evacuate from Sudan, where over 300 people have died in clashes between the military and the paramilitary.) - 2023.04.21 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1379</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1379</guid>
-            <pubDate>Fri, 21 Apr 2023 08:18:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
