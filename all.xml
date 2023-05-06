@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 May 2023 07:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 May 2023 08:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : The World Health Organization ends its global health emergency designation for COVID-19) - 2023.05.06 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1392</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1392</guid>
+            <pubDate>Sat, 06 May 2023 08:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230506_220/1683360823287lB2Kl_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News - 2023.05.05 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1391</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1391</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1388</guid>
             <pubDate>Tue, 02 May 2023 08:18:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230502_107/1683015234519QyBTw_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The nation's two major umbrella unions hold large-scale rallies in Seoul to commemorate Labor Day.) - 2023.05.01 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1383</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1383</guid>
             <pubDate>Wed, 26 Apr 2023 08:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : All 28 South Korean nationals evacuated from war-torn Sudan return home aboard a military aircraft in a mission codenamed "Operation Promise.") - 2023.04.25 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1382</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1382</guid>
-            <pubDate>Tue, 25 Apr 2023 08:18:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
