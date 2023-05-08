@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 07:14:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 08:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : Resuming their shuttle diplomacy, South Korea and Japan agree to closer cooperation amid North Korean threats in a summit in Seoul.) - 2023.05.08 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1393</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1393</guid>
+            <pubDate>Mon, 08 May 2023 08:19:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230508_248/16835336289144cLWz_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : The World Health Organization ends its global health emergency designation for COVID-19) - 2023.05.06 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1392</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1392</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1389</guid>
             <pubDate>Wed, 03 May 2023 08:18:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230503_213/1683101626821XF4Dp_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Ex-Democratic Party chief Song Young-gil accuses the prosecution of conducting a politically motivated investigation after being snubbed.) - 2023.05.02 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1384</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1384</guid>
             <pubDate>Thu, 27 Apr 2023 08:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : President Yoon Suk Yeol and U.S. Vice President Kamala Harris visit NASA's Goddard Space Flight Center, with the two countries inking an agreement on space exploration cooperation.) - 2023.04.26 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1383</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1383</guid>
-            <pubDate>Wed, 26 Apr 2023 08:20:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
