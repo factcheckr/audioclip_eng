@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 07:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 08:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : People Power Party lawmaker Tae Young-ho steps down from the party's Supreme Council ahead of expected disciplinary measures.) - 2023.05.10 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1395</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1395</guid>
+            <pubDate>Wed, 10 May 2023 08:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230510_261/1683706430873SQ5Ux_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : Prosecutors place a key suspect in a massive stock price manipulation scandal under a 48-hour detention.) - 2023.05.09 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1394</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1391</guid>
             <pubDate>Fri, 05 May 2023 08:17:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230505_157/1683274429393VxErP_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The U.S. Federal Reserve raises its key interest rate by another quarter of a percentage point.) - 2023.05.04 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1386</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1386</guid>
             <pubDate>Sat, 29 Apr 2023 08:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : President Yoon Suk Yeol condemns the war in Ukraine as a violation of international law in his speech to the U.S. Congress.) - 2023.04.28 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1385</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1385</guid>
-            <pubDate>Fri, 28 Apr 2023 08:18:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
