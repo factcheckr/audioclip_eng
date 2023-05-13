@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 May 2023 07:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 May 2023 08:16:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : South Korea and Japan fail to agree on details for an inspect team to the Fukushima nuclear power plant) - 2023.05.13 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1398</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1398</guid>
+            <pubDate>Sat, 13 May 2023 08:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230513_38/1683965639408LwWR3_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : The government says South Korean inspectors set to visit Japan's Fukushima nuclear power plant will observe the entire process of the wastewater release and review the overall safety of the discharge.) - 2023.05.12 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1397</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1397</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1394</guid>
             <pubDate>Tue, 09 May 2023 08:18:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230509_220/1683620023843zPTv6_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Resuming their shuttle diplomacy, South Korea and Japan agree to closer cooperation amid North Korean threats in a summit in Seoul.) - 2023.05.08 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1389</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1389</guid>
             <pubDate>Wed, 03 May 2023 08:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Ex-Democratic Party chief Song Young-gil accuses the prosecution of conducting a politically motivated investigation after being snubbed.) - 2023.05.02 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1388</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1388</guid>
-            <pubDate>Tue, 02 May 2023 08:18:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
