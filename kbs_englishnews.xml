@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 05:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 08:18:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : President Yoon Suk Yeol vetoes the contentious Nursing Act, enraging nurses who say he broke a campaign promise.) - 2023.05.16 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1400</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1400</guid>
+            <pubDate>Tue, 16 May 2023 08:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230516_29/16842248281091vovC_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : The government will hike electricity and gas prices by five-point-three percent as state utility companies are saddled with losses and outstanding fees.) - 2023.05.15 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1399</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1396</guid>
             <pubDate>Thu, 11 May 2023 08:19:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230511_210/1683792839637iQjgb_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : People Power Party lawmaker Tae Young-ho steps down from the party's Supreme Council ahead of expected disciplinary measures.) - 2023.05.10 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1391</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1391</guid>
             <pubDate>Fri, 05 May 2023 08:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The U.S. Federal Reserve raises its key interest rate by another quarter of a percentage point.) - 2023.05.04 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1390</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1390</guid>
-            <pubDate>Thu, 04 May 2023 08:18:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
