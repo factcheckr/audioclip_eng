@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 07:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 08:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : President Yoon Suk Yeol is holding a summit with Canadian Prime Minister Justin Trudeau, who earlier spoke at the National Assembly.) - 2023.05.17 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1401</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1401</guid>
+            <pubDate>Wed, 17 May 2023 08:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230517_27/16843112516683JOgQ_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol vetoes the contentious Nursing Act, enraging nurses who say he broke a campaign promise.) - 2023.05.16 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1400</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1397</guid>
             <pubDate>Fri, 12 May 2023 08:17:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230512_205/1683879227309pzQ3q_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The government decides to lower the COVID-19 crisis level and lift the mandatory seven-day quarantine for infected patients in a major step towards ending the virus-induced health emergency.) - 2023.05.11 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1392</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1392</guid>
             <pubDate>Sat, 06 May 2023 08:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2023.05.05 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1391</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1391</guid>
-            <pubDate>Fri, 05 May 2023 08:17:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
