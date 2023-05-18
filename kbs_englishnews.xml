@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 08:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 09:14:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : President Yoon Suk Yeol calls for the spirit of the May 18 Gwangju Democratic Uprising to be upheld to stand up to forces that threaten freedom and democracy.) - 2023.05.18 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1402</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1402</guid>
+            <pubDate>Thu, 18 May 2023 09:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230518_158/1684398171232Qtfzc_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol is holding a summit with Canadian Prime Minister Justin Trudeau, who earlier spoke at the National Assembly.) - 2023.05.17 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1401</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1398</guid>
             <pubDate>Sat, 13 May 2023 08:16:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230513_38/1683965639408LwWR3_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The government says South Korean inspectors set to visit Japan's Fukushima nuclear power plant will observe the entire process of the wastewater release and review the overall safety of the discharge.) - 2023.05.12 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1393</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1393</guid>
             <pubDate>Mon, 08 May 2023 08:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The World Health Organization ends its global health emergency designation for COVID-19) - 2023.05.06 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1392</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1392</guid>
-            <pubDate>Sat, 06 May 2023 08:16:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
