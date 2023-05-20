@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 May 2023 02:30:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 03:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -154,6 +154,80 @@
             <guid>https://audioclip.naver.com/channels/6395/clips/58</guid>
             <pubDate>Wed, 16 Nov 2022 17:28:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[News(Top News : President Yoon Suk Yeol departs for Japan to attend the Group of Seven Summit in Hiroshima.) - 2023.05.19 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1403</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1403</guid>
+            <pubDate>Sat, 20 May 2023 03:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230519_198/1684484041413gwY77_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[News(Top News : President Yoon Suk Yeol calls for the spirit of the May 18 Gwangju Democratic Uprising to be upheld to stand up to forces that threaten freedom and democracy.) - 2023.05.18 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1402</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1402</guid>
+            <pubDate>Sat, 20 May 2023 03:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230518_158/1684398171232Qtfzc_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[News(Top News : President Yoon Suk Yeol is holding a summit with Canadian Prime Minister Justin Trudeau, who earlier spoke at the National Assembly.) - 2023.05.17 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1401</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1401</guid>
+            <pubDate>Sat, 20 May 2023 03:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230517_27/16843112516683JOgQ_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[News(Top News : President Yoon Suk Yeol vetoes the contentious Nursing Act, enraging nurses who say he broke a campaign promise.) - 2023.05.16 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1400</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1400</guid>
+            <pubDate>Sat, 20 May 2023 03:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230516_29/16842248281091vovC_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[News(Top News : The government will hike electricity and gas prices by five-point-three percent as state utility companies are saddled with losses and outstanding fees.) - 2023.05.15 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1399</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1399</guid>
+            <pubDate>Sat, 20 May 2023 03:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[News(Top News : South Korea and Japan fail to agree on details for an inspect team to the Fukushima nuclear power plant) - 2023.05.13 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1398</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1398</guid>
+            <pubDate>Sat, 20 May 2023 03:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[News(Top News : The government says South Korean inspectors set to visit Japan's Fukushima nuclear power plant will observe the entire process of the wastewater release and review the overall safety of the discharge.) - 2023.05.12 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1397</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1397</guid>
+            <pubDate>Sat, 20 May 2023 03:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[News(Top News : The government decides to lower the COVID-19 crisis level and lift the mandatory seven-day quarantine for infected patients in a major step towards ending the virus-induced health emergency.) - 2023.05.11 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1396</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1396</guid>
+            <pubDate>Sat, 20 May 2023 03:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[News(Top News : People Power Party lawmaker Tae Young-ho steps down from the party's Supreme Council ahead of expected disciplinary measures.) - 2023.05.10 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1395</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1395</guid>
+            <pubDate>Sat, 20 May 2023 03:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[News(Top News : Prosecutors place a key suspect in a massive stock price manipulation scandal under a 48-hour detention.) - 2023.05.09 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1394</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1394</guid>
+            <pubDate>Sat, 20 May 2023 03:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
 </rss>
