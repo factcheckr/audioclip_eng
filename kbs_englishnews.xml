@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 May 2023 07:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 08:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News - 2023.05.20 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1404</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1404</guid>
+            <pubDate>Sat, 20 May 2023 08:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230520_267/1684570436515btEDa_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol departs for Japan to attend the Group of Seven Summit in Hiroshima.) - 2023.05.19 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1403</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1400</guid>
             <pubDate>Sat, 20 May 2023 03:15:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230516_29/16842248281091vovC_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The government will hike electricity and gas prices by five-point-three percent as state utility companies are saddled with losses and outstanding fees.) - 2023.05.15 PM5]]></title>
@@ -71,13 +78,6 @@
             <title><![CDATA[News(Top News : People Power Party lawmaker Tae Young-ho steps down from the party's Supreme Council ahead of expected disciplinary measures.) - 2023.05.10 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1395</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1395</guid>
-            <pubDate>Sat, 20 May 2023 03:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Prosecutors place a key suspect in a massive stock price manipulation scandal under a 48-hour detention.) - 2023.05.09 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1394</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1394</guid>
             <pubDate>Sat, 20 May 2023 03:15:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
