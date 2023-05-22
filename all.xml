@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 07:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 08:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : The leaders of South Korea and Japan pay tribute to the Korean victims of the 1945 atomic bombing of Hiroshima.) - 2023.05.22 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1405</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1405</guid>
+            <pubDate>Mon, 22 May 2023 08:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230522_209/1684743238614O1cws_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News - 2023.05.20 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1404</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1404</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1401</guid>
             <pubDate>Sat, 20 May 2023 03:15:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230517_27/16843112516683JOgQ_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol vetoes the contentious Nursing Act, enraging nurses who say he broke a campaign promise.) - 2023.05.16 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -219,13 +226,6 @@
             <title><![CDATA[News(Top News : The government decides to lower the COVID-19 crisis level and lift the mandatory seven-day quarantine for infected patients in a major step towards ending the virus-induced health emergency.) - 2023.05.11 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1396</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1396</guid>
-            <pubDate>Sat, 20 May 2023 03:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : People Power Party lawmaker Tae Young-ho steps down from the party's Supreme Council ahead of expected disciplinary measures.) - 2023.05.10 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1395</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1395</guid>
             <pubDate>Sat, 20 May 2023 03:15:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
