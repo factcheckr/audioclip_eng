@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 07:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 08:18:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : The planned liftoff of the Nuri space rocket is delayed after a technical glitch is found.) - 2023.05.24 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1407</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1407</guid>
+            <pubDate>Wed, 24 May 2023 08:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230524_152/1684916034931d4N8p_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : The nation's first domestically produced rocket, Nuri, is transported to a launch pad to carry satellites into orbit on Wednesday.) - 2023.05.23 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1406</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1406</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1403</guid>
             <pubDate>Sat, 20 May 2023 03:15:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230519_198/1684484041413gwY77_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol calls for the spirit of the May 18 Gwangju Democratic Uprising to be upheld to stand up to forces that threaten freedom and democracy.) - 2023.05.18 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -219,13 +226,6 @@
             <title><![CDATA[News(Top News : South Korea and Japan fail to agree on details for an inspect team to the Fukushima nuclear power plant) - 2023.05.13 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1398</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1398</guid>
-            <pubDate>Sat, 20 May 2023 03:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The government says South Korean inspectors set to visit Japan's Fukushima nuclear power plant will observe the entire process of the wastewater release and review the overall safety of the discharge.) - 2023.05.12 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1397</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1397</guid>
             <pubDate>Sat, 20 May 2023 03:15:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
