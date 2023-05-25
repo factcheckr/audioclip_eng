@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 08:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 09:14:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : The country's first homegrown space rocket, Nuri, will be launched Thursday evening following a glitch-driven postponement the previous day.) - 2023.05.25 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1408</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1408</guid>
+            <pubDate>Thu, 25 May 2023 09:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230525_275/1685004241007mWEjB_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : The planned liftoff of the Nuri space rocket is delayed after a technical glitch is found.) - 2023.05.24 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1407</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1404</guid>
             <pubDate>Sat, 20 May 2023 08:16:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230520_267/1684570436515btEDa_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol departs for Japan to attend the Group of Seven Summit in Hiroshima.) - 2023.05.19 PM5]]></title>
@@ -71,13 +78,6 @@
             <title><![CDATA[News(Top News : The government will hike electricity and gas prices by five-point-three percent as state utility companies are saddled with losses and outstanding fees.) - 2023.05.15 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1399</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1399</guid>
-            <pubDate>Sat, 20 May 2023 03:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : South Korea and Japan fail to agree on details for an inspect team to the Fukushima nuclear power plant) - 2023.05.13 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1398</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1398</guid>
             <pubDate>Sat, 20 May 2023 03:15:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
