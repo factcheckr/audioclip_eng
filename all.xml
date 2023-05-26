@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 07:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 08:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,7 +156,15 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[News - 2023.05.25 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <title><![CDATA[News(Top News : Five out of eight satellites carried by the Nuri make communication with ground stations following the space rocket's successful launch on Thursday.) - 2023.05.26 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1409</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1409</guid>
+            <pubDate>Fri, 26 May 2023 08:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230526_70/1685088848279vuWHH_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[News(Top News : South Korea successfully launches its homegrown space rocket, Nuri, with ground control confirming communication with the main satellite.) - 2023.05.25 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1408</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1408</guid>
             <pubDate>Thu, 25 May 2023 09:14:45 GMT</pubDate>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1405</guid>
             <pubDate>Mon, 22 May 2023 08:18:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230522_209/1684743238614O1cws_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2023.05.20 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -219,13 +226,6 @@
             <title><![CDATA[News(Top News : President Yoon Suk Yeol vetoes the contentious Nursing Act, enraging nurses who say he broke a campaign promise.) - 2023.05.16 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1400</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1400</guid>
-            <pubDate>Sat, 20 May 2023 03:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The government will hike electricity and gas prices by five-point-three percent as state utility companies are saddled with losses and outstanding fees.) - 2023.05.15 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1399</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1399</guid>
             <pubDate>Sat, 20 May 2023 03:15:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
