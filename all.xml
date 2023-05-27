@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 May 2023 07:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 May 2023 08:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2023.05.27 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1410</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1410</guid>
+            <pubDate>Sat, 27 May 2023 08:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230527_251/1685175222964mvxsj_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : Five out of eight satellites carried by the Nuri make communication with ground stations following the space rocket's successful launch on Thursday.) - 2023.05.26 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1409</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1409</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1406</guid>
             <pubDate>Tue, 23 May 2023 08:19:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230523_75/1684829632855Bdag8_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The leaders of South Korea and Japan pay tribute to the Korean victims of the 1945 atomic bombing of Hiroshima.) - 2023.05.22 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -219,13 +226,6 @@
             <title><![CDATA[News(Top News : President Yoon Suk Yeol is holding a summit with Canadian Prime Minister Justin Trudeau, who earlier spoke at the National Assembly.) - 2023.05.17 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1401</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1401</guid>
-            <pubDate>Sat, 20 May 2023 03:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : President Yoon Suk Yeol vetoes the contentious Nursing Act, enraging nurses who say he broke a campaign promise.) - 2023.05.16 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1400</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1400</guid>
             <pubDate>Sat, 20 May 2023 03:15:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
