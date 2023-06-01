@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 07:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 08:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : Following Pyongyang's failed satellite launch on Wednesday, the North Korean leader's powerful sister, Kim Yo-Jong, says the regime will successfully put a military spy satellite into orbit soon.) - 2023.06.01 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1414</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1414</guid>
+            <pubDate>Thu, 01 Jun 2023 08:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230601_255/1685607223844M1nv5_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : North Korea's attempt to put a military spy satellite into orbit fails, but the regime vows to make a second launch soon.) - 2023.05.31 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1413</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1413</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1410</guid>
             <pubDate>Sat, 27 May 2023 08:16:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230527_251/1685175222964mvxsj_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Five out of eight satellites carried by the Nuri make communication with ground stations following the space rocket's successful launch on Thursday.) - 2023.05.26 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1405</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1405</guid>
             <pubDate>Mon, 22 May 2023 08:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2023.05.20 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1404</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1404</guid>
-            <pubDate>Sat, 20 May 2023 08:16:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
