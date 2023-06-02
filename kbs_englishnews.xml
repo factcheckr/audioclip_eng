@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 07:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 08:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : The South Korean military intends to reject any request by North Korea for the return of the debris from the space launch vehicle from Wednesday's failed launch.) - 2023.06.02 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1415</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1415</guid>
+            <pubDate>Fri, 02 Jun 2023 08:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230602_237/1685693649705843g7_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : Following Pyongyang's failed satellite launch on Wednesday, the North Korean leader's powerful sister, Kim Yo-Jong, says the regime will successfully put a military spy satellite into orbit soon.) - 2023.06.01 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1414</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1411</guid>
             <pubDate>Mon, 29 May 2023 08:18:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230529_27/1685348030286a9eaC_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2023.05.27 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1406</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1406</guid>
             <pubDate>Tue, 23 May 2023 08:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The leaders of South Korea and Japan pay tribute to the Korean victims of the 1945 atomic bombing of Hiroshima.) - 2023.05.22 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1405</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1405</guid>
-            <pubDate>Mon, 22 May 2023 08:18:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
