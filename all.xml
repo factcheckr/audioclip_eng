@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 07:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 08:18:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : President Yoon Suk Yeol orders an investigation into government support for solar panel projects, a key policy under the previous Moon administration.) - 2023.06.14 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1425</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1425</guid>
+            <pubDate>Wed, 14 Jun 2023 08:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230614_8/1686730385663olKIh_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol calls recent remarks on South Korea-U.S. relations by the Chinese ambassador to Seoul diplomatically inappropriate.) - 2023.06.13 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1424</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1424</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1421</guid>
             <pubDate>Fri, 09 Jun 2023 08:17:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230609_80/16862984625769RY30_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : A fish containing levels of a radioactive element significantly exceeding Japan's food safety standards is caught in waters near the Fukushima nuclear power plant. ) - 2023.06.08 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1416</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1416</guid>
             <pubDate>Sat, 03 Jun 2023 08:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The South Korean military intends to reject any request by North Korea for the return of the debris from the space launch vehicle from Wednesday's failed launch.) - 2023.06.02 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1415</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1415</guid>
-            <pubDate>Fri, 02 Jun 2023 08:18:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
