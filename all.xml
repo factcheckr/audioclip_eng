@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 07:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 08:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : The government begins daily briefings on Japan's wastewater release plan in a bid the tamp down on public concern.) - 2023.06.15 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1426</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1426</guid>
+            <pubDate>Thu, 15 Jun 2023 08:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230615_226/1686816829270KdGEd_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol orders an investigation into government support for solar panel projects, a key policy under the previous Moon administration.) - 2023.06.14 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1425</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1425</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1422</guid>
             <pubDate>Sat, 10 Jun 2023 08:16:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230610_41/1686383042925yQbK9_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The South Korean foreign ministry has summoned Beijing's ambassador to Seoul and warned against his controversial remarks about South Korea-U.S. relations.) - 2023.06.09 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1417</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1417</guid>
             <pubDate>Mon, 05 Jun 2023 08:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2023.06.03 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1416</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1416</guid>
-            <pubDate>Sat, 03 Jun 2023 08:16:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
