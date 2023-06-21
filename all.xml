@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 07:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 08:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : President Yoon Suk Yeol and rapper Psy team up to promote Busan's bid to host the 2030 World Expo.) - 2023.06.21 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1431</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1431</guid>
+            <pubDate>Wed, 21 Jun 2023 08:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230621_273/1687335232155JkKbh_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : The military will establish a drone command, which will carry out both offensive and defensive operations, in response to North Korea's drone incursions late last year.) - 2023.06.20 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1430</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1430</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1427</guid>
             <pubDate>Fri, 16 Jun 2023 08:17:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230616_202/1686903246613EVfgj_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The government begins daily briefings on Japan's wastewater release plan in a bid the tamp down on public concern.) - 2023.06.15 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1422</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1422</guid>
             <pubDate>Sat, 10 Jun 2023 08:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The South Korean foreign ministry has summoned Beijing's ambassador to Seoul and warned against his controversial remarks about South Korea-U.S. relations.) - 2023.06.09 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1421</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1421</guid>
-            <pubDate>Fri, 09 Jun 2023 08:17:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
