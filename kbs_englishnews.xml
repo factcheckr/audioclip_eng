@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jun 2023 07:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 08:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : President Yoon Suk Yeol holds a summit with Vietnamese President Vo Van Thuong to discuss strengthening bilateral ties, including over North Korea.) - 2023.06.23 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1433</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1433</guid>
+            <pubDate>Fri, 23 Jun 2023 08:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230623_92/1687508025409umiiF_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol kicks off a state visit to Vietnam after wrapping up his three-day trip to France.) - 2023.06.22 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1432</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1429</guid>
             <pubDate>Mon, 19 Jun 2023 08:20:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230619_71/1687162426002gwfi3_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2023.06.17 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1424</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1424</guid>
             <pubDate>Tue, 13 Jun 2023 08:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The presidential office finds fault with remarks by China's ambassador to Seoul warning not to bet against Beijing.) - 2023.06.12 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1423</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1423</guid>
-            <pubDate>Mon, 12 Jun 2023 09:15:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
