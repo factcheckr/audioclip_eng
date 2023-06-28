@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 07:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 08:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : Rain inundates the southern regions, with authorities raising the heavy rain alert level by a notch to the second-highest.) - 2023.06.28 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1437</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1437</guid>
+            <pubDate>Wed, 28 Jun 2023 08:20:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_195/16879400325005jiek_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : Japan decides to fully reinstate South Korea to its whitelist of preferential trading partners after nearly four years.) - 2023.06.27 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1436</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1436</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1433</guid>
             <pubDate>Fri, 23 Jun 2023 08:20:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol kicks off a state visit to Vietnam after wrapping up his three-day trip to France.) - 2023.06.22 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1428</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1428</guid>
             <pubDate>Sat, 17 Jun 2023 08:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The South Korean military salvages the sunken wreckage of a North Korean space launch vehicle that crashed into the Yellow Sea late last month.) - 2023.06.16 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1427</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1427</guid>
-            <pubDate>Fri, 16 Jun 2023 08:17:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
