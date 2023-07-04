@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jul 2023 07:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 08:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : IAEA Director General Rafael Grossi is in Japan to submit the final verification report on the safety of the Fukushima wastewater release plan.) - 2023.07.04 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1442</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1442</guid>
+            <pubDate>Tue, 04 Jul 2023 08:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : Parties trade heated barbs as the the IAEA is expected to deliver its report on Japan's Fukushima wastewater discharge plan on Tuesday.) - 2023.07.03 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1441</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1441</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1438</guid>
             <pubDate>Thu, 29 Jun 2023 08:26:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Rain inundates the southern regions, with authorities raising the heavy rain alert level by a notch to the second-highest.) - 2023.06.28 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1433</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1433</guid>
             <pubDate>Fri, 23 Jun 2023 08:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : President Yoon Suk Yeol kicks off a state visit to Vietnam after wrapping up his three-day trip to France.) - 2023.06.22 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1432</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1432</guid>
-            <pubDate>Thu, 22 Jun 2023 08:18:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
