@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 07:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 08:21:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : The main opposition slams the visiting IAEA chief for a so-called "biased" report on Japan's planned discharge of the Fukushima wastewater while the ruling party warns of false rumors.) - 2023.07.10 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1447</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1447</guid>
+            <pubDate>Mon, 10 Jul 2023 08:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : The Chief of the International Atomic Energy Agency arrives in Seoul to outline a report on Japan’s Fukushima water discharge.) - 2023.07.08 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1446</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1446</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1443</guid>
             <pubDate>Wed, 05 Jul 2023 08:21:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : IAEA Director General Rafael Grossi is in Japan to submit the final verification report on the safety of the Fukushima wastewater release plan.) - 2023.07.04 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1438</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1438</guid>
             <pubDate>Thu, 29 Jun 2023 08:26:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Rain inundates the southern regions, with authorities raising the heavy rain alert level by a notch to the second-highest.) - 2023.06.28 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1437</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1437</guid>
-            <pubDate>Wed, 28 Jun 2023 08:20:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
