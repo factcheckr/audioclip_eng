@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 07:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 08:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : North Korea fires an intercontinental ballistic missile into the East Sea, prompting President Yoon Suk Yeol to convene an emergency National Security Council meeting from Lithuania.) - 2023.07.12 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1449</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1449</guid>
+            <pubDate>Wed, 12 Jul 2023 08:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : As much as 200 millimeters of rain is forecast in southern Chungcheong and North Jeolla Province through Wednesday.) - 2023.07.11 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1448</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1448</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1445</guid>
             <pubDate>Fri, 07 Jul 2023 08:19:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol will hold summits with Japanese Prime Minister Fumio Kishida and other leaders on the sidelines of a NATO conference in Lithuania.) - 2023.07.06 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1440</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1440</guid>
             <pubDate>Sat, 01 Jul 2023 08:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The parliament passes a bill requiring hospitals to report births to ensure that no child is left unregistered by parents.) - 2023.06.30 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1439</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1439</guid>
-            <pubDate>Fri, 30 Jun 2023 08:18:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
