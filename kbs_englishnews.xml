@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 07:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 08:18:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : The government seeks further investigation into dereliction of duty by 12 officials in connection with a deadly underpass flooding in Cheongju.) - 2023.07.24 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1459</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1459</guid>
+            <pubDate>Mon, 24 Jul 2023 08:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : North Korea fires multiple cruise missiles toward the Yellow Sea.) - 2023.07.22 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1458</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1455</guid>
             <pubDate>Wed, 19 Jul 2023 08:17:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The death toll from the torrential rains that have battered the nation the past week, rises to 41, with nine missing.) - 2023.07.18 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1450</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1450</guid>
             <pubDate>Thu, 13 Jul 2023 08:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : North Korea fires an intercontinental ballistic missile into the East Sea, prompting President Yoon Suk Yeol to convene an emergency National Security Council meeting from Lithuania.) - 2023.07.12 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1449</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1449</guid>
-            <pubDate>Wed, 12 Jul 2023 08:20:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
