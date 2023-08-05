@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Aug 2023 07:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Aug 2023 08:20:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2023.08.05 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1470</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1470</guid>
+            <pubDate>Sat, 05 Aug 2023 08:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : Fourteen people are injured after a man in his 20s drives into pedestrians then starts a stabbing rampage in Bundang, prompting police to declare a public safety operation.) - 2023.08.04 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1469</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1469</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1466</guid>
             <pubDate>Tue, 01 Aug 2023 08:18:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : At least 17 people die from heat-related illnesses over the weekend, most of them seniors doing farm work.) - 2023.07.31 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1461</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1461</guid>
             <pubDate>Wed, 26 Jul 2023 08:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The Constitutional Court rejects the impeachment of interior minister Lee Sang-min over the handling of the deadly Itaewon crowd crush last year.) - 2023.07.25 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1460</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1460</guid>
-            <pubDate>Tue, 25 Jul 2023 08:18:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
