@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 07:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 08:19:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : Participants of the World Scout Jamboree will move out of the Saemangeum campsite as Typhoon Khanun is forecast to travel past the region.) - 2023.08.07 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1471</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1471</guid>
+            <pubDate>Mon, 07 Aug 2023 08:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News - 2023.08.05 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1470</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1467</guid>
             <pubDate>Wed, 02 Aug 2023 08:17:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol blames "cartels" in the construction industry for structural deficiencies found in underground parking lots at public apartments.) - 2023.08.01 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1462</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1462</guid>
             <pubDate>Thu, 27 Jul 2023 08:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : North Korea will hold a military parade overnight to mark the 70th anniversary of the Korean War Armistice Agreement.) - 2023.07.26 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1461</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1461</guid>
-            <pubDate>Wed, 26 Jul 2023 08:18:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
