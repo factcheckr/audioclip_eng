@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 07:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 08:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : Jamboree Scouts leave the Saemangeum campsite for Seoul and other regions due to the approaching typhoon.) - 2023.08.08 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1472</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1472</guid>
+            <pubDate>Tue, 08 Aug 2023 08:21:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : Participants of the World Scout Jamboree will move out of the Saemangeum campsite as Typhoon Khanun is forecast to travel past the region.) - 2023.08.07 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1471</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1471</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1468</guid>
             <pubDate>Thu, 03 Aug 2023 10:15:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The nation ups its heat crisis alert to the highest "serious" level as the number of heat-related deaths rise to 23.) - 2023.08.02 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1463</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1463</guid>
             <pubDate>Fri, 28 Jul 2023 08:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The U.S. Federal Reserve ups its key interest rate by a quarter percentage point to the highest level in 22 years.) - 2023.07.27 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1462</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1462</guid>
-            <pubDate>Thu, 27 Jul 2023 08:17:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
