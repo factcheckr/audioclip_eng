@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 07:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 08:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : President Yoon Suk Yeol hints at a possible breakthrough in cooperation on extended deterrence with the U.S. and Japan ahead of a trilateral summit.) - 2023.08.16 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1480</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1480</guid>
+            <pubDate>Wed, 16 Aug 2023 08:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol says the independence movement laid the foundation for a free democratic nation.) - 2023.08.15 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1479</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1479</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1476</guid>
             <pubDate>Sat, 12 Aug 2023 08:15:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Typhoon advisories are lifted as Khanun moves up to North Korea.) - 2023.08.11 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1471</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1471</guid>
             <pubDate>Mon, 07 Aug 2023 08:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2023.08.05 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1470</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1470</guid>
-            <pubDate>Sat, 05 Aug 2023 08:20:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
