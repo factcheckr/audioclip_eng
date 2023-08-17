@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 07:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 08:17:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : Democratic Party leader Lee Jae-myung appears at the prosecutors' office for questioning over alleged corruption in a land development project.) - 2023.08.17 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1481</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1481</guid>
+            <pubDate>Thu, 17 Aug 2023 08:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol hints at a possible breakthrough in cooperation on extended deterrence with the U.S. and Japan ahead of a trilateral summit.) - 2023.08.16 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1480</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1477</guid>
             <pubDate>Sun, 13 Aug 2023 08:15:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2023.08.12 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1472</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1472</guid>
             <pubDate>Tue, 08 Aug 2023 08:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Participants of the World Scout Jamboree will move out of the Saemangeum campsite as Typhoon Khanun is forecast to travel past the region.) - 2023.08.07 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1471</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1471</guid>
-            <pubDate>Mon, 07 Aug 2023 08:19:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
