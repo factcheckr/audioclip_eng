@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 07:13:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 08:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : The annual Ulchi Freedom Shield military exercise between South Kore and the U.S. kicks off, this year with combined field training at a larger scale than in the past.) - 2023.08.21 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1484</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1484</guid>
+            <pubDate>Mon, 21 Aug 2023 08:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : Leaders of S. Korea, U.S. and Japan Agree on a commitment to jointly deal with emerging regional threats during their Camp David trilateral summit.) - 2023.08.19 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1483</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1480</guid>
             <pubDate>Wed, 16 Aug 2023 08:17:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol says the independence movement laid the foundation for a free democratic nation.) - 2023.08.15 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1475</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1475</guid>
             <pubDate>Fri, 11 Aug 2023 08:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Typhoon Khanun makes landfall on the Korean Peninsula and closes in on Seoul.) - 2023.08.10 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1474</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1474</guid>
-            <pubDate>Thu, 10 Aug 2023 08:18:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
