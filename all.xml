@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 07:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 08:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : Japan will begin discharging wastewater from the Fukushima nuclear plant from Thursday. Seoul says it doesn't endorse the plan, but hasn't found scientific or technical reasons to oppose the release.) - 2023.08.22 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1485</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1485</guid>
+            <pubDate>Tue, 22 Aug 2023 08:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : The annual Ulchi Freedom Shield military exercise between South Kore and the U.S. kicks off, this year with combined field training at a larger scale than in the past.) - 2023.08.21 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1484</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1484</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1481</guid>
             <pubDate>Thu, 17 Aug 2023 08:17:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol hints at a possible breakthrough in cooperation on extended deterrence with the U.S. and Japan ahead of a trilateral summit.) - 2023.08.16 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1476</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1476</guid>
             <pubDate>Sat, 12 Aug 2023 08:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Typhoon advisories are lifted as Khanun moves up to North Korea.) - 2023.08.11 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1475</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1475</guid>
-            <pubDate>Fri, 11 Aug 2023 08:16:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
