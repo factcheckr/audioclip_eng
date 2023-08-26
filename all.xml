@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Aug 2023 07:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Aug 2023 08:15:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2023.08.26 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1489</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1489</guid>
+            <pubDate>Sat, 26 Aug 2023 08:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : Japan reportedly plans to announce data on tritium concentration levels around the crippled Fukushima nuclear power plant on Friday, a day after beginning the discharge of treated wastewater.) - 2023.08.25 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1488</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1488</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1485</guid>
             <pubDate>Tue, 22 Aug 2023 08:17:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The annual Ulchi Freedom Shield military exercise between South Kore and the U.S. kicks off, this year with combined field training at a larger scale than in the past.) - 2023.08.21 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1480</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1480</guid>
             <pubDate>Wed, 16 Aug 2023 08:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : President Yoon Suk Yeol says the independence movement laid the foundation for a free democratic nation.) - 2023.08.15 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1479</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1479</guid>
-            <pubDate>Tue, 15 Aug 2023 08:17:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
