@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 07:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 08:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : The nation's fertility rate falls to yet another all-time low of zero-point-seven in the second quarter.) - 2023.08.30 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1492</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1492</guid>
+            <pubDate>Wed, 30 Aug 2023 08:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : The government proposes a two-point-eight percent increase in next year's budget to 657 trillion won, the smallest on-year growth since 2005.) - 2023.08.29 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1491</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1491</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1488</guid>
             <pubDate>Fri, 25 Aug 2023 08:17:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Japan begins to discharge treated and diluted wastewater from the quake-crippled Fukushima nuclear power plant.) - 2023.08.24 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1483</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1483</guid>
             <pubDate>Sat, 19 Aug 2023 08:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The nominee for chief of the state broadcasting watchdog vows to restore the fairness in public service in local media.) - 2023.08.18 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1482</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1482</guid>
-            <pubDate>Fri, 18 Aug 2023 08:17:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
