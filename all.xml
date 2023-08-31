@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 07:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 08:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : North Korea test-fires two short-range tactical nuclear ballistic missiles into the East Sea on Wednesday as South Korea and the U.S. conduct joint military drills.) - 2023.08.31 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1493</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1493</guid>
+            <pubDate>Thu, 31 Aug 2023 08:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : The nation's fertility rate falls to yet another all-time low of zero-point-seven in the second quarter.) - 2023.08.30 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1492</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1492</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1489</guid>
             <pubDate>Sat, 26 Aug 2023 08:15:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Japan reportedly plans to announce data on tritium concentration levels around the crippled Fukushima nuclear power plant on Friday, a day after beginning the discharge of treated wastewater.) - 2023.08.25 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1484</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1484</guid>
             <pubDate>Mon, 21 Aug 2023 08:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Leaders of S. Korea, U.S. and Japan Agree on a commitment to jointly deal with emerging regional threats during their Camp David trilateral summit.) - 2023.08.19 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1483</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1483</guid>
-            <pubDate>Sat, 19 Aug 2023 08:15:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
