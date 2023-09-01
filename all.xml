@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 07:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 08:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : South Korea slaps yet another round of unilateral sanctions on North Korea to crack down on drone development and illicit financing of the regime's weapons of mass destruction program.) - 2023.09.01 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1494</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1494</guid>
+            <pubDate>Fri, 01 Sep 2023 08:17:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : North Korea test-fires two short-range tactical nuclear ballistic missiles into the East Sea on Wednesday as South Korea and the U.S. conduct joint military drills.) - 2023.08.31 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1493</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1493</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1490</guid>
             <pubDate>Mon, 28 Aug 2023 09:14:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2023.08.26 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1485</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1485</guid>
             <pubDate>Tue, 22 Aug 2023 08:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The annual Ulchi Freedom Shield military exercise between South Kore and the U.S. kicks off, this year with combined field training at a larger scale than in the past.) - 2023.08.21 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1484</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1484</guid>
-            <pubDate>Mon, 21 Aug 2023 08:17:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
