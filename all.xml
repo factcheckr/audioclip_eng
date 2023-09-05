@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 07:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 08:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : President Yoon Suk Yeol embarks on a weeklong trip to attend regional summits of the Association of Southeast Asian Nations and the Group of 20.) - 2023.09.05 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1497</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1497</guid>
+            <pubDate>Tue, 05 Sep 2023 08:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : Teachers are staging massive rallies across the country to call for the protection of their rights on the 49th day of mourning for a colleague who died in a apparent suicide.) - 2023.09.04 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1496</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1496</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1493</guid>
             <pubDate>Thu, 31 Aug 2023 08:18:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The nation's fertility rate falls to yet another all-time low of zero-point-seven in the second quarter.) - 2023.08.30 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1488</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1488</guid>
             <pubDate>Fri, 25 Aug 2023 08:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Japan begins to discharge treated and diluted wastewater from the quake-crippled Fukushima nuclear power plant.) - 2023.08.24 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1487</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1487</guid>
-            <pubDate>Thu, 24 Aug 2023 08:17:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
