@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 07:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 08:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : Yoon Says N. Korea’s Nuclear Program is Existential Threat to Indo-Pacific) - 2023.09.07 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1499</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1499</guid>
+            <pubDate>Thu, 07 Sep 2023 08:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : A top White House official warns that North Korea would “pay a price” if it sells weapons to Moscow.) - 2023.09.06 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1498</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1498</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1495</guid>
             <pubDate>Sat, 02 Sep 2023 08:16:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : South Korea slaps yet another round of unilateral sanctions on North Korea to crack down on drone development and illicit financing of the regime's weapons of mass destruction program.) - 2023.09.01 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1490</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1490</guid>
             <pubDate>Mon, 28 Aug 2023 09:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2023.08.26 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1489</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1489</guid>
-            <pubDate>Sat, 26 Aug 2023 08:15:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
