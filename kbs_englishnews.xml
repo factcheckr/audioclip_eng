@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Sep 2023 07:12:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 08:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News - 2023.09.09 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1501</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1501</guid>
+            <pubDate>Sat, 09 Sep 2023 08:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : North Korea announces the launch of a tactical nuclear attack submarine for the first time, boasting that it’s capable of executing an underwater nuclear attack. ) - 2023.09.08 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1500</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1497</guid>
             <pubDate>Tue, 05 Sep 2023 08:18:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Teachers are staging massive rallies across the country to call for the protection of their rights on the 49th day of mourning for a colleague who died in a apparent suicide.) - 2023.09.04 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1492</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1492</guid>
             <pubDate>Wed, 30 Aug 2023 08:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The government proposes a two-point-eight percent increase in next year's budget to 657 trillion won, the smallest on-year growth since 2005.) - 2023.08.29 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1491</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1491</guid>
-            <pubDate>Tue, 29 Aug 2023 08:18:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
