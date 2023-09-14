@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 01:51:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 02:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,7 +156,7 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[News - 2023.09.13 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <title><![CDATA[News(Top News : North Korean leader Kim Jong-un and Russian President Vladimir Putin meet to discuss what many believe will involve an arms deal.) - 2023.09.13 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1504</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1504</guid>
             <pubDate>Wed, 13 Sep 2023 08:17:40 GMT</pubDate>
