@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 07:13:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 08:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : President Yoon Suk Yeol vows to establish peace through strength during a ceremony marking the Incheon Landing Operation that featured the largest ever reenactment of the historic event.) - 2023.09.15 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1506</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1506</guid>
+            <pubDate>Fri, 15 Sep 2023 08:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : Unionized rail workers begin a four-day general strike, their first collective action in four years.) - 2023.09.14 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1505</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1505</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1502</guid>
             <pubDate>Mon, 11 Sep 2023 08:19:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2023.09.09 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1497</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1497</guid>
             <pubDate>Tue, 05 Sep 2023 08:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Teachers are staging massive rallies across the country to call for the protection of their rights on the 49th day of mourning for a colleague who died in a apparent suicide.) - 2023.09.04 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1496</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1496</guid>
-            <pubDate>Mon, 04 Sep 2023 08:18:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
