@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 07:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 08:18:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : The prosecution seeks a pretrial detention warrant for Democratic Party chief Lee Jae-myung as he is taken to a hospital after a prolonged hunger strike.) - 2023.09.18 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1508</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1508</guid>
+            <pubDate>Mon, 18 Sep 2023 08:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : Reduced Train Operations Continue on Rail Strike Day 3) - 2023.09.16 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1507</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1507</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1504</guid>
             <pubDate>Wed, 13 Sep 2023 08:17:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : North Korean leader Kim Jong-un is traveling through Russia by train for a rare summit with President Vladimir Putin for a possible arms deal.) - 2023.09.12 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1499</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1499</guid>
             <pubDate>Thu, 07 Sep 2023 08:17:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : A top White House official warns that North Korea would “pay a price” if it sells weapons to Moscow.) - 2023.09.06 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1498</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1498</guid>
-            <pubDate>Wed, 06 Sep 2023 08:18:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
