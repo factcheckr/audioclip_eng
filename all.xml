@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 07:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 08:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : President Yoon Suk Yeol slams Russia's invasion of Ukraine and the possibility of military cooperation between North Korea and Russia in an address at the United Nations.) - 2023.09.21 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1511</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1511</guid>
+            <pubDate>Thu, 21 Sep 2023 08:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : This year's UN General Assembly kicks off, with world leaders addressing the war in Ukraine and North Korea's nuclear weapons program.) - 2023.09.20 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1510</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1510</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1507</guid>
             <pubDate>Sat, 16 Sep 2023 08:16:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol vows to establish peace through strength during a ceremony marking the Incheon Landing Operation that featured the largest ever reenactment of the historic event.) - 2023.09.15 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1502</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1502</guid>
             <pubDate>Mon, 11 Sep 2023 08:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2023.09.09 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1501</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1501</guid>
-            <pubDate>Sat, 09 Sep 2023 08:15:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
