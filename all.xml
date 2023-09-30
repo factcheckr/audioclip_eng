@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Sep 2023 07:12:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Sep 2023 08:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,7 +156,15 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[News - 2023.09.29 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <title><![CDATA[News(Top News : Congestion on expressways nationwide continue on the third day of the Chuseok holiday,) - 2023.09.30 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1519</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1519</guid>
+            <pubDate>Sat, 30 Sep 2023 08:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[News(Top News : Main opposition Democratic Party leader Lee Jae-myung has proposed one-on-one talks with President Yoon Suk Yeol.) - 2023.09.29 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1518</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1518</guid>
             <pubDate>Fri, 29 Sep 2023 09:14:19 GMT</pubDate>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1515</guid>
             <pubDate>Tue, 26 Sep 2023 08:18:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : South Korea wins 6 gold medals at the Asian Games in Hangzhou, China so far.) - 2023.09.25 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1510</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1510</guid>
             <pubDate>Wed, 20 Sep 2023 08:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The government confirms the release of six billion dollars of Iranian funds frozen in South Korean banks due to U.S. sanctions against Tehran.) - 2023.09.19 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1509</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1509</guid>
-            <pubDate>Tue, 19 Sep 2023 08:18:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
