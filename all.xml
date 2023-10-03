@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Oct 2023 07:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Oct 2023 08:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,7 +156,15 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[News - 2023.10.02 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <title><![CDATA[News - 2023.10.03 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1521</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1521</guid>
+            <pubDate>Tue, 03 Oct 2023 08:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[News(Top News : The basic subway rate in the Seoul metropolitan area will beraised starting Saturday.) - 2023.10.02 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1520</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1520</guid>
             <pubDate>Mon, 02 Oct 2023 08:18:28 GMT</pubDate>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1517</guid>
             <pubDate>Thu, 28 Sep 2023 08:19:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : A Seoul court dismisses the prosecution's request to issue a pretrial detention warrant for opposition chief Lee Jae-myung, citing a lack of hard evidence.) - 2023.09.27 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1512</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1512</guid>
             <pubDate>Fri, 22 Sep 2023 08:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : President Yoon Suk Yeol slams Russia's invasion of Ukraine and the possibility of military cooperation between North Korea and Russia in an address at the United Nations.) - 2023.09.21 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1511</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1511</guid>
-            <pubDate>Thu, 21 Sep 2023 08:18:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
         </item>
     </channel>
