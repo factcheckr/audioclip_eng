@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 07:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 08:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : Suspicions of social media manipulation during the Asian Games prompts a police investigation and the formation of a government task force.) - 2023.10.04 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1522</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1522</guid>
+            <pubDate>Wed, 04 Oct 2023 08:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News - 2023.10.03 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1521</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1521</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1518</guid>
             <pubDate>Fri, 29 Sep 2023 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News :  The Chuseok holiday begins with nearly 80 percent of the nation on the road.) - 2023.09.28 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -221,13 +228,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1513</guid>
             <pubDate>Sat, 23 Sep 2023 08:16:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Democratic Party leaders offer to resign following defections within its ranks in a vote that paved the way for the pretrial detention of party chair Lee Jae-myung, set for next Tuesday.) - 2023.09.22 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1512</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1512</guid>
-            <pubDate>Fri, 22 Sep 2023 08:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
         </item>
     </channel>
 </rss>
