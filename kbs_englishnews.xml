@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 07:13:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 08:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : The opposition-strong National Assembly votes to reject Lee Gyun-ryong as the new Supreme Court chief justice.) - 2023.10.06 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1524</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1524</guid>
+            <pubDate>Fri, 06 Oct 2023 08:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : South Korea defeats Uzbekistan in the men's football semifinal of the Asian Games while beating Japan in baseball.) - 2023.10.05 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1523</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1520</guid>
             <pubDate>Mon, 02 Oct 2023 08:18:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Congestion on expressways nationwide continue on the third day of the Chuseok holiday,) - 2023.09.30 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1515</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1515</guid>
             <pubDate>Tue, 26 Sep 2023 08:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : South Korea wins 6 gold medals at the Asian Games in Hangzhou, China so far.) - 2023.09.25 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1514</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1514</guid>
-            <pubDate>Mon, 25 Sep 2023 08:19:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
