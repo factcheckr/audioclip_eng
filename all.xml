@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Oct 2023 07:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Oct 2023 08:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2023.10.07 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1525</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1525</guid>
+            <pubDate>Sat, 07 Oct 2023 08:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : The opposition-strong National Assembly votes to reject Lee Gyun-ryong as the new Supreme Court chief justice.) - 2023.10.06 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1524</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1524</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1521</guid>
             <pubDate>Tue, 03 Oct 2023 08:18:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The basic subway rate in the Seoul metropolitan area will beraised starting Saturday.) - 2023.10.02 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1516</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1516</guid>
             <pubDate>Wed, 27 Sep 2023 08:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Democratic Party Chairman Lee Jae-myung attends a warrant hearing to determine his pretrial detention over alleged breach of trust and bribery.) - 2023.09.26 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1515</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1515</guid>
-            <pubDate>Tue, 26 Sep 2023 08:18:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
