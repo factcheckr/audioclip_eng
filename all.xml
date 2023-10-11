@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 07:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 08:18:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : The death toll escalates in Israel's war with the Palestinian militant group Hamas as some 190 South Korean visitors return home.) - 2023.10.11 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1528</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1528</guid>
+            <pubDate>Wed, 11 Oct 2023 08:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol orders safety measures for South Koreans as the death toll from the surprise weekend attack on Israel by Palestinian militants nears one-thousand-600.) - 2023.10.10 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1527</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1527</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1524</guid>
             <pubDate>Fri, 06 Oct 2023 08:18:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : South Korea defeats Uzbekistan in the men's football semifinal of the Asian Games while beating Japan in baseball.) - 2023.10.05 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1519</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1519</guid>
             <pubDate>Sat, 30 Sep 2023 08:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Main opposition Democratic Party leader Lee Jae-myung has proposed one-on-one talks with President Yoon Suk Yeol.) - 2023.09.29 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1518</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1518</guid>
-            <pubDate>Fri, 29 Sep 2023 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
