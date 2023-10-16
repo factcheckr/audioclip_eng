@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 07:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 08:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : The U.S., Israel and Egypt agree to a humanitarian ceasefire as a South Korean military plane brings home 163 nationals.) - 2023.10.16 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1532</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1532</guid>
+            <pubDate>Mon, 16 Oct 2023 08:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : A South Korean military plane is bringing home 163 nationals from Israel,) - 2023.10.14 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1531</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1528</guid>
             <pubDate>Wed, 11 Oct 2023 08:18:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol orders safety measures for South Koreans as the death toll from the surprise weekend attack on Israel by Palestinian militants nears one-thousand-600.) - 2023.10.10 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1523</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1523</guid>
             <pubDate>Thu, 05 Oct 2023 08:19:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Suspicions of social media manipulation during the Asian Games prompts a police investigation and the formation of a government task force.) - 2023.10.04 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1522</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1522</guid>
-            <pubDate>Wed, 04 Oct 2023 08:19:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
