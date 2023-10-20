@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 07:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 08:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News((Top News : South Korea eyes moves by North Korea and Russia to join China in a stance against what they call U.S.-led hegemony.)) - 2023.10.20 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1536</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1536</guid>
+            <pubDate>Fri, 20 Oct 2023 08:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News((Top News : The Bank of Korea keeps rates steady at three-point-five percent, its sixth consecutive freeze in a row.)) - 2023.10.19 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1535</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1532</guid>
             <pubDate>Mon, 16 Oct 2023 08:19:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News((Top News : A South Korean military plane is bringing home 163 nationals from Israel,)) - 2023.10.14 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1527</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1527</guid>
             <pubDate>Tue, 10 Oct 2023 08:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News((Top News : The UN Security Council holds an emergency meeting on Sunday to discuss the surprise attack on Israel by Palestinian militants.)) - 2023.10.09 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1526</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1526</guid>
-            <pubDate>Mon, 09 Oct 2023 08:19:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
