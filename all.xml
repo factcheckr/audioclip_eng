@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 07:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 08:18:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : Families of the Itaewon crowd crush victims walk from the site of the tragedy to central Seoul calling for an independent probe on its one-year anniversary.) - 2023.10.30 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1544</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1544</guid>
+            <pubDate>Mon, 30 Oct 2023 08:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : Israeli forces expand air and ground operations in Gaza, causing Internet and communication to be cut off in the area) - 2023.10.28 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1543</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1543</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1540</guid>
             <pubDate>Wed, 25 Oct 2023 08:18:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : A presumed family of four crossed the eastern maritime border from North Korea reportedly wishing to defect.) - 2023.10.24 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1535</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1535</guid>
             <pubDate>Thu, 19 Oct 2023 08:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : U.S. President Joe Biden is visiting Israel to show support amid the war with Hamas as the leaders of China and Russia also hold talks.) - 2023.10.18 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1534</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1534</guid>
-            <pubDate>Wed, 18 Oct 2023 08:18:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
