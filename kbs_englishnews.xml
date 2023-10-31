@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 07:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 08:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : President Yoon Suk Yeol calls on a partisan parliament to approve a slim budget, blaming the hostile economic situation.) - 2023.10.31 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1545</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1545</guid>
+            <pubDate>Tue, 31 Oct 2023 08:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : Families of the Itaewon crowd crush victims walk from the site of the tragedy to central Seoul calling for an independent probe on its one-year anniversary.) - 2023.10.30 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1544</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1541</guid>
             <pubDate>Thu, 26 Oct 2023 08:17:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The UN chief calls for an immediate humanitarian ceasefire at a high-level meeting on the Israel-Hamas war at the UN Security Council.) - 2023.10.25 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1536</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1536</guid>
             <pubDate>Fri, 20 Oct 2023 08:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The Bank of Korea keeps rates steady at three-point-five percent, its sixth consecutive freeze in a row.) - 2023.10.19 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1535</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1535</guid>
-            <pubDate>Thu, 19 Oct 2023 08:18:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
