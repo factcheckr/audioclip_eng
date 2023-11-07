@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 07:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 08:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : A cold snap descends on the nation with the season's first cold wave alerts issued for Seoul and the central inland areas.) - 2023.11.07 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1551</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1551</guid>
+            <pubDate>Tue, 07 Nov 2023 08:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : The government bans short selling until the end of June, citing such illegal transactions by global investment banks and institutions.) - 2023.11.06 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1550</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1550</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1547</guid>
             <pubDate>Thu, 02 Nov 2023 08:17:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Exports increase for the first time in 13 months in October, helped by a smaller decline in semiconductor sales.) - 2023.11.01 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1542</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1542</guid>
             <pubDate>Fri, 27 Oct 2023 08:17:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : President Yoon Suk Yeol holds a summit with Qatari Emir Sheikh Tamim bin Hamad Al Thani in Doha before returning to Seoul.) - 2023.10.26 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1541</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1541</guid>
-            <pubDate>Thu, 26 Oct 2023 08:17:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
