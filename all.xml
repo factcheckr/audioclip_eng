@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 07:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 08:19:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : President Yoon Suk Yeol and visiting Italian President Sergio Mattarella begin summit talks in Seoul.) - 2023.11.08 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1552</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1552</guid>
+            <pubDate>Wed, 08 Nov 2023 08:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : A cold snap descends on the nation with the season's first cold wave alerts issued for Seoul and the central inland areas.) - 2023.11.07 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1551</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1551</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1548</guid>
             <pubDate>Fri, 03 Nov 2023 08:17:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Seoul's spy agency says North Korean leader Kim Jong-un ordered his officials to find ways to support Palestine amid the Israel-Hamas war.) - 2023.11.02 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1543</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1543</guid>
             <pubDate>Sat, 28 Oct 2023 08:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Israeli Forces kill the second-in-command of Hamas intelligence, who was considered one of the masterminds of the October 7th attack.) - 2023.10.27 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1542</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1542</guid>
-            <pubDate>Fri, 27 Oct 2023 08:17:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
