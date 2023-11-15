@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 07:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 08:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : President Yoon Suk Yeol departs for the United States on Wednesday to attend the Asia-Pacific Economic Cooperation Summit in San Francisco.) - 2023.11.15 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1558</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1558</guid>
+            <pubDate>Wed, 15 Nov 2023 08:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : The delinquency rate of credit card loans reaches the highest level in eight years.) - 2023.11.14 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1557</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1557</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1554</guid>
             <pubDate>Fri, 10 Nov 2023 08:17:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : South Korean foreign minister Park Jin holds talks with U.S. State Secretary Antony Blinken on countermeasures against military cooperation between North Korea and Russia.) - 2023.11.09 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1549</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1549</guid>
             <pubDate>Sat, 04 Nov 2023 08:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Rival parties continue to clash over the incorporation of Gimpo into Seoul.) - 2023.11.03 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1548</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1548</guid>
-            <pubDate>Fri, 03 Nov 2023 08:17:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
