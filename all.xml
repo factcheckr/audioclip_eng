@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 07:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 08:18:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : President Yoon Suk Yeol addresses the Asia-Pacific Economic Cooperation Summit for the first time and proposes a Carbon-Free Alliance and an APEC initiative on smart mobility.) - 2023.11.17 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1560</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1560</guid>
+            <pubDate>Fri, 17 Nov 2023 08:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : South Korea holds its annual state-administered College Scholastic Ability Test with more than half a million attending.) - 2023.11.16 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1559</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1559</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1556</guid>
             <pubDate>Mon, 13 Nov 2023 08:18:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : South Korea marks the International Memorial Day for United Nations Korean War Veterans in Busan) - 2023.11.11 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1551</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1551</guid>
             <pubDate>Tue, 07 Nov 2023 08:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The government bans short selling until the end of June, citing such illegal transactions by global investment banks and institutions.) - 2023.11.06 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1550</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1550</guid>
-            <pubDate>Mon, 06 Nov 2023 08:19:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
