@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 07:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 08:19:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,7 +156,15 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[News - 2023.11.25 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <title><![CDATA[News(Top News : North Korea begins restoring frontline guard posts inside the Demilitarized Zone that were destroyed under an inter-Korean agreement in 2018.) - 2023.11.27 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1568</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1568</guid>
+            <pubDate>Mon, 27 Nov 2023 08:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[News(Top News : President Yoon Suk Yeol and French President Emmanuel Macron exchange views on North Korea and other pending security issues during their Paris summit.) - 2023.11.25 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1567</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1567</guid>
             <pubDate>Sat, 25 Nov 2023 08:16:13 GMT</pubDate>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1564</guid>
             <pubDate>Wed, 22 Nov 2023 08:19:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : North Korea notifies Japan of its plan to launch a military reconnaissance satellite as early as Wednesday.) - 2023.11.21 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1559</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1559</guid>
             <pubDate>Thu, 16 Nov 2023 08:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : President Yoon Suk Yeol departs for the United States on Wednesday to attend the Asia-Pacific Economic Cooperation Summit in San Francisco.) - 2023.11.15 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1558</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1558</guid>
-            <pubDate>Wed, 15 Nov 2023 08:18:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
