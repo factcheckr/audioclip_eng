@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 07:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 08:18:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : Riyadh beats out Busan to become the host of the 2030 World Expo with more than two-thirds of BIE votes.) - 2023.11.29 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1570</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1570</guid>
+            <pubDate>Wed, 29 Nov 2023 08:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : The host city for the 2030 World Expo will be picked in Paris on Tuesday as South Korea wraps up its nine-year campaign.) - 2023.11.28 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1569</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1569</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1566</guid>
             <pubDate>Fri, 24 Nov 2023 08:17:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : North Korea says it too will no longer be bound by the 2018 inter-Korean military agreement a day after South Korea partially suspended the deal in response to Pyongyang's launch of a spy satellite.) - 2023.11.23 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1561</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1561</guid>
             <pubDate>Sat, 18 Nov 2023 08:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : President Yoon Suk Yeol addresses the Asia-Pacific Economic Cooperation Summit for the first time and proposes a Carbon-Free Alliance and an APEC initiative on smart mobility.) - 2023.11.17 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1560</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1560</guid>
-            <pubDate>Fri, 17 Nov 2023 08:18:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
