@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Nov 2023 07:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 08:18:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : A former close aide to main opposition Democratic Party chair Lee Jae-myung has been sentenced to five years in prison for receiving illicit election contributions.) - 2023.11.30 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1571</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1571</guid>
+            <pubDate>Thu, 30 Nov 2023 08:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : Riyadh beats out Busan to become the host of the 2030 World Expo with more than two-thirds of BIE votes.) - 2023.11.29 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1570</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1570</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1567</guid>
             <pubDate>Sat, 25 Nov 2023 08:16:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : President Yoon Suk Yeol arrives in Paris to support Busan's bid to host the 2030 World Expo ahead of the final vote.) - 2023.11.24 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1562</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1562</guid>
             <pubDate>Mon, 20 Nov 2023 08:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2023.11.18 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1561</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1561</guid>
-            <pubDate>Sat, 18 Nov 2023 08:16:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
