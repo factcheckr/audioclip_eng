@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 07:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 08:18:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : The National Assembly votes down the contentious pro-labor "yellow envelope" bill and three other bills on broadcasting laws vetoed by President Yoon Suk Yeol.) - 2023.12.08 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1578</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1578</guid>
+            <pubDate>Fri, 08 Dec 2023 08:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : The state audit agency hands down demerit recommendations for top officials, wrapping up its investigation into the death of a fisheries official who was shot by North Korea soldiers in 2020.) - 2023.12.07 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1577</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1577</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1574</guid>
             <pubDate>Mon, 04 Dec 2023 08:18:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2023.12.02 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1569</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1569</guid>
             <pubDate>Tue, 28 Nov 2023 08:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : North Korea begins restoring frontline guard posts inside the Demilitarized Zone that were destroyed under an inter-Korean agreement in 2018.) - 2023.11.27 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1568</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1568</guid>
-            <pubDate>Mon, 27 Nov 2023 08:19:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
