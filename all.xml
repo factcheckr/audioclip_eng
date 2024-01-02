@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 07:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 08:17:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : Main opposition Democratic Party chair Lee Jae-myung is attacked while on a visit to the southeastern port city of Busan. Police apprehend the assailant on site.) - 2024.01.02 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1599</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1599</guid>
+            <pubDate>Tue, 02 Jan 2024 08:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News - 2024.01.01 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1598</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1598</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1595</guid>
             <pubDate>Thu, 28 Dec 2023 08:18:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Actor Lee Sun-kyun, who starred in the Oscar-winning black comedy-thriller "Parasite," is found dead in an apparent suicide.) - 2023.12.27 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1590</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1590</guid>
             <pubDate>Fri, 22 Dec 2023 08:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : The strongest cold wave of the season prompts nationwide warnings and is expected to last throughout this weekend.) - 2023.12.21 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1589</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1589</guid>
-            <pubDate>Thu, 21 Dec 2023 08:18:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
