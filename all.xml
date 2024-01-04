@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 09:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 10:15:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2024.01.04 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1601</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1601</guid>
+            <pubDate>Thu, 04 Jan 2024 10:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : Main opposition Democratic Party leader Lee Jae-myung is in intensive care after making it through surgery after he was stabbed in the neck on Tuesday.) - 2024.01.03 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1600</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1600</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1597</guid>
             <pubDate>Sat, 30 Dec 2023 08:17:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : The ruling People Power Party's emergency leadership committee led by chairman Han Dong-hoon officially takes off Friday.) - 2023.12.29 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1592</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1592</guid>
             <pubDate>Mon, 25 Dec 2023 08:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : A fire breaks out at POSCO's Pohang Steelworks, and is/extinguished in two hours) - 2023.12.23 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1591</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1591</guid>
-            <pubDate>Sat, 23 Dec 2023 08:17:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
