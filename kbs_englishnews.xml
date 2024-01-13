@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Jan 2024 07:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jan 2024 08:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News(Top News : Radio Pyongyang goes off the air as North Korea shutters agencies handing South Korea.) - 2024.01.13 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1609</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1609</guid>
+            <pubDate>Sat, 13 Jan 2024 08:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News(Top News : South Korea and seven other countries back joint airstrikes by the United States and Britain against targets linked to Iran-backed Houthi militants in Yemen.) - 2024.01.12 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1608</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1605</guid>
             <pubDate>Tue, 09 Jan 2024 08:18:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Five-term Rep. Lee Sang-min joins the ruling People Power Party ahead of the general elections in April after leaving the main opposition Democratic Party last month.) - 2024.01.08 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1600</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1600</guid>
             <pubDate>Wed, 03 Jan 2024 08:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : Main opposition Democratic Party chair Lee Jae-myung is attacked while on a visit to the southeastern port city of Busan. Police apprehend the assailant on site.) - 2024.01.02 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1599</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1599</guid>
-            <pubDate>Tue, 02 Jan 2024 08:17:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
