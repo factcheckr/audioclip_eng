@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jan 2024 07:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 08:19:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News(Top News : A cold snap grips the Korean Peninsula with the mercury plunging to as low as minus ten degrees Celsius.) - 2024.01.22 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1616</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1616</guid>
+            <pubDate>Mon, 22 Jan 2024 08:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News(Top News : The U.S. says it cannot verify North Korea's claims of an underwater nuclear weapons systems test) - 2024.01.20 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1615</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1615</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1612</guid>
             <pubDate>Wed, 17 Jan 2024 08:19:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News(Top News : Yoon Vows to Respond Stronger to N. Korean Provocations.) - 2024.01.16 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1607</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1607</guid>
             <pubDate>Thu, 11 Jan 2024 08:18:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News(Top News : North Korean leader Kim Jong-un says Pyongyang has no intent to avoid war on the Korean Peninsula as he calls South Korea the "principal enemy.") - 2024.01.10 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1606</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1606</guid>
-            <pubDate>Wed, 10 Jan 2024 08:18:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
