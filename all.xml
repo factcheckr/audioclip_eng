@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Mar 2024 09:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Mar 2024 10:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2024.03.01 PM8 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1675</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1675</guid>
+            <pubDate>Fri, 01 Mar 2024 10:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News - 2024.03.01 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1674</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1674</guid>
@@ -180,12 +188,11 @@
             <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[News - 2024.02.28 PM8 (오디오클립 ─ KBS English News)]]></title>
+            <title><![CDATA[News - 2024.02.28 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1671</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1671</guid>
             <pubDate>Wed, 28 Feb 2024 10:15:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2024.02.27 PM8 (오디오클립 ─ KBS English News)]]></title>
@@ -220,13 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1666</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1666</guid>
             <pubDate>Sat, 24 Feb 2024 08:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2024.02.23 PM8 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1665</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1665</guid>
-            <pubDate>Fri, 23 Feb 2024 11:12:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
