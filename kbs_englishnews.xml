@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Aug 2024 07:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Aug 2024 08:20:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News - 2024.08.02 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1913</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1913</guid>
+            <pubDate>Fri, 02 Aug 2024 08:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News - 2024.08.01 PM8]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1912</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1909</guid>
             <pubDate>Fri, 02 Aug 2024 06:24:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2024.07.30 PM8]]></title>
@@ -71,13 +78,6 @@
             <title><![CDATA[News - 2024.07.27 PM5]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1902</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1902</guid>
-            <pubDate>Fri, 02 Aug 2024 06:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2024.07.26 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1904</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1904</guid>
             <pubDate>Fri, 02 Aug 2024 06:24:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
