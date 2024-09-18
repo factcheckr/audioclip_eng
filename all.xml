@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Sep 2024 09:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Sep 2024 10:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,22 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[News - 2024.09.18 PM5 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1986</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1986</guid>
+            <pubDate>Wed, 18 Sep 2024 10:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[News - 2024.09.18 PM8 (오디오클립 ─ KBS English News)]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/1985</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/1985</guid>
+            <pubDate>Wed, 18 Sep 2024 10:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[News - 2024.09.17 PM5 (오디오클립 ─ KBS English News)]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/1984</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1984</guid>
@@ -177,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1982</guid>
             <pubDate>Mon, 16 Sep 2024 10:19:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2024.09.14 PM5 (오디오클립 ─ KBS English News)]]></title>
@@ -185,7 +200,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/1981</guid>
             <pubDate>Sat, 14 Sep 2024 08:21:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2024.09.13 PM8 (오디오클립 ─ KBS English News)]]></title>
@@ -213,20 +227,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1977</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1977</guid>
             <pubDate>Thu, 12 Sep 2024 08:21:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2024.09.11 PM8 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1976</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1976</guid>
-            <pubDate>Wed, 11 Sep 2024 11:16:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2024.09.11 PM5 (오디오클립 ─ KBS English News)]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1975</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1975</guid>
-            <pubDate>Wed, 11 Sep 2024 08:21:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
