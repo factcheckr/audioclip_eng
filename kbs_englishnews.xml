@@ -4,9 +4,25 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Oct 2024 08:24:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Oct 2024 09:19:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News - 2024.10.01 PM8]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/2006</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/2006</guid>
+            <pubDate>Tue, 01 Oct 2024 09:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[News - 2024.10.01 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/2005</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/2005</guid>
+            <pubDate>Tue, 01 Oct 2024 09:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News - 2024.09.30 PM8]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/2004</link>
@@ -29,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/2002</guid>
             <pubDate>Sat, 28 Sep 2024 10:16:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2024.09.27 PM8]]></title>
@@ -37,7 +52,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/2001</guid>
             <pubDate>Fri, 27 Sep 2024 11:15:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2024.09.27 PM5]]></title>
@@ -65,20 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/1997</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/1997</guid>
             <pubDate>Wed, 25 Sep 2024 11:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2024.09.25 PM5]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1996</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1996</guid>
-            <pubDate>Wed, 25 Sep 2024 08:24:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2024.09.24 PM8]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/1995</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/1995</guid>
-            <pubDate>Tue, 24 Sep 2024 11:14:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
