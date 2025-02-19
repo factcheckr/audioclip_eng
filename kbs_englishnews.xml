@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS English News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Feb 2025 07:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Feb 2025 08:24:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[News - 2025.02.19 PM5]]></title>
+            <link>https://audioclip.naver.com/channels/3232/clips/2223</link>
+            <guid>https://audioclip.naver.com/channels/3232/clips/2223</guid>
+            <pubDate>Wed, 19 Feb 2025 08:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[News - 2025.02.18 PM8]]></title>
             <link>https://audioclip.naver.com/channels/3232/clips/2222</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3232/clips/2219</guid>
             <pubDate>Mon, 17 Feb 2025 08:24:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_24/1687886532135UwOvn_JPEG/podcast_news_e2.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[News - 2025.02.15 PM5]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3232/clips/2214</link>
             <guid>https://audioclip.naver.com/channels/3232/clips/2214</guid>
             <pubDate>Thu, 13 Feb 2025 08:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[News - 2025.02.12 PM8]]></title>
-            <link>https://audioclip.naver.com/channels/3232/clips/2213</link>
-            <guid>https://audioclip.naver.com/channels/3232/clips/2213</guid>
-            <pubDate>Wed, 12 Feb 2025 11:15:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
